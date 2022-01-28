@@ -1,6 +1,0 @@
-Titolo: Guess the Correlation
-
-Anno: 2016
-
-Descrizione: Released in 2016, Guess the Correlation is a minimalistic browser-based game with a purpose developed by Omar Wagih at the European Bioinformatics Institute. The game was developed to study human perception in scatter plots. Players are presented with a stream of scatter plots depicting the relationship between two random variables and are asked to guess how positively correlated they are. Guesses closer to the real correlation, are rewarded more points. The game features both single and two-player modes and has a retro 8-bit design and sound effects.Collected guesses are used to better understand how humans perceive correlations in scatter plots by identifying features within scatter plots, such as outliers, that cause players to over or under estimate the true correlation.By 1 February 2016, over 2 million guesses had been collected from 100,000 participants.
-

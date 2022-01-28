@@ -1,8 +1,0 @@
-Titolo: Crobots
-
-Anno: 1985
-
-Descrizione: Crobots is a programming game released for the first time by Tom Poindexter in December, 1985 as Shareware.
-The robots are controlled by a program written in a stripped-down version of C. The robot's mission is to seek out and destroy other robots, each running different programs. The robots can be controlled in order to move around the battlefield, scan the environment to find enemies and fire at enemies using a cannon.Crobots borrows the concept used from the game RobotWar that ran on the original Apple II computer. Robots were programmed in a proprietary programming language that was interpreted and included a real-time view of the game as it was played.
-In October, 2013, Poindexter released the source code of Crobots under the GPLv2 free software license.
-
