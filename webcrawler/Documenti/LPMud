@@ -1,0 +1,6 @@
+Titolo: LPMud
+
+Anno: 1989
+
+Descrizione: LPMud, abbreviated LP, is a family of MUD server software.  Its first instance, the original LPMud game driver, was developed in 1989 by Lars Pensjö (hence the LP in LPMud).  LPMud was innovative in its separation of the MUD infrastructure into a virtual machine (known as the driver) and a development framework written in the LPC programming language (known as the mudlib).
+

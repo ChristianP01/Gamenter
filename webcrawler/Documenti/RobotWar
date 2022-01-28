@@ -1,0 +1,5 @@
+Titolo: RobotWar
+
+Anno: 1981
+
+Descrizione: RobotWar is a programming game written by Silas Warner.  This game, along with the companion program RobotWrite, was originally developed in the TUTOR programming language on the PLATO system in the 1970s. Later the game was commercialized and adapted for the Apple II family of computers and published by Muse Software in 1981.  The premise is that in the distant future of 2002, war was declared hazardous to human health, and now countries settled their differences in a battle arena full of combat robots.  As the manual states, "The task set before you is: to program a robot, that no other robot can destroy!"The main activity of the game is to write a computer program that operates a (simulated) robot. The player selects multiple robots which do battle in an arena until only one is left standing. The robots do not have direct knowledge of the location or velocity of any of the other robots; they only use radar pulses to deduce distance, and perhaps use clever programming techniques to deduce velocity. There is no way for the player to actually take part in the battle.

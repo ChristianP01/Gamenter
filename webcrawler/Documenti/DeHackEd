@@ -1,0 +1,9 @@
+Titolo: DeHackEd
+
+Anno: 1993
+
+Descrizione: DeHackEd is an editor created by Greg Lewis for the executable of the original Doom that allows the operation of the executable to be changed. Version 3.1, the last update of the program, was released on February 26, 1997. Hit points, sounds, frame sequences, text strings, and several other miscellaneous values can be changed. Modifications can be distributed in the form of DeHackEd "patches" which can be applied to the executable. At the time DeHackEd was released, Doom was a closed-source program, and thus to allow new features to be made available, the only choice was to patch the executable (as opposed to being able to change the source, which can now be done since id Software has made public a release of the sources).
+The most common patches add fast monsters and weapons, player-seeking-self-detonating barrels, and so on. However, more balanced and artistic modifications can and have been made. Even though many advanced effects can be achieved with DeHackEd, it does not offer the complete flexibility that a custom source port can provide. Monster AI and armor classes are fixed for example.
+Older DeHackEd patches use a binary format of data to be applied to an executable file using the DeHackEd patching utility. Later versions of DeHackEd save their patches in a human-readable plain text format that can be edited with any text editor.
+Boom included the ability to load DeHackEd patches and effect changes to the game upon startup without any modification to the executable file. Other source ports added similar functionality, and command-line loadable DeHackEd support is now common with most modern source ports. Boom also provided the BEX (Boom EXtended) extensions for DeHackEd support. BEX allows greater flexibility in string editing, application of codepointers to any frame, and extra codepointers.
+
