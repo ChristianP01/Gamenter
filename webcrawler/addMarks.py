@@ -54,6 +54,7 @@ def getMark(game_name):
         raise Exception("Gioco non trovato")
 
 directory = '/home/christian/Università/Gestione dell\'informazione/Progetto/Documenti/'
+#In caso dovessi cambiare il path, commenta e aggiungi il tuo sotto, così quando lo committi li abbiamo entrambi e ognuno commenta quello dell'altro.
 
 for filename in os.listdir(directory):
 
