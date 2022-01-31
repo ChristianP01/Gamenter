@@ -33,6 +33,8 @@ def getMark(game_name):
                 print(f"{i}. {result}\n")
                 i += 1
 
+                
+            #Questa ripetizione è da sistemare, stavo pensando di fare una sorta di interfaccia stile Java da importare per prenderle i metodi.
             choice = input("Choose the right number: ")
             gamepage_link = domain+listed_games[int(choice)-1]
             print("il link è "+ gamepage_link)
@@ -61,7 +63,9 @@ for filename in os.listdir(directory):
     file_game = open(directory+filename,'r')
     game_name = file_game.readline()
     title = game_name[8:-1]
-    alreadyRanked = os.system(f"cat {directory+filename} | tail -n1")
+    alreadyRanked = os.system(f"tail {directory+filename} -n1") #Continua a dare errore
+    #if str(alreadyRanked).startswith("Valutazione"):
+        #continue       Se inizia con valutazione, skippa
     file_game.close()
     try:
             game_rank=getMark(title)
