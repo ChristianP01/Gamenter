@@ -34,6 +34,11 @@ for filename in os.listdir(directory):
         if (text_from_file.find("Valutazione:") < 0):
             print(f"\n\n\n############\n#{c}/{FILE_NUMBER}#\n############")
             title = game_name[8:-1]
+            if (title.find("(") > 0):
+                print("HO RIMOSSO (VIDEOGAME) #DEBUG")
+                #se ha tipo (videogame), lo rimuove ed aumenta l'efficacia della ricerca
+                #NB NB NB NB NSB non tiene conto di eventuali ( nel titolo, rimuove da dopo la prima ( indiscriminatamente
+                title = title[0:title.find("(")-1]
             print(f"Searching for {title}")
 
             #Chiusura del file in lettura e apertura del file in "append"
