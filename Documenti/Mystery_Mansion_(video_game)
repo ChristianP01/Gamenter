@@ -1,0 +1,12 @@
+Titolo: Mystery Mansion (video game)
+
+Anno: 1978
+
+Descrizione: Mystery Mansion is the name of a text-based adventure game written in 1978–1981 by Bill Wolpert while at the Naval Undersea Warfare Center in Keyport, Washington. It originally ran only on the HP HP-1000 minicomputer on the RTE (Real Time Executive) operating system, but was later ported by persons unknown to run under MPE (Multiprocessing Executive) on the HP-3000. Although the development dates make it contemporaneous with other seminal interactive fiction games such as Adventure and Dungeon (which went on to become the Zork series from Infocom), it remains relatively unknown due to the specialized computers and operating systems on which it ran.
+Two C-language ports exist, one by James Garnett while a graduate student at the University of Colorado, and another by Bob Sorem of the University of Minnesota (see illustration).  The former is a line-by-line exact port in K&R-style C that runs on most Unix-flavor operating systems, while the latter is an adaptation with features not in Wolpert's original in Borland C that runs only under DOS/Windows.
+The object of the single-player game is to find one's way through a run-down, foreboding mansion in order to find various treasures, solve a murder, sleep with the maid (if very lucky), and avoid getting "killed" in the process all before the mansion is destroyed by fire at midnight to end the game. In addition to the 3 rooms x 3 rooms x 3 stories cube-shaped mansion, there are gardens, tunnels, nefarious characters, and other obstacles to make one's way through or around. Being text-based, there are no illustrations at all, so the player has to imagine everything that is being described.
+
+Genere: Non specificato
+
+
+Valutazione: N/A

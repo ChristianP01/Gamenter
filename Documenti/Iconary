@@ -1,0 +1,10 @@
+Titolo: Iconary
+
+Anno: 2019
+
+Descrizione: Iconary is an AI-driven, Pictionary-style  online game developed at the Allen Institute for Artificial Intelligence. Publicly released in February 2019, the game is designed to encourage collaborative communication between a human player and the AI player AllenAI. Iconary is the first demonstration of an AI system capable of playing a Pictionary-like game with a human partner.Researchers at the institute intended Iconary to highlight the potential of collaborative communication with an AI agent in a game setting, as contrasted with other highly publicized AI-backed games that place humans in adversarial roles against an AI system. Pictionary creator Robert Angel noted of Iconary "it’s not me against you, it’s us as a team against another team”.The AllenAI system behind Iconary can compose scenes based on a given phrase for the human player to guess, as well as attempt to guess a phrase depicted by the human player. The AllenAI system combines elements of computer vision, natural language understanding, and commonsense reasoning to compose scenes or to make guesses about a scene. The system was trained using data from collaborative games between two human players, using over 75,000 unique phrases and a constrained set of 1,200 icons. The phrases used in Iconary describe complex scenes or activities, e.g., “people jogging in the park” or “engineer riding a train”. The  limited vocabulary of icons requires players to create novel combinations of icons to communicate a phrase to their partner, and to make use of abstract symbols (like arrows to signify motion) or contextual clues (like a stethoscope next to a figure of a person to signify "doctor") to successfully depict a concept.
+
+Genere: Non specificato
+
+
+Valutazione: N/A

@@ -1,0 +1,10 @@
+Titolo: Tom Clancy's H.A.W.X
+
+Anno: 2009
+
+Descrizione: Tom Clancy's H.A.W.X is an arcade flight video game developed by Ubisoft Bucharest and published by Ubisoft for Microsoft Windows, Xbox 360 and PlayStation 3, and by Gameloft for BlackBerry PlayBook, iOS, Palm Pre, Android and Symbian^3. It was released for Xbox 360 and PlayStation 3 in North America on March 3, 2009, for Windows on March 17, for iOS on December 9, for BlackBerry on January 8, 2010, for Palm Pre on April 2, for Android on September 13, and for Symbian on January 16, 2011. A Wii version was announced, but was ultimately canceled. In September 2010, a sequel titled Tom Clancy's H.A.W.X 2 was released for Xbox 360 and PlayStation 3. The Microsoft Windows and Wii versions were released in November 2010. In November 2018, Tom Clancy's H.A.W.X was added to the Xbox One's Backwards Compatibility list although only through physical media as it's not available on the Xbox Marketplace.The story of the game takes place during the time of Tom Clancy's Ghost Recon Advanced Warfighter 2. H.A.W.X is set in the near future where private military companies have essentially replaced government-run military in many countries.
+
+Genere: Non specificato
+
+
+Valutazione: 68
