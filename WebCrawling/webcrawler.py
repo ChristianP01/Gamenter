@@ -6,8 +6,8 @@ import time
 import urllib.parse
 import re
 
-PATH_FILE = "./wikipedia_url_testing.txt"
-PATH_DOCUMENT = "./Documenti/"
+PATH_FILE = "../wikipedia_url_testing.txt"
+PATH_DOCUMENT = "../Documenti/"
 DEBUG = False
 
 def dprint(f : function, s : str):
