@@ -15,12 +15,15 @@ def dprint(s):
 def readDocument(path):
     '''
     Funzione che legge il documento passato come path.
-    Il documento deve essere correttamente formattato
+    Il documento deve essere correttamente formattato.
+    Returna una tupla del tipo (titolo, descrizione)
     '''
     try:
         with open(path, "r") as file:
             content = file.read()
-            dprint(content)
+            title : str = content[content.find("Titolo:") + len("Titolo: ") : content.find("\n", content.find("Titolo:"))]
+            description : str = content[content.find("Descrizione:") + len("Descrizione: ") : content.find("\n", content.find("Descrizione:"))]
+            return (title, description)
     except:
         raise FileNotFoundError
 
@@ -48,12 +51,31 @@ if __name__ == "__main__":
 
     ix = open_dir("index")
 
-    #Questa roba andrà fatta per ogni file della cartella documenti, andandosi a prendere il titolo ed il contenuto
 
     writer = ix.writer()
-    #writer.add_document(title=u"My document", content=u"Contenuto")
+
 
     from os import listdir
 
     for f in listdir(PATH_TO_DOCUMENT):
-        readDocument(PATH_TO_DOCUMENT+"/"+f)
+        document = readDocument(PATH_TO_DOCUMENT+"/"+f)
+        #Writer accetta stringhe in unicode, ma ho letto che tutte le stringhe in python3 sono in unicode quindi polleg
+        writer.add_document(title=document[0], content=document[1])
+    
+    #Salva i documenti nell'indice
+    writer.commit()
+
+    #Creo oggetto searcher
+
+    from whoosh.query import *
+    with ix.searcher() as searcher:
+        par1 = input("Inserisci primo parametro: ")
+        par2 = input("Inserisci secondo parametro: ")
+        #Questa query matcha i documenti che contengono par1 e par2
+        query = And([Term("content", par1), Term("content", par2)])
+
+        results = searcher.search(query)
+        print(f"Totale risultati: {len(results)}")
+        print("Top 10 risultati")
+        for r in results:
+            print(r)
