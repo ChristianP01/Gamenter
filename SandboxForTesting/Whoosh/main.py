@@ -76,13 +76,7 @@ def searchQuery(gui, user_query):
     else:
         ix = index.open_dir("index")
 
-        
-
-
-
     #Creo oggetto searcher
-
-    
     with ix.searcher() as searcher:
         #Provo a fare una versione che prenda un numero indefinito di parametri
         word_list = user_query.split(" ")
@@ -93,7 +87,7 @@ def searchQuery(gui, user_query):
 
         results = searcher.search(query)
 
-        gui.resultsText.setPlainText("")
+        gui.resultsText.setPlainText("") #Inizializzo il valore iniziale del box risultati
 
-        for r in results:
-            gui.resultsText.setPlainText(str(gui.resultsText.toPlainText)+"\n"+str(r))
+        for r in results: #Appende i vari risultati singoli all'interno della lista
+            gui.resultsText.setPlainText(str(gui.resultsText.toPlainText())+str(r)+"\n")
