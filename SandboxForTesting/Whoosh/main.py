@@ -92,6 +92,7 @@ def searchQuery(gui, user_query):
             query = And([Term("content", word)])
 
         results = searcher.search(query)
+        
 
         gui.resultsText.setPlainText("")
 
