@@ -38,7 +38,7 @@ def readDocument(path):
 if __name__ == "__main__":
     pass
 
-def searchQuery(gui, user_query):
+def openIndex():
     #Sto copiando dal tutorial, ma direi di star creando appunto uno schema che ha
     #un titolo in formato testuale e un contenuto in formato testuale
     schema = Schema(title=TEXT(stored=True), content=TEXT)
@@ -75,7 +75,27 @@ def searchQuery(gui, user_query):
         writer.commit()
     else:
         ix = index.open_dir("index")
+    return ix
 
+
+
+def searchQueryCLI(user_query):
+    ix = openIndex()
+
+    searcher = ix.searcher()
+    while True:
+        #Provo a fare una versione che prenda un numero indefinito di parametri
+        word_list = user_query.split(" ")  
+        L = [] 
+        for word in word_list:
+            L.append(Term("content", word))
+        query = And(L)
+        results = searcher.search(query)
+        user_query = yield results
+
+
+def searchQuery(gui, user_query):
+    ix = openIndex()
     #Creo oggetto searcher
     with ix.searcher() as searcher:
         #Provo a fare una versione che prenda un numero indefinito di parametri
