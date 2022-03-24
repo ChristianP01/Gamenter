@@ -90,4 +90,4 @@ def searchQuery(gui, user_query):
         gui.resultsText.setPlainText("") #Inizializzo il valore iniziale del box risultati
 
         for r in results: #Appende i vari risultati singoli all'interno della lista
-            gui.resultsText.setPlainText(str(gui.resultsText.toPlainText())+str(r)+"\n")
+            gui.resultsText.setPlainText(str(gui.resultsText.toPlainText())+str(r['title'])+"\n")
