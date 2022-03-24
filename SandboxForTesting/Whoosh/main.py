@@ -40,30 +40,35 @@ if __name__ == "__main__":
 
     import os.path
     from whoosh.index import create_in
+    import whoosh.index as index
 
     if not os.path.exists("index"):
         os.mkdir("index")
-    ix = create_in("index", schema)
+        ix = create_in("index", schema)
+        #Una volta creato l'indice è possibile aprirlo
+        from whoosh.index import open_dir
 
-    #Una volta creato l'indice è possibile aprirlo
-
-    from whoosh.index import open_dir
-
-    ix = open_dir("index")
+        ix = open_dir("index")
 
 
-    writer = ix.writer()
+        writer = ix.writer()
 
 
-    from os import listdir
+        from os import listdir
 
-    for f in listdir(PATH_TO_DOCUMENT):
-        document = readDocument(PATH_TO_DOCUMENT+"/"+f)
-        #Writer accetta stringhe in unicode, ma ho letto che tutte le stringhe in python3 sono in unicode quindi polleg
-        writer.add_document(title=document[0], content=document[1])
-    
-    #Salva i documenti nell'indice
-    writer.commit()
+        for f in listdir(PATH_TO_DOCUMENT):
+            document = readDocument(PATH_TO_DOCUMENT+"/"+f)
+            #Writer accetta stringhe in unicode, ma ho letto che tutte le stringhe in python3 sono in unicode quindi polleg
+            writer.add_document(title=document[0], content=document[1])
+        
+        #Salva i documenti nell'indice
+        writer.commit()
+    else:
+        ix = index.open_dir("index")
+
+        
+
+
 
     #Creo oggetto searcher
 
