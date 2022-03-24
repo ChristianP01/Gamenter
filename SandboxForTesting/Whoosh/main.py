@@ -1,9 +1,16 @@
 '''
 Reference: https://whoosh.readthedocs.io/en/latest/quickstart.html
 '''
+from whoosh.fields import Schema, TEXT
+from whoosh.query import *
+from whoosh.index import open_dir
+from os import listdir
 
 DEBUG = True
 PATH_TO_DOCUMENT = "../../Documenti"
+
+def searchQuery2(user_query):
+    print(f"Stai cercando la query {user_query}")
 
 def dprint(s):
     '''
@@ -29,7 +36,9 @@ def readDocument(path):
 
 
 if __name__ == "__main__":
-    from whoosh.fields import Schema, TEXT
+    pass
+
+def searchQuery(gui, user_query):
     #Sto copiando dal tutorial, ma direi di star creando appunto uno schema che ha
     #un titolo in formato testuale e un contenuto in formato testuale
     schema = Schema(title=TEXT(stored=True), content=TEXT)
@@ -47,15 +56,10 @@ if __name__ == "__main__":
 
     #Una volta creato l'indice è possibile aprirlo
 
-    from whoosh.index import open_dir
-
     ix = open_dir("index")
-
-
     writer = ix.writer()
 
-
-    from os import listdir
+   
 
     for f in listdir(PATH_TO_DOCUMENT):
         document = readDocument(PATH_TO_DOCUMENT+"/"+f)
@@ -67,20 +71,18 @@ if __name__ == "__main__":
 
     #Creo oggetto searcher
 
-    from whoosh.query import *
+    
     with ix.searcher() as searcher:
         #Provo a fare una versione che prenda un numero indefinito di parametri
-        text = input("Inserisci la query: ")
-        word_list = text.split(" ")
+        word_list = user_query.split(" ")
         print(f"Lista parole: {word_list}")
         
         for word in word_list:
             query = And([Term("content", word)])
 
-        
-
         results = searcher.search(query)
-        print(f"Totale risultati: {len(results)}")
-        print("Top 10 risultati")
+
+        gui.resultsText.setPlainText("")
+
         for r in results:
-            print(r)
+            gui.resultsText.setPlainText(str(gui.resultsText.toPlainText)+"\n"+str(r))
