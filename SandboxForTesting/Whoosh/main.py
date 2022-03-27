@@ -102,8 +102,10 @@ def searchQuery(gui, user_query):
         word_list = user_query.split(" ")
         print(f"Lista parole: {word_list}")
         
+        L = []
         for word in word_list:
-            query = And([Term("content", word)])
+            L.append(Term("content", word))
+        query = And("content", L)
 
         results = searcher.search(query)
         
