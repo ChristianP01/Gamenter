@@ -9,9 +9,6 @@ from os import listdir
 DEBUG = True
 PATH_TO_DOCUMENT = "../../Documenti"
 
-def searchQuery2(user_query):
-    print(f"Stai cercando la query {user_query}")
-
 def dprint(s):
     '''
     Debug print function
@@ -91,6 +88,7 @@ def searchQueryCLI(user_query):
             L.append(Term("content", word))
         query = And(L)
         results = searcher.search(query)
+        print(results)
         user_query = yield results
 
 
