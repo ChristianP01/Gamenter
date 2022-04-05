@@ -125,6 +125,35 @@ border-style: outset;
      </size>
     </property>
    </widget>
+   <widget class="QComboBox" name="genreList">
+    <property name="geometry">
+     <rect>
+      <x>880</x>
+      <y>130</y>
+      <width>96</width>
+      <height>26</height>
+     </rect>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_2">
+    <property name="geometry">
+     <rect>
+      <x>740</x>
+      <y>80</y>
+      <width>361</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>AvantGarde LT Medium</family>
+      <pointsize>14</pointsize>
+     </font>
+    </property>
+    <property name="text">
+     <string>Oppure, ricerca per categoria:</string>
+    </property>
+   </widget>
   </widget>
   <widget class="QMenuBar" name="menubar">
    <property name="geometry">

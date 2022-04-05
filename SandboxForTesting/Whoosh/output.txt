@@ -1,0 +1,2589 @@
+Tutti i generi trovati sono:
+['Action role-playing ',
+ 'Platform ',
+ 'Adventure ',
+ 'Non specificato',
+ 'Sports ',
+ 'Turn-based strategy',
+ 'Music video game',
+ 'Puzzle ',
+ 'Role-playing video game',
+ 'Role-playing ',
+ 'Fighting game',
+ 'Rhythm ',
+ 'Turn-based tactics',
+ "Beat 'em up",
+ 'Turn-based strategy ',
+ 'First-person shooter',
+ 'Action-adventure',
+ 'Multidirectional shooter',
+ 'Simulation ',
+ 'Racing ',
+ 'Maze ',
+ 'Action ',
+ 'Survival horror',
+ 'Real-time strategy',
+ 'Adventure game',
+ 'Strategy ',
+ 'Digital collectible card game',
+ 'Interactive fiction',
+ "Breakout clones / \\'\\'Breakout\\'\\' clone ",
+ 'Shooter ',
+ 'Action-adventure game',
+ 'Space combat simulation / Space combat ',
+ 'Tactical shooter',
+ 'Visual novel',
+ 'Action-adventure ',
+ 'Music ',
+ 'Dating sim',
+ 'Card battle',
+ 'Sport ',
+ 'Traditional baseball ',
+ 'Point-and-click Adventure',
+ 'Real-time tactics',
+ 'Exergaming ',
+ 'Traditional sports ',
+ 'Traditional football ',
+ "Shoot \\'em up#Scrolling shooters / Vertically scrolling shooter ",
+ "Shoot \\'em up / Vertical-scrolling shooter ",
+ 'Life simulation ',
+ 'Point-and-click adventure ',
+ 'Computer wargame',
+ 'Sim racing',
+ 'Platformer ',
+ 'Graphic adventure ',
+ 'Space combat simulator',
+ 'Metroidvania',
+ 'Business simulation game',
+ 'City-building ',
+ 'Political simulation ',
+ 'Tactical role-playing',
+ 'Open-world',
+ 'Roguelike',
+ 'Casino game',
+ 'Racing simulation',
+ 'Interactive fiction / Text adventure ',
+ "Shoot \\'em up / Fixed shooter ",
+ 'Simulation video game',
+ 'Point-and-click ',
+ 'Vehicular combat ',
+ ' Eggerland Episode 0: Quest of Rara\n'
+ '\n'
+ 'Anno: 1996\n'
+ '\n'
+ 'Descrizione: Eggerland Episode 0: Quest of Lala (エッガーランド - エピソード ０ - Quest '
+ 'of Rara, Eggārando Episōdo 0 - Quest of Rara) is a puzzle game released in '
+ '1996, developed by Avit and published by HAL Laboratory for Microsoft '
+ 'Windows. It is based on the Japanese Eggerland video game series. This game '
+ 'was the first of three Windows releases and is a demo, consisting of 30 '
+ 'stages, to show players what the full-version release of Eggerland for '
+ 'Windows 95 would be capable of when it was launched in December 1996 (it '
+ 'contained 194 stages). On June 15, 2000, the Windows 98 compatible version '
+ 'of Eggerland for Windows 95 was released under the name Revival! Eggerland. '
+ 'It was later re-released again for Windows ME in November 2001.\n'
+ '\n'
+ 'Genere\n'
+ '\n'
+ 'Valutazione: N/A',
+ "Shoot \\'em up#Scrolling shooters / Scrolling shooter ",
+ 'Scrolling shooter ',
+ 'Role-playing game',
+ 'Business simulation ',
+ 'Fixed shooter',
+ 'Fighting ',
+ 'Hack and slash',
+ 'Action role-playing',
+ 'Augmented reality',
+ "Shoot \\'em up#Run and gun / Run and gun ",
+ 'Light gun shooter',
+ 'Turn-based strategy / Turn-based ',
+ 'Tactical role-playing ',
+ 'Platform game',
+ 'Puzzle',
+ "Shoot \\'em up",
+ 'Fishing ',
+ 'Third-person shooter',
+ '4X',
+ 'Interactive film',
+ 'Strategy video game',
+ '2D action ',
+ 'Roguelike deck-building',
+ 'Sports game',
+ 'Point-and-click adventure',
+ 'Fighting',
+ 'Science fiction',
+ 'Basketball',
+ 'Multiplayer online battle arena',
+ "Breakout clone / \\'\\'Breakout\\'\\' ",
+ 'Third-person adventure ',
+ 'First-person shooter ',
+ 'Arcade adventure',
+ 'Wrestling ',
+ 'Traditional soccer ',
+ 'Pinball ',
+ 'platformer ',
+ 'Collectible card game',
+ 'Traditional golf ',
+ 'Construction and management simulation / Construction simulation ',
+ 'Flight simulator',
+ 'TRPG ',
+ 'Social simulation ',
+ "Shoot \\'em up#Scrolling shooters / Vertical-scrolling shooter ",
+ 'Puzzle game',
+ 'Tower defense',
+ 'Dungeon crawl',
+ 'Tactical role-playing game',
+ 'Offroad/rally driving ',
+ 'Incremental game',
+ 'social simulation game',
+ 'Air combat simulation ',
+ 'Strategy',
+ 'MMOG ',
+ 'Twin-stick shooter',
+ 'Racing, Sports ',
+ 'Platforming ',
+ 'puzzle ',
+ 'Space trading and combat simulator',
+ "Breakout clone / \\'\\'Breakout\\'\\' clone ",
+ '4X ',
+ 'Puzzle-platform ',
+ 'First person shooter',
+ 'Sports',
+ 'MMORPG ',
+ 'Interactive movie / Interactive drama ',
+ "Shoot\\'em up / Horizontal-scrolling shooter ",
+ 'simulation ',
+ 'Traditional ice hockey ',
+ 'Construction and management simulation',
+ 'Side-scrolling shooter',
+ 'Puzzle video game',
+ 'Rail shooter',
+ 'MMO ',
+ 'Photography',
+ 'Simulation',
+ 'Adventure',
+ 'Third-person action ',
+ 'Platformer',
+ 'Horror fiction / Horror ',
+ 'First-Person Shooter',
+ 'Grand strategy ',
+ "Shoot \\'em up#Tube and rail shooters / Rail shooter ",
+ 'Side-scrolling',
+ 'Massively multiplayer online real-time strategy',
+ 'Vehicular combat',
+ 'First Person Shooter',
+ ' Bases Loaded 4\n'
+ '\n'
+ 'Anno: 1991\n'
+ '\n'
+ 'Descrizione: Bases Loaded 4, known in Japan as MoePro! Saikyō Hen (燃えプロ! '
+ '最強編, MoePro! Stronger Version), is the fourth installment for the Bases '
+ 'Loaded series for the NES.\n'
+ '\n'
+ 'Genere\n'
+ '\n'
+ 'Valutazione: N/A',
+ 'RPG ',
+ '2D computer graphics / 2-D ',
+ 'Motor racing ',
+ 'Scrolling shooter',
+ 'Card Game',
+ 'Amateur flight simulation',
+ 'Snowboarding ',
+ 'Tank simulation',
+ 'Vehicle simulation game',
+ 'Interactive drama',
+ 'Action RPG',
+ ' Araya (video game)\n'
+ '\n'
+ 'Anno: 2016\n'
+ '\n'
+ 'Descrizione: ARAYA is a 2016 first person adventure/horror game, developed '
+ 'by MAD Virtual Reality Studio for Microsoft Windows.\n'
+ '\n'
+ 'Genere\n'
+ '\n'
+ 'Valutazione: N/A',
+ 'SRPG ',
+ 'Educational ',
+ 'Shooter video game',
+ ' Ballistix\n'
+ '\n'
+ 'Anno: 1989\n'
+ '\n'
+ 'Descrizione: Ballistix is a video game created by Martin Edmondson for the '
+ 'Amiga and Atari ST and published by Psyclapse in 1989. It was also converted '
+ 'to a number of other home computers in the same year and the PC '
+ 'Engine/TurboGrafx-16 console in 1991. It is a fictional futuristic sport '
+ 'involving directing a puck to a goal by shooting small balls at it.\n'
+ '\n'
+ 'Genere\n'
+ '\n'
+ 'Valutazione: N/A',
+ 'MMORPG',
+ 'Snake ',
+ "Shoot 'em up",
+ 'Graphic adventure',
+ 'Bullet hell',
+ 'Sport',
+ 'Battle royale ',
+ 'Combat flight simulator',
+ 'puzzle',
+ 'Sports video game',
+ 'Eroge',
+ 'Fantasy',
+ 'Traditional soccer simulation ',
+ 'Exergaming',
+ 'Action role-playing game',
+ 'Side-scroller ',
+ 'Platform-adventure',
+ 'Pinball',
+ 'Survival horror ',
+ "Beat \\'em-up",
+ 'Massively multiplayer online action role-playing game',
+ ' Ruined King: A League of Legends Story\n'
+ '\n'
+ 'Anno: 2021\n'
+ '\n'
+ 'Descrizione: Ruined King: A League of Legends Story is a 2021 turn-based '
+ 'role-playing video game developed by Airship Syndicate and published by Riot '
+ "Forge. A spin-off to Riot Games' League of Legends, Ruined King uses "
+ 'characters and a setting originating in its parent title. \n'
+ 'The game is set in Bilgewater, a bustling pirate city, and the Shadow Isles, '
+ 'a cursed region filled with a corrupting force called the Black Mist. The '
+ 'player controls a party of six characters from League of Legends to find the '
+ 'source of the Black Mist. The playable characters are Pyke, Braum, Miss '
+ 'Fortune, Ilaoi, Ahri, and Yasuo.Originally revealed in 2019 during the 10th '
+ "anniversary celebration of League of Legends, Ruined King's release was "
+ 'delayed as a result of the COVID-19 pandemic. A release date was not '
+ 'provided by the developer or publisher until it was launched, alongside '
+ 'Hextech Mayhem, on November 16, 2021, for Microsoft Windows, PlayStation 4, '
+ 'Nintendo Switch and Xbox One. It is backwards compatible with the '
+ 'PlayStation 5 and Xbox Series X/S, with free upgrades to the native versions '
+ 'to be available in the future.\n'
+ '\n'
+ 'Genere\n'
+ '\n'
+ 'Valutazione: 80',
+ 'Massively multiplayer online role-playing game',
+ 'Role-Playing Game',
+ '2D computer graphics / 2D ',
+ 'Cinematic platformer ',
+ ' Cruise Chaser Blassty\n'
+ '\n'
+ 'Anno: 1986\n'
+ '\n'
+ 'Descrizione: Cruise Chaser Blassty is a science fiction role-playing video '
+ 'game developed by Square for various Japanese computers, including the NEC '
+ 'PC-8801, PC-9801, and Sharp X1. The game featured mecha originally designed '
+ 'by Mika Akitaka and musical contributions by Nobuo Uematsu, being the very '
+ 'first video game he wrote music for. The game had an unusual battle system, '
+ 'which involved the player controlling a customizable mecha robot from a '
+ 'first-person view. It followed a group of young people from Earth caught up '
+ 'in a war between a solar-system spanning government and a group of rebels. '
+ "After release, the game's story was adapted to a manga and serialized, then "
+ 'released as a pair of standalone books. The manga received a sequel, though '
+ 'the game itself did not.\n'
+ '\n'
+ 'Genere\n'
+ '\n'
+ 'Valutazione: N/A',
+ 'Wargame',
+ 'Racing',
+ 'Boxing ',
+ 'Psychological horror',
+ 'Arcade ',
+ 'Sandbox ',
+ 'Top-down shooter',
+ "Shoot \\'em up#Multidirectional shooter / Multi-directional shooter ",
+ 'Breakout clone',
+ 'Action RPG ',
+ 'MMORTS',
+ 'Bullet hell / Manic shooter ',
+ 'Comedy',
+ 'Flight simulation / First-person and third-person flight simulator ',
+ "Beat \\'em up",
+ ' Ferrari GT: Evolution\n'
+ '\n'
+ 'Anno: 2008\n'
+ '\n'
+ 'Descrizione: Ferrari GT: Evolution is  a racing game by Gameloft Bucharest '
+ 'based on up to 33 different cars, all manufactured by Ferrari.  Races take '
+ 'place on the Fiorano Circuit and seven imaginary road circuits, each based '
+ 'on an actual city.\n'
+ '\n'
+ 'Genere\n'
+ '\n'
+ 'Valutazione: 70',
+ 'Party ',
+ 'Word game',
+ 'Programming game',
+ 'Business Simulation ',
+ "Shoot \\'em up / Top-down shooter ",
+ 'Multiplayer ',
+ 'Sports Game / Sports ',
+ 'Massively multiplayer online role-playing ',
+ "Breakout clone / ''Breakout'' ",
+ 'Stealth ',
+ 'Endless runner ',
+ 'Space simulation',
+ 'Survival ',
+ 'Comic fantasy',
+ 'Racing RPG ',
+ 'Interactive movie',
+ 'space combat simulator / Space trading and combat simulator ',
+ 'Cue sports / Billiards/Pool ',
+ 'Sports / Racing ',
+ 'Submarine simulator',
+ 'Horror ',
+ "Shoot \\'em up / Top down shooter ",
+ 'Tile-matching video game',
+ 'Platform-adventure ',
+ 'Scrolling shooter / Vertically scrolling shooter ',
+ 'Breakout clone / Block breaker ',
+ 'Action game',
+ 'Massively-multiplayer ',
+ 'Stealth game',
+ ' Exstetra\n'
+ '\n'
+ 'Anno: 2013\n'
+ '\n'
+ 'Descrizione: Exstetra (エクステトラ, Ekusutetora) is a Japanese role-playing video '
+ 'game developed by Studio Saizensen and published by FuRyu, developer of '
+ 'Unchained Blades and Last Bullet. It was released in Japan on November 7, '
+ '2013 for the Nintendo 3DS and PlayStation Vita. Due to the expiration of '
+ "ClariS's music license, the game can no longer be purchased digitally on "
+ 'Nintendo 3DS since May 30, 2018.\n'
+ '\n'
+ 'Genere\n'
+ '\n'
+ 'Valutazione: N/A',
+ 'Run-and-gun platform ',
+ 'Formula One',
+ 'Competitive sports ',
+ 'Real-time strategy game',
+ 'Virtual world',
+ 'Shooting gallery ',
+ 'role-playing game',
+ 'Role-playing',
+ 'Flight simulation',
+ "Shoot \\'em up / Run and gun ",
+ "Shoot 'em up#Scrolling shooters / Scrolling shooter ",
+ ' Battle Group (video game)\n'
+ '\n'
+ 'Anno: 1986\n'
+ '\n'
+ 'Descrizione: Battle Group is a 1986 computer wargame designed by Gary '
+ 'Grigsby and published by Strategic Simulations. It is a follow-up to '
+ "Grigsby's earlier Kampfgruppe.\n"
+ '\n'
+ 'Genere\n'
+ '\n'
+ 'Valutazione: N/A',
+ ' James Pond in the Deathly Shallows\n'
+ '\n'
+ 'Anno: 2011\n'
+ '\n'
+ 'Descrizione: James Pond and the Deathly Shallows is a 2011 video game '
+ 'released for the iPhone, iPod and iPad iOS service, developed and published '
+ 'by HPN Associates.   It is the fifth game in the series and the first James '
+ 'Pond title to be released for the franchise in eighteen years. The title is '
+ 'a pun based on Harry Potter and The Deathly Hallows.\n'
+ '\n'
+ 'Genere\n'
+ '\n'
+ 'Valutazione: N/A',
+ 'First-person ',
+ 'Tile-matching ',
+ "Shoot \\'em up / Horizontal-scrolling shooter ",
+ 'Mathematics',
+ "Shoot \\'em up#Run and gun / Run and Gun ",
+ 'Aerial combat ',
+ "Shoot\\'em up / Rail shooter ",
+ ' Europe Ablaze\n'
+ '\n'
+ 'Anno: 1985\n'
+ '\n'
+ 'Descrizione: Europe Ablaze is a computer wargame developed and published by '
+ 'Strategic Studies Group for the Commodore 64 and Apple II in 1985. \n'
+ 'It is based on air warfare of World War II.\n'
+ '\n'
+ 'Genere\n'
+ '\n'
+ 'Valutazione: N/A',
+ 'Construction and management simulation ',
+ ' Baby Boomer (video game)\n'
+ '\n'
+ 'Anno: 1989\n'
+ '\n'
+ 'Descrizione: Baby Boomer is an unlicensed 1989 action video game created by '
+ 'Color Dreams for the Nintendo Entertainment System. It was developed during '
+ '1988 and released in 1989 in North America. In Brazil, Color Dreams later '
+ 'sold the game under license to Gradiente.\n'
+ '\n'
+ 'Genere\n'
+ '\n'
+ 'Valutazione: N/A',
+ 'Kart racing ',
+ 'Board game',
+ 'City-building game',
+ 'Art game',
+ 'Tactical RPG',
+ 'Action adventure ',
+ 'Literature',
+ 'Game creation system',
+ 'Fighting Game',
+ 'Combat flight simulation ',
+ 'Side-scrolling ',
+ 'Driving ',
+ 'Gambling',
+ 'Racing video game',
+ 'Sports management',
+ 'MUD',
+ 'tower defense',
+ 'Artillery ',
+ 'City building ',
+ 'Education',
+ 'Farm simulation ',
+ ' Kenshi (video game)\n'
+ '\n'
+ 'Anno: 2018\n'
+ '\n'
+ 'Descrizione: Kenshi is a role-playing video game developed and published by '
+ 'Lo-Fi Games for Windows. The game focuses on providing sandbox gameplay '
+ 'features that give the player freedom to do what they want in its world '
+ "instead of focusing on a linear story. Kenshi's development was primarily "
+ 'led by a single person over the course of twelve years, and it was released '
+ 'on December 6, 2018.\n'
+ 'Kenshi takes place in a post-post-apocalyptic setting and allows characters '
+ 'to be a thief, a trader, or a myriad of other options. The game has received '
+ 'mostly positive reviews from critics, who have commented on its depth and '
+ 'difficulty.\n'
+ '\n'
+ 'Genere\n'
+ '\n'
+ 'Valutazione: N/A',
+ 'Space flight simulation ',
+ 'Kart racing game',
+ ' The Beverly Hillbillies (video game)\n'
+ '\n'
+ 'Anno: 1993\n'
+ '\n'
+ 'Descrizione: The Beverly Hillbillies is a 1993 video game developed by '
+ 'Synergistic Software and published by Capstone Software, released in '
+ 'conjunction with the 1993 film of the same name (itself a remake of the '
+ '1960s television show). The game, a point-and-click adventure, tells the '
+ 'story of the Clampetts, a poor family in the Ozarks who discover oil on '
+ 'their property and become millionaires, moving to Beverly Hills with their '
+ 'newfound wealth. Despite being a tie-in to the film, the game shares only '
+ 'vague similarities in plot.\n'
+ 'Poorly received at its release, The Beverly Hillbillies has since been '
+ 'mentioned as one of the worst video games ever made because of its '
+ 'frustrating puzzles and numerous bugs.\n'
+ '\n'
+ 'Genere\n'
+ '\n'
+ 'Valutazione: N/A',
+ 'Maze game',
+ 'Sports Game',
+ 'Run and gun ',
+ " Kevin Keegan's Player Manager\n"
+ '\n'
+ 'Anno: 1993\n'
+ '\n'
+ "Descrizione: Kevin Keegan's Player Manager (German title: K. H. Rummenigge's "
+ 'Player Manager) is a football (soccer) video game developed by British '
+ 'studio Anco Software and released for the Super Nintendo Entertainment '
+ 'System, featuring football manager Kevin Keegan.\n'
+ '\n'
+ 'Genere\n'
+ '\n'
+ 'Valutazione: N/A',
+ 'Hidden Object Adventure ',
+ 'Toys-to-life',
+ 'puzzle video game',
+ 'Miniature wargaming',
+ 'Claymation',
+ 'Casual ',
+ ' Galaxy 5000\n'
+ '\n'
+ 'Anno: 1991\n'
+ '\n'
+ 'Descrizione: Galaxy 5000: Racing in the 51st Century is a racing video game '
+ 'developed by Activision for the Nintendo Entertainment System.\n'
+ '\n'
+ 'Genere\n'
+ '\n'
+ 'Valutazione: N/A',
+ "Shoot \\'em up / Multi-directional shooter ",
+ ' Motocross Go!\n'
+ '\n'
+ 'Anno: 1998\n'
+ '\n'
+ 'Descrizione: Motocross Go! is an arcade game developed and published by '
+ 'Namco in 1998.\n'
+ '\n'
+ 'Genere\n'
+ '\n'
+ 'Valutazione: N/A',
+ 'Massively multiplayer online game',
+ ' Close Combat (video game)\n'
+ '\n'
+ 'Anno: 1996\n'
+ '\n'
+ 'Descrizione: Close Combat is a 1996 real-time computer wargame developed by '
+ 'Atomic Games and published by Microsoft. Set during World War II, it '
+ "simulates the conflict between the United States' 29th Infantry Division and "
+ "Germany's 352nd Infantry Division after the Invasion of Normandy. The player "
+ 'controls an artificially intelligent army whose behavior is dictated by '
+ 'psychological models: each soldier makes decisions based on the '
+ "circumstances of the battlefield and can disobey the player's orders.\n"
+ 'Close Combat began production at Atomic Games under publisher Three-Sixty '
+ 'Pacific in 1992. The following year, Atomic migrated with the project to '
+ "Avalon Hill, as part of Avalon's attempt to bolster its computer game "
+ 'business. It was originally announced as Beyond Squad Leader, a tie-in to '
+ "Avalon's million-selling Squad Leader board wargame franchise. However, the "
+ "companies' relationship was troubled, and Atomic broke away after a "
+ 'high-profile departure at its publisher. Renaming the project Close Combat, '
+ 'Atomic continued production with Microsoft and ultimately released the game '
+ 'in July 1996. Military psychologist Dr. Steven Silver worked with the team '
+ "to increase the accuracy of Close Combat's psychological modeling.\n"
+ 'With sales of 200,000 copies, the game was a commercial success. Critics '
+ 'offered praise to its visuals, and several commended its innovation. '
+ 'Conversely, its slow scrolling was often criticized, and some labeled its '
+ 'use of psychological models as a fundamental mistake. The game started the '
+ 'Close Combat series, which encompassed 17 titles and sold in excess of 5 '
+ 'million copies by 2018. Atomic developed four sequels to Close Combat by '
+ '2000 and later created Close Combat: Marines for the United States Marine '
+ "Corps. Following the company's sale to Destineer, the franchise has "
+ 'continued at other developers under publisher Matrix Games since 2007.\n'
+ '\n'
+ 'Genere\n'
+ '\n'
+ 'Valutazione: N/A',
+ 'survival horror game',
+ 'Fishing',
+ 'Shooter game',
+ 'Amateur flight simulator',
+ ' Patriot (video game)\n'
+ '\n'
+ 'Anno: 1991\n'
+ '\n'
+ 'Descrizione: Patriot is a computer wargame about the Gulf War, developed by '
+ 'Artech Digital Entertainment and published by Three-Sixty Pacific. It was '
+ 'released in 1991 for MS-DOS. The player can command either the Iraqi or '
+ 'Coalition forces.\n'
+ '\n'
+ 'Genere\n'
+ '\n'
+ 'Valutazione: N/A',
+ 'Cinematic platformer',
+ 'Tactical RPG ',
+ 'Tube shooter',
+ 'Spy fiction',
+ 'Music game',
+ 'Traditional basketball ',
+ 'Educational game',
+ 'Point-and-click adventure / Adventure ',
+ 'Arcade racing',
+ 'Raising Simulation ',
+ 'Off-road arcade racing ',
+ 'Interactive novel',
+ 'Endless runner',
+ 'Survival Horror',
+ 'Educational',
+ 'Interactive art',
+ 'Cue sports',
+ 'Romantic comedy',
+ 'Simulation game',
+ 'Point and click',
+ 'Arcade game',
+ '3D platformer ',
+ 'Vehicle simulation ',
+ 'Online Game',
+ 'Horizontal shooter',
+ 'Match three',
+ 'Decathlon ',
+ 'Puzzle-platform',
+ 'Indie game',
+ "Shoot \\'em up#Fixed shooters / Fixed shooter ",
+ 'Life simulation game',
+ '2D Versus Fighting ',
+ ' Narbacular Drop\n'
+ '\n'
+ 'Anno: 2005\n'
+ '\n'
+ 'Descrizione: Narbacular Drop is a puzzle-platform game developed by Nuclear '
+ 'Monkey Software. It was released for free online in 2005  for Microsoft '
+ 'Windows. It was the senior game project of students attending DigiPen '
+ 'Institute of Technology. The gameplay consists of navigating a dungeon using '
+ 'an innovative portal system. The player controls two interconnected portals '
+ 'that can be placed on any non-metallic surface (wall, ceiling, or floor). '
+ "Gabe Newell, managing director of Valve, took interest in the team's work "
+ 'and employed the whole staff at Valve. The developers went on to write the '
+ 'critically acclaimed Portal using many of the same concepts.\n'
+ 'The word Narbacular, which does not exist in any dictionary, was chosen '
+ 'primarily to aid in internet search engine results.\n'
+ '\n'
+ 'Genere\n'
+ '\n'
+ 'Valutazione: N/A',
+ 'platform ',
+ 'Adult ',
+ 'Exploration game',
+ 'hack and slash',
+ 'Virtual reality',
+ ' Guderian (video game)\n'
+ '\n'
+ 'Anno: 1987\n'
+ '\n'
+ 'Descrizione: Guderian is a 1987 video game published by The Avalon Hill Game '
+ 'Company.\n'
+ '\n'
+ 'Genere\n'
+ '\n'
+ 'Valutazione: N/A',
+ 'Turn-based strategy / Turn-based Strategy ',
+ 'Visual novels / Visual novel ',
+ 'Strategy game',
+ 'Massively Multiplayer Online',
+ 'Survival horror / Horror ',
+ 'Brawler',
+ 'Point-and-click adventure game',
+ 'Sports - Ice Hockey Sim ',
+ 'Turn-based strategy game',
+ 'Run-and-gun shooter ',
+ 'Otome ',
+ 'Real-time strategy / Real-time ',
+ 'Music Game ',
+ ' Little Town Hero\n'
+ '\n'
+ 'Anno: 2019\n'
+ '\n'
+ 'Descrizione: Little Town Hero is a role-playing video game developed by Game '
+ 'Freak. It was first released for the Nintendo Switch in October 2019 before '
+ 'being ported to PlayStation 4, Xbox One and Microsoft Windows in 2020. It '
+ 'received mixed reviews from critics.\n'
+ '\n'
+ 'Genere\n'
+ '\n'
+ 'Valutazione: 64',
+ 'lifestyle (sociology) / Lifestyle ',
+ 'Versus fighting ',
+ 'Collectible card ',
+ 'Drawing and creativity ',
+ 'Real-time tactics / Real-time ',
+ "Shoot 'em up / Top-down shooter ",
+ 'Multiplayer',
+ 'Space flight simulator',
+ 'Massively multiplayer online role-playing',
+ 'Government simulation game',
+ 'educational ',
+ 'Military strategy ',
+ 'Mod (video gaming) / Partial conversion mod ',
+ 'Endless running ',
+ 'Combat flight simulator ',
+ 'Sports simulation ',
+ 'Endless Runner ',
+ 'Sporting management simulation ',
+ 'first-person shooter',
+ 'Online',
+ 'Massively multiplayer online real-time strategy ',
+ 'Text adventure ',
+ ' Campaign II\n'
+ '\n'
+ 'Anno: 1993\n'
+ '\n'
+ 'Descrizione: Campaign II is an action strategy 3D wargame released by Empire '
+ 'Interactive in 1993. It is the sequel to Campaign.\n'
+ '\n'
+ 'Genere\n'
+ '\n'
+ 'Valutazione: N/A',
+ 'Strategy role-playing game',
+ 'Edutainment',
+ 'Trading card game',
+ ' The Banner Saga\n'
+ '\n'
+ 'Anno: 2014\n'
+ '\n'
+ 'Descrizione: The Banner Saga is a tactical role-playing video game developed '
+ 'by Stoic Studio and published by Versus Evil. It was released for personal '
+ 'computers and mobile phones in 2014, for PlayStation 4 and Xbox One in 2016 '
+ 'and for Nintendo Switch in 2018.\n'
+ 'Taking place in a fictional world inspired by Norse mythology, the game '
+ "tells the story of the player's caravan as a whole, as they combat a warlike "
+ 'race named Dredge that despises humans. The game follows two playable '
+ 'characters whose separate stories eventually merge. The interactive story '
+ "changes depending on players' decisions.\n"
+ "The game's developer, Stoic Studio, was founded by three former BioWare "
+ 'designers. It was funded via Kickstarter, a crowdfunding platform. The '
+ 'hand-drawn animation and art-style featured in the game was inspired by the '
+ 'art of Eyvind Earle, Ralph Bakshi and Don Bluth. Austin Wintory composed the '
+ "game's music, with Dallas Wind Symphony performing. The game's multiplayer "
+ 'component, The Banner Saga: Factions, was released as a free standalone game '
+ "before the game's release.\n"
+ 'The game received critical praise, notably for the art style, combat, and '
+ 'story. The game was followed by The Banner Saga 2 (2016) and The Banner Saga '
+ '3 (2018), which concluded the series.\n'
+ '\n'
+ '\n'
+ '\n'
+ 'Genere\n'
+ '\n'
+ 'Valutazione: 81',
+ 'matching game',
+ 'Government simulation ',
+ 'Text adventure',
+ 'First-person adventure ',
+ 'Hidden Object ',
+ 'Massively multiplayer online ',
+ 'Otome',
+ 'Trivia ',
+ 'Strategy and Management',
+ "Shoot \\'em up#Bullet hell / Manic shooter ",
+ 'Turn-based',
+ 'Sim racing / Racing simulation ',
+ 'Educational software / Educational ',
+ '2D Versus fighting ',
+ 'Maze',
+ 'Space trading and combat game',
+ ' Fighting Layer\n'
+ '\n'
+ 'Anno: 1998\n'
+ '\n'
+ 'Descrizione: Fighting Layer (ファイティングレイヤー, Faitingu Reiyā) is a 3D fighting '
+ 'game developed by Arika and published by Namco. It was released exclusively '
+ 'in Japan in December 1998 and has never been released overseas or ported to '
+ 'any home consoles or PC. A spiritual sequel, Fighting EX Layer, was released '
+ 'in 2018.\n'
+ '\n'
+ '\n'
+ '\n'
+ 'Genere\n'
+ '\n'
+ 'Valutazione: 73',
+ 'Third Person Shooter',
+ 'God game',
+ 'Bishōjo ',
+ 'role-playing ',
+ 'Pachinko',
+ 'Hidden object',
+ 'Racing game',
+ 'extreme sports ',
+ 'Chess',
+ 'Party games',
+ 'Professional wrestling',
+ 'Non-game',
+ 'Adventure Game / Adventure ',
+ ' Zoom!\n'
+ '\n'
+ 'Anno: 1988\n'
+ '\n'
+ 'Descrizione: Zoom! is a puzzle game developed/released by Discovery Software '
+ 'in 1988.  It features a 3D-like board the player moves around on.  Up to two '
+ 'players may play simultaneously. A port was released by Sega for the Genesis '
+ 'in 1990.\n'
+ '\n'
+ 'Genere\n'
+ '\n'
+ 'Valutazione: 41',
+ "Beat-\\'em-up",
+ 'Tile-matching',
+ 'Trivia',
+ 'Educational simulation ',
+ 'strategy game',
+ "Shoot \\'em up#Scrolling shooters / Horizontal-scrolling shooter ",
+ 'Programming ',
+ " Beat'n Groovy\n"
+ '\n'
+ 'Anno: 2008\n'
+ '\n'
+ "Descrizione: Beat'n Groovy is a music video game developed by Japanese "
+ 'studio Voltex and distributed over Xbox Live Arcade. It was released on '
+ "October 8, 2008. The game is based on Pop'n Music, a similarly styled "
+ 'arcade/PlayStation 2 game series that has not been released officially '
+ 'outside Japan.\n'
+ '\n'
+ 'Genere\n'
+ '\n'
+ 'Valutazione: N/A',
+ ' Amadeus Revenge\n'
+ '\n'
+ 'Anno: 1988\n'
+ '\n'
+ "Descrizione: Amadeus Revenge is a music-based shoot 'em up game published by "
+ 'System Editoriale s.r.l. in 1988 for the Commodore 64. The game was '
+ "developed using the Shoot-'Em-Up Construction Kit.\n"
+ '\n'
+ 'Genere\n'
+ '\n'
+ 'Valutazione: N/A',
+ 'Player versus player / Pure PK ',
+ 'Tactical shooter / Tactical ',
+ 'tactical shooter / Tactical ',
+ 'Point and Click',
+ 'Text adventure game',
+ 'Sport simulations ',
+ 'Arcade-style ',
+ 'Puzzle-platformer',
+ 'Hack and Slash',
+ 'Rhythm game',
+ 'Single-player ',
+ 'Chess variant',
+ 'Space combat simulation',
+ 'Arena',
+ ' Hamurabi (video game)\n'
+ '\n'
+ 'Anno: 1968\n'
+ '\n'
+ 'Descrizione: Hamurabi is a text-based strategy video game of land and '
+ 'resource management. It was first developed under the name King of Sumeria '
+ 'or The Sumer Game by Doug Dyment in 1968 at Digital Equipment Corporation as '
+ "a computer game for fellow employee Richard Merrill's newly invented FOCAL "
+ 'programming language.\n'
+ 'The game consists of ten rounds wherein the player, as the ancient '
+ 'Babylonian king Hammurabi, manages how much of their grain to spend on crops '
+ 'for the next round, feeding their people, and purchasing additional land, '
+ 'while dealing with random variations in crop yields and plagues. The Sumer '
+ 'Game was inspired by The Sumerian Game, a much more in-depth text-based '
+ 'economic simulation intended for children, developed from 1964 to 1966 by '
+ 'designer and elementary school teacher Mabel Addis and IBM programmer '
+ 'William McKay.\n'
+ 'Multiple versions of the game were created for the FOCAL language, but '
+ 'around 1971 David H. Ahl ported it to DEC BASIC and in 1973 published it in '
+ '101 BASIC Games. This was later republished in Microsoft BASIC form in '
+ "1978's BASIC Computer Games. His expanded version of the game, titled "
+ 'Hamurabi, quickly became the more prominent version due to the popularity of '
+ 'both the book and the programming language. Hamurabi influenced many later '
+ 'strategy and simulation games and is also an antecedent to the city-building '
+ 'genre.\n'
+ '\n'
+ 'Genere\n'
+ '\n'
+ 'Valutazione: N/A',
+ 'Mission-based driving ',
+ 'Life simulation',
+ 'Sports (ice hockey) ',
+ 'Multi-directional shooter',
+ 'incremental ',
+ 'Horse racing',
+ 'Versus Fighting ',
+ 'Mech simulation',
+ 'Social simulation game',
+ ' Konami Krazy Racers\n'
+ '\n'
+ 'Anno: 2001\n'
+ '\n'
+ 'Descrizione: Konami Krazy Racers, known in Japan as Konami Wai Wai Racing '
+ 'Advance (コナミ ワイワイレーシング アドバンス, Konami Wai Wai Rēshingu Adobansu), is a kart '
+ 'racing video game published and developed by Konami for the Game Boy Advance '
+ 'handheld video game console. It was first released in Japan, and was later '
+ 'released in North America and some PAL regions. It was also re-released for '
+ 'Wii U Virtual Console on October 15, 2015 in Europe. It was a launch game '
+ 'for the system. Konami Krazy Racers makes use of a variety of characters and '
+ "concepts from several of Konami's franchises, including Castlevania, Metal "
+ 'Gear, and Gradius. It plays similarly to the Mario Kart series, with eight '
+ 'characters per circuit and offensive/defensive items placed at predetermined '
+ 'points in the tracks.\n'
+ 'Konami Krazy Racers received mostly positive reviews.\n'
+ '\n'
+ 'Genere\n'
+ '\n'
+ 'Valutazione: N/A',
+ ' H-Craft Championship\n'
+ '\n'
+ 'Anno: 2007\n'
+ '\n'
+ 'Descrizione: H-Craft Championship is a science fiction racing game developed '
+ 'by two people independent game studio Irrgheist located in Tübingen, '
+ 'Germany. The game was built using the free graphics engine Irrlicht for '
+ 'Windows, Linux and Android. In 2007 the game was released in digital '
+ 'distribution internationally by Manifesto Games and in a Russian version '
+ 'released by Akella. In 2014, after a long down time, the developers released '
+ 'the game as freeware. On February 25, 2015 the source code was released as '
+ 'open-source under the zlib license. The media files remain proprietary.\n'
+ '\n'
+ 'Genere\n'
+ '\n'
+ 'Valutazione: N/A',
+ 'Casual game',
+ 'Strategy-RPG ',
+ 'Submarine simulation ',
+ ' Hot Rod (video game)\n'
+ '\n'
+ 'Anno: 1988\n'
+ '\n'
+ 'Descrizione: Hot Rod is a top-down arcade racing game developed by Sega. '
+ 'Released for arcades in 1988 in Japan and in 1989 worldwide, the game was '
+ 'available in a four-player cocktail-style cabinet as well as a three-player '
+ 'upright cabinet. Home computer ports were published by Activision in 1990 '
+ 'for the Amiga, ZX Spectrum, Amstrad CPC, Commodore 64, and Atari ST.\n'
+ '\n'
+ 'Genere\n'
+ '\n'
+ 'Valutazione: N/A',
+ 'Multiplayer online battle arena / MOBA ',
+ ' The Fool and His Money\n'
+ '\n'
+ 'Anno: 2012\n'
+ '\n'
+ 'Descrizione: The Fool and His Money is a puzzle game by Cliff Johnson. It is '
+ "a self-published sequel to the 1987 game The Fool's Errand. Like its "
+ 'predecessor, The Fool and His Money contains many different types of logic '
+ 'and word puzzles which, although centered on a story with a medieval tarot '
+ 'deck theme, have added elements of the Prince, Egyptian gods, and Pirates.\n'
+ '\n'
+ 'Genere\n'
+ '\n'
+ 'Valutazione: N/A',
+ 'Skiing',
+ 'City-Building Game',
+ "Shoot \\'em up#Run and gun / 2D Run and gun ",
+ 'Tabletop game',
+ 'Comedy horror',
+ 'Horse racing ',
+ 'Post apocalyptic',
+ 'Arcade video game',
+ 'Third-person shooter / Third-person ',
+ ' Dragon Quest: Monster Battle Road\n'
+ '\n'
+ 'Anno: 2007\n'
+ '\n'
+ 'Descrizione: Dragon Quest: Monster Battle Road (ドラゴンクエスト モンスターバトルロード, '
+ 'Doragon Kuesutō Monsutā Batoru Rōdo) is a series of Japanese arcade games '
+ 'based on Dragon Quest VIII: Journey of the Cursed King. Players battle '
+ 'monsters and can win real-life cards with monster data imprinted on them. '
+ 'The first game, also titled Dragon Quest: Monster Battle Road, was released '
+ 'in 2007 only in Japan, using the Taito Type X2 system. A sequel, Dragon '
+ 'Quest: Monster Battle Road II Legends, was announced at the 2009 Jump Fiesta '
+ 'in Tokyo, and a third game in the series, Dragon Quest: Monster Battle Road '
+ 'Victory, a port of the Legends game, was announced for the Wii in 2010. '
+ 'Dragon Quest: Monster Battle Road Scanner was scheduled for release in the '
+ 'arcade in 2016.\n'
+ '\n'
+ 'Genere\n'
+ '\n'
+ 'Valutazione: N/A',
+ ' The Last Door\n'
+ '\n'
+ 'Anno: 2015\n'
+ '\n'
+ 'Descrizione: The Last Door is an episodic psychological horror '
+ 'point-and-click adventure game developed and published by The Game Kitchen '
+ 'for the Android, iOS, Microsoft Windows, Mac OS and Linux platforms. As of '
+ "January 2016, eight episodes have been released. A collector's edition of "
+ 'the first season was released in May 2014 by Phoenix Online Publishing, '
+ 'featuring new content.The plot revolves around four childhood friends, of '
+ 'which the player controls Jeremiah Devitt (and later his psychiatrist, '
+ 'Doctor Wakefield), who attempt to explore a supernatural '
+ 'territory/phenomenon known as the Veil. The story takes place long after the '
+ 'friends have separated, and Devitt is summoned by his old friend Anthony '
+ "Beechworth's last words to investigate the mysterious supernatural forces "
+ 'that now threaten them all.\n'
+ '\n'
+ 'Genere\n'
+ '\n'
+ 'Valutazione: 82',
+ 'Computer chess',
+ 'Massively Multiplayer Online Racing ',
+ 'Target shooting ',
+ 'Tank simulator ',
+ 'Anime',
+ 'Bowling',
+ 'American football ',
+ 'Space combat ',
+ ' Grand Prix Manager 2\n'
+ '\n'
+ 'Anno: 1996\n'
+ '\n'
+ 'Descrizione: Grand Prix Manager 2 (often shortened as GPM2) is a 1996 '
+ 'Formula 1 management simulation for Windows systems and is based on its '
+ 'predecessor, Grand Prix Manager. It was developed by Edward Grabowski '
+ 'Communications Ltd and published by MicroProse, and it is licensed by FIA to '
+ 'have real statistics for the 1996 Formula One season. A sequel, Grand Prix '
+ 'World, was released in 2000.\n'
+ '\n'
+ 'Genere\n'
+ '\n'
+ 'Valutazione: N/A',
+ 'Space trading and combat ',
+ 'Puzzle adventure / Puzzle Adventure ',
+ 'Action Game / Action ',
+ 'Run-and-gun ',
+ "Shoot \\'em up / Multidirectional shooter ",
+ 'MILE',
+ 'free-to-play',
+ 'Exploration ',
+ ' Sweet Home (video game)\n'
+ '\n'
+ 'Anno: 1989\n'
+ '\n'
+ 'Descrizione: Sweet Home is a survival horror role-playing video game '
+ 'developed and published by Capcom for the Family Computer in 1989. It is '
+ 'based on the Japanese horror film of the same name and tells the story of a '
+ 'team of five filmmakers exploring an old mansion in search of precious '
+ 'frescos hidden there. As they explore the mysterious mansion, they encounter '
+ 'hostile ghosts and other supernatural enemies. The player must navigate the '
+ 'intricately laid out mansion, battling with the enemies, and also a '
+ 'permadeath system to keep the player characters alive with the limited '
+ 'weapons and health restorative items available.\n'
+ 'The game was directed by Tokuro Fujiwara, who previously worked primarily on '
+ "arcade games such as Ghosts 'n Goblins (1985). Fujiwara toured the film's "
+ "set to gather inspiration for the game, and the film's director gave "
+ "Fujiwara permission to take some liberties with the game's script. Sweet "
+ 'Home was released in December 1989 exclusively in Japan, where it gathered '
+ 'generally favorable reception and was considered better than the film. The '
+ "game was never localized to western markets, likely because of the game's "
+ 'gruesome imagery and the unpopularity of role-playing games outside Japan.\n'
+ 'In retrospect, Sweet Home is considered a landmark game and is often cited '
+ 'for laying the groundwork for the survival horror genre. It served as the '
+ 'main inspiration behind Resident Evil (1996) which was a massive critical '
+ 'and commercial success, launching a multimedia franchise. Later games in the '
+ 'series continue to pull inspiration from the game through the use of quick '
+ 'time events, inventory management systems, and ghost story elements. Sweet '
+ "Home's Metroidvania-style exploration, storytelling methods, and horror "
+ 'elements have been cited as precursors to key elements found in other '
+ 'successful games decades later.\n'
+ '\n'
+ 'Genere\n'
+ '\n'
+ 'Valutazione: N/A',
+ " Chocobo's Dungeon 2\n"
+ '\n'
+ 'Anno: 1998\n'
+ '\n'
+ "Descrizione: Chocobo's Dungeon 2 is the 1998 PlayStation sequel to 1997's "
+ 'Chocobo no Fushigina Dungeon.\n'
+ '\n'
+ 'Genere\n'
+ '\n'
+ 'Valutazione: N/A',
+ 'Massively multiplayer online real-time strategy game',
+ 'Shooting ',
+ 'Creativity ',
+ 'Vertically scrolling shooter',
+ 'Music/Rhythm ',
+ 'Dungeon crawler',
+ ' Destiny of an Emperor\n'
+ '\n'
+ 'Anno: 1989\n'
+ '\n'
+ 'Descrizione: Destiny of an Emperor, known in Japan as Tenchi wo Kurau '
+ '(天地を喰らう, "The Devouring of Heaven and Earth"), is a strategy role-playing '
+ 'game by Capcom for the Nintendo Entertainment System based on the Tenchi wo '
+ 'Kurau manga by Hiroshi Motomiya. It was originally released in Japan in '
+ '1989, with an English language localization released for the North American '
+ 'market in 1990.\n'
+ '\n'
+ 'Genere\n'
+ '\n'
+ 'Valutazione: N/A',
+ 'Drama',
+ 'Sim racing / Driving simulation ',
+ ' Panzer General II\n'
+ '\n'
+ 'Anno: 1997\n'
+ '\n'
+ 'Descrizione: Panzer General II is a computer wargame by Strategic '
+ 'Simulations, Inc. Released October 15, 1997, Panzer General II is the sixth '
+ 'SSI game in the Panzer General series and the first in the "Living '
+ 'Battlefield" series. It takes place during World War II, covering events '
+ 'from the Spanish Civil War in 1938 to hypothetical battles in 1946. In the '
+ 'April 2000 issue of the magazine PC Gamer, it was voted the 44th best '
+ 'computer game of all time, and the highest rating in the Panzer General '
+ 'series. The game was re-released in 2010 on GOG.com.\n'
+ '\n'
+ 'Genere\n'
+ '\n'
+ 'Valutazione: 71',
+ 'Boxing',
+ 'Space trading ',
+ 'American football',
+ 'Motorsport Simulator ',
+ 'Football ',
+ 'Comedy-drama',
+ 'Slot machine',
+ 'Otome game',
+ 'rhythm ',
+ "Shoot\\'em up",
+ "Beat \\'em up / Beat-\\'Em-Up ",
+ ' 3D Tetris\n'
+ '\n'
+ 'Anno: 1996\n'
+ '\n'
+ 'Descrizione: 3D Tetris is a  1996 puzzle video game developed by T&E Soft '
+ 'and published by Nintendo. It was released for the Virtual Boy on March 22, '
+ '1996, in North America. Players control multiple falling blocks, rotating '
+ 'and positioning them to clear layers in a three-dimensional environment '
+ "similar to Tetris's gameplay. The game contains multiple modes and "
+ 'variations thereof, as well as different difficulty settings and levels. '
+ 'Parts of 3D Tetris are rendered as 3D wire-frame models. A version of the '
+ 'game entitled Polygo Block was to be released in February 1996 in Japanese '
+ 'markets, but never emerged. The game received mostly negative reviews with '
+ 'critics panning it for a lack of originality.\n'
+ '\n'
+ '\n'
+ '\n'
+ 'Genere\n'
+ '\n'
+ 'Valutazione: N/A',
+ ' Baku Baku Animal\n'
+ '\n'
+ 'Anno: 1995\n'
+ '\n'
+ 'Descrizione: Baku Baku, released in Japan as Baku Baku Animal, is a falling '
+ 'block puzzle arcade game released by Sega in 1995. The game is dedicated as '
+ "Sega's first ever Network Compatible PC Game. A Sega NetLink compatible "
+ 'version of the game was also announced, but never released.\n'
+ 'The Japanese onomatopoeia "Baku Baku" roughly translates to "Chomp Chomp".\n'
+ '\n'
+ 'Genere\n'
+ '\n'
+ 'Valutazione: N/A',
+ 'Alternative sports ',
+ 'Strategy Game / Strategy ',
+ 'Auto racing',
+ 'Card game',
+ 'Action fiction / Action ',
+ 'action ',
+ 'Puzzle / Puzzler ',
+ ' Bang Bang Ball\n'
+ '\n'
+ 'Anno: 1996\n'
+ '\n'
+ 'Descrizione: Bang Bang Ball is an arcade game released by Banpresto in 1996. '
+ 'Skateboarding mice must throw colored balls against clusters of moving '
+ 'balls, while avoiding being hit by any of the balls. A thrown ball hitting '
+ 'one or more balls of the same colour causes them to disappear.  Special '
+ 'balls have special effects such as exploding nearby balls or temporarily '
+ 'immobilizing the balls.\n'
+ '\n'
+ 'Genere\n'
+ '\n'
+ 'Valutazione: N/A',
+ 'Cooking ',
+ 'Music / Rhythm ',
+ 'Drag racing ',
+ 'Role playing game',
+ 'turn-based strategy / strategy ',
+ 'Board ',
+ 'Traditional boxing ',
+ 'Endless runner / Runner ',
+ 'Computer game',
+ 'space combat ',
+ 'Golfing ',
+ 'Government simulation',
+ 'Run-and-gun shooter',
+ 'Cinematic ',
+ 'Incremental ',
+ 'Cooking simulation ',
+ 'Hunting',
+ 'Gambling ',
+ 'Breakout clone / Breakout ',
+ 'Vertically scrolling shooter ',
+ 'Scrolling',
+ 'Soccer/football ',
+ ' North vs. South: The Great American Civil War\n'
+ '\n'
+ 'Anno: 1999\n'
+ '\n'
+ 'Descrizione: North vs. South: The Great American Civil War is a 1999 '
+ 'computer wargame developed by Erudite Software and published by Interactive '
+ 'Magic.\n'
+ '\n'
+ 'Genere\n'
+ '\n'
+ 'Valutazione: N/A',
+ 'Business simulation',
+ ' Crimson Shroud\n'
+ '\n'
+ 'Anno: 2012\n'
+ '\n'
+ 'Descrizione: Crimson Shroud is a role-playing video game developed and '
+ 'published by Level-5, with assistance from Nex Entertainment. It was '
+ 'released for the Nintendo 3DS on December 13, 2012.\n'
+ '\n'
+ 'Genere\n'
+ '\n'
+ 'Valutazione: 76',
+ 'Digital pet',
+ 'Casino ',
+ ' Avengers in Galactic Storm\n'
+ '\n'
+ 'Anno: 1995\n'
+ '\n'
+ 'Descrizione: Avengers in Galactic Storm (アベンジャーズ・イン・ギャラクティックストーム) is a 1995 '
+ 'fighting arcade game developed and published by Data East. It features a '
+ 'single or two-player story mode or multiplayer head-to-head mode, and was '
+ 'the first modern fighting game to feature assistant characters commonly '
+ 'referred to by gamers either as "helpers" or "strikers". The game is based '
+ 'on characters in the Marvel universe, primarily The Avengers but also the '
+ "Kree. The game's plot and roster of playable characters is based on the "
+ 'Operation: Galactic Storm story arc. Before their bankruptcy in 2003, it was '
+ "one of Data East's last fighting games, as well as their third and last game "
+ 'based on The Avengers after their two 1991 video games: the Captain America '
+ "and The Avengers beat 'em up arcade and the NES platform game of the same "
+ 'name.\n'
+ 'On February 26, 1996, Pony Canyon and Scitron Label added the background '
+ 'music of Avengers in Galactic Storm with the background music of another '
+ 'Data East MLC System title, Skull Fang, both into an album titled Skull Fang '
+ '/ Avengers in Galactic Storm, which was released exclusively in Japan. The '
+ 'game never received a console release, but, in 2021, Galactic Storm was '
+ 'included in an Arcade1Up cabinet collection alongside X-Men and Captain '
+ 'America and the Avengers.\n'
+ '\n'
+ '\n'
+ '\n'
+ 'Genere\n'
+ '\n'
+ 'Valutazione: N/A',
+ 'Virtual pet',
+ 'Interactive story',
+ 'Scrolling shooter / Vertical-scrolling shooter ',
+ '2D fighting ',
+ 'Historical fiction',
+ 'MOBA / Multiplayer Online Battle Arena ',
+ 'Historical strategy ',
+ ' Dungeon Magic: Sword of the Elements\n'
+ '\n'
+ 'Anno: 1989\n'
+ '\n'
+ 'Descrizione: Dungeon Magic: Sword of the Elements (ダンジョン&マジック, Dungeon & '
+ 'Magic: Swords of Element) is a real-time first-person RPG (akin to Dungeon '
+ 'Master and Eye of the Beholder) produced by Taito in 1989, and programmed by '
+ 'Natsume for the Nintendo Entertainment System. While this game uses the same '
+ "title as Taito's later arcade game Dungeon Magic, the two games are "
+ 'unrelated aside from their titles.\n'
+ '\n'
+ 'Genere\n'
+ '\n'
+ 'Valutazione: N/A',
+ 'Block kuzushi / Block breaker ',
+ 'Software toy',
+ 'Edutainment / Educational software ',
+ 'Golf',
+ 'Sim racing / Racing simulator ',
+ 'Quiz ',
+ 'Golf ',
+ ' Coin Master\n'
+ '\n'
+ 'Anno: 2016\n'
+ '\n'
+ 'Descrizione: Coin Master is a free, single-player, casual mobile game '
+ 'created by Israeli studio Moon Active. It has had over 100 million downloads '
+ '(as of February 2021). Coin Master is the top-grossing mobile game in the UK '
+ '(since February 2019) and Germany (since June 2019).\n'
+ '\n'
+ '\n'
+ '\n'
+ 'Genere\n'
+ '\n'
+ 'Valutazione: N/A',
+ 'Medal game',
+ 'Car combat ',
+ 'Artillery game',
+ '3D computer graphics software',
+ 'Action Adventure',
+ 'Noutore',
+ "Shoot \\'em up / Rail shooter ",
+ "Shoot\\'em up / Twin-stick shooter ",
+ 'Roguelite',
+ 'Puzzle / Puzzle Game ',
+ 'First-person adventure',
+ 'Social networking service',
+ 'Vehicular combat game',
+ ' Computer Conflict\n'
+ '\n'
+ 'Anno: 1980\n'
+ '\n'
+ 'Descrizione: Computer Conflict is a 1980 compilation of two turn-based '
+ 'computer wargame scenarios by Strategic Simulations for the Apple II. The '
+ 'scenarios are imaginary and deal with the defense of Russia during the Cold '
+ 'War.\n'
+ '\n'
+ 'Genere\n'
+ '\n'
+ 'Valutazione: N/A',
+ 'Adventure Game',
+ "Shoot 'em up#Run and gun / Run and gun ",
+ ' Gloomhaven (video game)\n'
+ '\n'
+ 'Anno: 2021\n'
+ '\n'
+ 'Descrizione: Gloomhaven is a role-playing video game adaptation of the '
+ 'tabletop game by the same name. Following two years of early access, it was '
+ 'released on October 20, 2021.\n'
+ '\n'
+ 'Genere\n'
+ '\n'
+ 'Valutazione: N/A',
+ 'Baseball ',
+ 'Grand strategy wargame',
+ 'Graphic adventure / Point & Click Adventure ',
+ 'Text Adventure',
+ 'Card ',
+ '2D platform ',
+ 'Action role-playing video game',
+ 'MOBA',
+ 'Action video game',
+ 'Block breaker ',
+ 'Air Combat',
+ 'Open world',
+ 'Guessing ghamzaame',
+ ' Chivalry (1983 video game)\n'
+ '\n'
+ 'Anno: 1983\n'
+ '\n'
+ 'Descrizione: Chivalry is an action role-playing video game written by '
+ 'Richard Hefter, Steve Worthington, and Janie Worthington for the Apple II '
+ 'and published in 1983 by Weekly Reader Family Software.\n'
+ '\n'
+ 'Genere\n'
+ '\n'
+ 'Valutazione: N/A',
+ 'graphic adventure ',
+ "Shoot \\'em up ",
+ 'Digital pet#Generalization to non-pet situations / Raising simulation ',
+ "Shoot \\'em up#Types / Vertically scrolling shooter ",
+ 'Time management ',
+ 'Construction and management simulation / Management Simulation ',
+ "Shoot \\'em up#Tube and rail shooters / Tube shooter ",
+ 'Affective videogames',
+ 'Platform Game / Platform ',
+ 'Combat flight simulation game',
+ "Shoot \\'em up#Scrolling shooters / Vertical-scroller,<br />Shoot \\'em up ",
+ "Shoot \\'em up / Shooter ",
+ 'Sci-fi',
+ 'Arcade-style golf ',
+ 'Train simulation',
+ 'Multiplayer Browser Game ',
+ 'Hidden object game',
+ ' Beatmania (European video game)\n'
+ '\n'
+ 'Anno: 2000\n'
+ '\n'
+ 'Descrizione: beatmania is a music game for the PlayStation by Konami. It was '
+ 'released in the European market in 2000 and was sold in combination with the '
+ 'Beatmania Controller.\n'
+ '\n'
+ 'Genere\n'
+ '\n'
+ 'Valutazione: N/A',
+ ' Digimon Digital Card Battle\n'
+ '\n'
+ 'Anno: 2000\n'
+ '\n'
+ 'Descrizione: Digimon Digital Card Battle, originally released in Japan as '
+ 'Digimon World: Digital Card Arena (Japanese: デジモンワールド デジタルカードアリーナ, Hepburn: '
+ 'Dejimonwārudo Dejitaru Kādo Arīna), is a video game based on the Digimon '
+ 'Collectible Card Game for the PlayStation. It was developed by BEC and '
+ 'published by Bandai, and was first made available in Japan in December 2000, '
+ 'with English releases in North America and Europe arriving in June 2001 and '
+ 'July 2002, respectively.\n'
+ '\n'
+ 'Genere\n'
+ '\n'
+ 'Valutazione: N/A',
+ 'Sports management ',
+ 'Flight simulator / Flight combat ',
+ 'Arcade racing ',
+ 'Live simulation ',
+ 'Motocross racing ',
+ 'Sports management game',
+ 'Dungeon crawl#First-person party-based dungeon crawlers / Dungeon crawler ',
+ ' GLtron\n'
+ '\n'
+ 'Anno: 1999\n'
+ '\n'
+ 'Descrizione: GLtron is a 3D snake game based on the light cycle portion of '
+ 'the film Tron. The game is free and open-source software and has been ported '
+ 'to many mobile and non-mobile operating systems such as Windows, MacOS, '
+ 'Symbian and Android over the years.\n'
+ '\n'
+ '\n'
+ '\n'
+ 'Genere\n'
+ '\n'
+ 'Valutazione: N/A',
+ 'platform game',
+ ' Dear Esther\n'
+ '\n'
+ 'Anno: 2012\n'
+ '\n'
+ 'Descrizione: Dear Esther is a first-person exploration and adventure video '
+ 'game developed by The Chinese Room for Microsoft Windows, Mac OS X, '
+ 'PlayStation 4 and Xbox One. First released in 2008 as a free-to-play '
+ 'modification for the Source game engine, the game was entirely redeveloped '
+ 'for a commercial release in 2012. Featuring minimalistic gameplay, the '
+ "player's only objective in the game is to explore an unnamed island in the "
+ 'Hebrides, Scotland, listening to a troubled man read a series of letters to '
+ 'his deceased wife. Details of her mysterious death are revealed as the '
+ 'player moves throughout the island.\n'
+ 'The Chinese Room released a spiritual successor to Dear Esther, titled '
+ "Everybody's Gone to the Rapture, in 2015.\n"
+ 'In 2017 an updated version, Dear Esther: Landmark Edition was released, '
+ 'based on the Unity engine.\n'
+ '\n'
+ 'Genere\n'
+ '\n'
+ 'Valutazione: 70',
+ 'Turn based strategy',
+ 'adventure ',
+ 'Strategy involving breeding/constructing ',
+ 'Nature sports ',
+ 'action role-playing game',
+ 'Action shooter',
+ ' Big Bucks Trivia\n'
+ '\n'
+ 'Anno: 1986\n'
+ '\n'
+ 'Descrizione: Big Bucks Trivia is a quiz arcade game released by Dynasoft in '
+ '1986. The player answers questions from various trivia categories, in order '
+ 'to win "big bucks".\n'
+ '\n'
+ 'Genere\n'
+ '\n'
+ 'Valutazione: N/A',
+ 'Run-and-gun shooter / Run-and-gun ',
+ 'Augmented reality ',
+ 'Interactive film / Interactive movie ',
+ 'Visual novels / Visual Novel ',
+ 'ARG ',
+ ' Shattered Planet\n'
+ '\n'
+ 'Anno: 2014\n'
+ '\n'
+ 'Descrizione: Shattered Planet is a roguelike RPG video game developed by '
+ 'Kitfox Games. The player assumes the role of a clone who is tasked with '
+ 'researching and cataloging alien wildlife. The iOS version was released on '
+ 'March 27, 2014. The Android version was released on April 10, 2014. '
+ 'Shattered Planet was released for Microsoft Windows and Mac OS on July 3, '
+ '2014.\n'
+ '\n'
+ 'Genere\n'
+ '\n'
+ 'Valutazione: 77',
+ ' Space Travel (video game)\n'
+ '\n'
+ 'Anno: 1969\n'
+ '\n'
+ 'Descrizione: Space Travel is an early video game developed by Ken Thompson '
+ 'in 1969 that simulates travel in the Solar System. The player flies their '
+ 'ship around a two-dimensional scale model of the Solar System with no '
+ 'objectives other than to attempt to land on various planets and moons. The '
+ 'player can move and turn the ship, and adjust the overall speed by adjusting '
+ 'the scale of the simulation. The ship is affected by the single strongest '
+ 'gravitational pull of the astronomical bodies.\n'
+ 'The game was developed at Bell Labs before the rise of the commercial video '
+ 'game industry in the early history of video games, and was ported during '
+ '1969 from the Multics operating system to the GECOS operating system on the '
+ 'GE 635 computer, and then to the PDP-7 computer. As a part of porting the '
+ 'game to the PDP-7, Thompson developed his own operating system, which later '
+ 'formed the core of the Unix operating system. Space Travel never spread '
+ 'beyond Bell Labs or had an effect on future games, leaving its primary '
+ 'legacy as part of the original push for the development of Unix.\n'
+ '\n'
+ 'Genere\n'
+ '\n'
+ 'Valutazione: N/A',
+ 'Construction and management simulation / CMS ',
+ 'Social ',
+ 'Massive multiplayer online game',
+ "Shoot\\'em up / Fixed shooter ",
+ 'First-person Adventure ',
+ ' Baltic 1985: Corridor to Berlin\n'
+ '\n'
+ 'Anno: 1984\n'
+ '\n'
+ 'Descrizione: Baltic 1985: Corridor To Berlin is a computer wargame published '
+ 'in 1984 by Strategic Simulations. Developed by Roger Keating, it was the '
+ 'third in the "When Superpowers Collide" series.\n'
+ '\n'
+ 'Genere\n'
+ '\n'
+ 'Valutazione: N/A',
+ '3D action ',
+ "Shoot \\'em up#Rail shooters / Rail shooter ",
+ 'Manic shooter',
+ 'Browser game',
+ 'Strategy role-playing ',
+ 'city-building game',
+ 'Audio game',
+ 'Turn-based ',
+ 'Versus fighting game',
+ 'Survival game',
+ 'Artificial life',
+ 'Mobile ',
+ 'American football simulation ',
+ ' Otocky\n'
+ '\n'
+ 'Anno: 1987\n'
+ '\n'
+ 'Descrizione: Otocky (オトッキー) is a video game released in 1987 for the Family '
+ 'Computer Disk System in Japan. Developed by SEDIC and published by ASCII '
+ 'Corporation, the game was conceived and designed by Toshio Iwai. Natsuki '
+ 'Ozawa endorsed the game.\n'
+ '\n'
+ 'Genere\n'
+ '\n'
+ 'Valutazione: N/A',
+ 'Baseball',
+ 'Social networking service / Social ',
+ '2D versus fighting ',
+ "Shoot \\'em up / Twin-stick shooter ",
+ 'Newsgame',
+ "Shoot \\'em up / Twin Stick Shooter ",
+ 'Space combat simulator / Space trading and combat simulator ',
+ 'First-person shooter / First-person action ',
+ ' Air Assault Task Force\n'
+ '\n'
+ 'Anno: 2006\n'
+ '\n'
+ 'Descrizione: Air Assault Task Force is a computer wargame developed by '
+ 'ProSIM Company and published by Shrapnel Games.  The lead developer was '
+ 'ProSIM Company founder, Pat Proctor. Other developers included Gary Bezant '
+ '(The Falklands War: 1982) and Curt Pangracs (The Star and the Crescent).Air '
+ 'Assault Task Force is a combat simulator and includes four campaigns, set at '
+ 'the Joint Readiness Training Center at Fort Polk, LA, at LZ X-Ray during the '
+ 'Vietnam War, in the ill-fated Ranger raid in Mogadishu, Somalia (the famous '
+ '"Black Hawk Down" incident), and Operation Anaconda during Operation '
+ 'Enduring Freedom in Afghanistan. The game built on the pausable real-time '
+ "gameplay of ProSIM's BCT Commander and the AI and hierarchy system of "
+ 'Armored Task Force. In addition to a major upgrade to these earlier game '
+ "systems, it also includes a graphical and GUI overhaul that makes the game's "
+ 'graphics better.\n'
+ 'In 2007, defense contractor Boeing commissioned ProSIM to create a custom '
+ 'version of the game for use as a ground combat simulator, to be paired with '
+ 'an intelligent tutor and after-action review agent application developed by '
+ 'Boeing.\n'
+ '\n'
+ 'Genere\n'
+ '\n'
+ 'Valutazione: N/A',
+ 'Traditional hockey ',
+ 'Real-time strategy ',
+ 'Online ',
+ 'Branded Entertainment / Branded entertainment ',
+ 'Educational video game',
+ 'Real-time strategy / Real-Time ',
+ 'Platform shooter ',
+ 'Hack-and-slash',
+ "Shoot \\'em up / Scrolling shooter ",
+ "Beat\\'em up",
+ 'Global warming game',
+ 'Party game',
+ 'Fighting video game',
+ '2D shooter',
+ 'real-time strategy',
+ "shoot \\'em up#Multi-directional shooter / Multi-directional shooter ",
+ 'Wargaming ',
+ 'Match 3',
+ 'Art tool ',
+ 'Historic action adventure ',
+ 'Visual Novel',
+ "Shoot \\'em up / Third-person shooter ",
+ "Shoot \\'em up#Horizontal scrolling shooters / Horizontally scrolling "
+ 'shooter ',
+ 'MUSH',
+ 'real-time strategy / RTS ',
+ 'Interactive fiction ',
+ " Caller's Bane\n"
+ '\n'
+ 'Anno: 2014\n'
+ '\n'
+ "Descrizione: Caller's Bane (originally named Scrolls) is a strategy digital "
+ 'collectible card game developed by Mojang Studios, which aims to combine '
+ 'elements from trading card games and traditional board games. Scrolls was '
+ 'originally conceived and developed by Jakob Porsér, who along with Mojang '
+ 'founder Markus Persson, intended to create a type of game that was currently '
+ 'missing from the market. The game is developed using the Unity game engine, '
+ 'allowing it to run on multiple gaming platforms. Scrolls  was announced on 2 '
+ "March 2011, as Mojang Studios' second game. While Mojang had claimed that "
+ 'they stopped development of the game in June 2015, the company revealed that '
+ 'they had still been working on the project, and in June 2018, released the '
+ "game under its new title Caller's Bane for free.\n"
+ '\n'
+ 'Genere\n'
+ '\n'
+ 'Valutazione: N/A',
+ 'Quiz game',
+ 'Plane racing ',
+ 'Action RPG / Action ',
+ 'Tycoon game',
+ "Shoot 'em up / Rail shooter ",
+ 'Endless running game',
+ 'Magic system',
+ 'Survival horror / Horror-Adventure ',
+ 'Science fiction comedy',
+ 'Pinball#Computer_pinball_simulation / Pinball ',
+ 'Soccer',
+ 'Association football management ',
+ 'Raster graphics editor',
+ "Shoot \\'em up / Shooting scroller ",
+ "Shoot \\'em up / Light gun shooter ",
+ 'Top-down shooter ',
+ 'Rogue-lite',
+ 'Arcade adventure ',
+ 'Romance novel / Romance ',
+ 'Strategy involving breeding/construction ',
+ 'Ten pin bowling',
+ ' Gibbous - A Cthulhu Adventure\n'
+ '\n'
+ 'Anno: 2019\n'
+ '\n'
+ 'Descrizione: Gibbous - A Cthulhu Adventure is a point-and-click adventure '
+ 'game developed and published by Romanian developer Stuck In Attic for '
+ 'Windows, macOS, Linux and Nintendo Switch. It was released on August 7, 2019 '
+ 'on Steam and GOG.\n'
+ '\n'
+ 'Genere\n'
+ '\n'
+ 'Valutazione: 74',
+ 'Extreme sports',
+ 'Alternate reality game',
+ 'Single-player',
+ 'Digital board game',
+ 'Board Game',
+ 'Scrolling shooters / Scrolling shooter ',
+ 'Sports simulation',
+ 'MMOFPS',
+ "Shoot 'em up / Scrolling shooter ",
+ 'Real-time Strategy',
+ 'Karaoke ',
+ ' North Atlantic Convoy Raider\n'
+ '\n'
+ 'Anno: 1980\n'
+ '\n'
+ 'Descrizione: North Atlantic Convoy Raider is a wargame published by '
+ 'Microcomputer Games for TRS-80, Commodore PET, and Apple II in 1980. An '
+ 'Atari 8-bit family version was released in 1981.\n'
+ '\n'
+ 'Genere\n'
+ '\n'
+ 'Valutazione: N/A',
+ 'Horse racing / horse ',
+ ' Norway 1985\n'
+ '\n'
+ 'Anno: 1985\n'
+ '\n'
+ 'Descrizione: Norway 1985 is a computer wargame published in October 1985 by '
+ 'Strategic Simulations. Developed by Roger Keating, it was the fourth in the '
+ '"When Superpowers Collide" series.\n'
+ '\n'
+ 'Genere\n'
+ '\n'
+ 'Valutazione: N/A',
+ 'sports ',
+ 'Sports w/ third-person perspective ',
+ 'Cross-genre',
+ 'Computer chess / Chess ',
+ 'Action (fiction) / Action ',
+ ' The Perfect General\n'
+ '\n'
+ 'Anno: 1991\n'
+ '\n'
+ 'Descrizione: The Perfect General is a computer wargame published in 1991 by '
+ 'Quantum Quality Productions.\n'
+ '\n'
+ 'Genere\n'
+ '\n'
+ 'Valutazione: N/A',
+ 'Scrolling shooter / Horizontally scrolling shooter ',
+ 'Massive multiplayer online roleplaying game',
+ 'Raising simulation ',
+ 'Traditional soccer/football ',
+ 'Amateur flight simulation / Flight simulator ',
+ 'Looter shooter',
+ ' CyberJudas\n'
+ '\n'
+ 'Anno: 1996\n'
+ '\n'
+ 'Descrizione: CyberJudas is a presidential simulation video game for '
+ 'MS-DOS-compatible computers, and is the sequel to Shadow President. '
+ 'CyberJudas contains many of the same cyberpunk/dark science fiction elements '
+ 'of the original game, but adds themes of espionage and treason.\n'
+ '\n'
+ 'Genere\n'
+ '\n'
+ 'Valutazione: N/A',
+ ' Battlefront (2007 video game)\n'
+ '\n'
+ 'Anno: 2007\n'
+ '\n'
+ 'Descrizione: Battlefront is a wargame developed by Strategic Studies Group '
+ 'and published by Matrix Games for Microsoft Windows in 2007. The game is a '
+ 'turn-based strategy set in World War II. It is the namesake of an earlier '
+ 'game released by Strategic Studies Group in 1986.\n'
+ '\n'
+ 'Genere\n'
+ '\n'
+ 'Valutazione: N/A',
+ 'Arcade style racing ',
+ 'Pet care simulation',
+ 'Dungeon crawl ',
+ 'Japanese idol / Idol ',
+ 'Graphic adventure game',
+ 'Arcade Game ',
+ 'Compilation ',
+ 'Arcade-style racing ',
+ 'Post-apocalyptic',
+ 'Level editor',
+ 'Fantasy role-playing',
+ 'Mahjong solitaire',
+ "Shoot \\'em up#Types / Run and Gun ",
+ 'Puzzle-platformer ',
+ ' Final Fantasy IV: The Complete Collection\n'
+ '\n'
+ 'Anno: 2011\n'
+ '\n'
+ 'Descrizione: Final Fantasy IV: The Complete Collection is a compilation '
+ 'consisting of enhanced ports of the role-playing video games Final Fantasy '
+ 'IV and Final Fantasy IV: The After Years, as well as a new scenario called '
+ 'Final Fantasy IV Interlude, which is set between the two games. It was '
+ 'published by Square Enix for the PlayStation Portable in Japan on March 24, '
+ '2011; in North America on April 19, 2011; in Europe on April 21, 2011; and '
+ 'in Australia on April 28, 2011. It was also released as digital download.\n'
+ '\n'
+ '\n'
+ '\n'
+ 'Genere\n'
+ '\n'
+ 'Valutazione: N/A',
+ 'Arcade Game',
+ 'Role playing ',
+ 'Escape the room',
+ 'Action Adventure ',
+ 'Edutainment / Educational entertainment ',
+ 'Real time strategy',
+ "Shoot \\'em_up#Run and gun / Run and gun ",
+ 'Action role playing ',
+ 'Online text-based role-playing game',
+ 'Hack and slash / Hack-and-slash ',
+ 'Sim horse game',
+ 'Rhythm action',
+ "Shoot \\'em up#Types / Rail shooter ",
+ 'ARPG ',
+ 'Low fantasy',
+ 'Indie ',
+ 'Arcade motorcycle racing ',
+ 'Harem (genre) / Harem ',
+ 'Physics-based ',
+ "Shoot \\'em up / Action ",
+ 'Real-Time Strategy',
+ 'Space simulator',
+ 'Parkour',
+ "shoot\\'em-up",
+ 'Non-fungible token / NFT ',
+ 'Falling block puzzle ',
+ 'Space trading and combat simulator ',
+ "Shoot \\'em up#Multidirectional shooter / Multidirectional shooter, Third "
+ 'Person Shooter ',
+ 'Construction and management simulation / Farm simulation ',
+ "Shoot\\'em up / Vertical-scrolling shooter ",
+ ' Battle Racers\n'
+ '\n'
+ 'Anno: 1995\n'
+ '\n'
+ 'Descrizione: Battle Racers (バトルレーサーズ) is a 1995 video game for the Super '
+ 'Famicom that was released to an exclusively Japanese market.\n'
+ 'This video game combines the futuristic elements of F-Zero with the '
+ 'whimsical elements of Super Mario Kart. Players can select from various '
+ 'tracks and confront numerous dead ends and alternate turns. There are six '
+ 'drivers in a race and all the menus are in Japanese. The four main '
+ 'characters of the game are: Ultraman Powered (from the Ultra Series), Kamen '
+ 'Rider ZO (from the Kamen Rider franchise), Battle Knight Gundam F-91 (from '
+ 'the Gundam franchise) and Banpresto original character Fighter Roar.\n'
+ '\n'
+ 'Genere\n'
+ '\n'
+ 'Valutazione: N/A',
+ 'First-person shooter / First-person ',
+ ' King of Crabs\n'
+ '\n'
+ 'Anno: 2020\n'
+ '\n'
+ 'Descrizione: King of Crabs is a 2020 battle royale video game from Robot '
+ 'Squid and Spilt Milk Studios for Microsoft Windows, Android and iOS.  The '
+ 'game has been praised as "Fortnite with crabs."\n'
+ '\n'
+ 'Genere\n'
+ '\n'
+ 'Valutazione: N/A',
+ 'role-playing video game',
+ 'Arcade genre / Arcade ',
+ 'Construction and management simulation / Simulation ',
+ ' City Life (video game)\n'
+ '\n'
+ 'Anno: 2006\n'
+ '\n'
+ 'Descrizione: City Life is a city-building video game developed by Monte '
+ 'Cristo. It is the first modern building game to allow the player to work in '
+ 'full 3D environment. It is published in France by Focus, in the UK and '
+ 'Germany by Deep Silver and in North America by CDV. It was released in May '
+ '2006.\n'
+ 'City Life allows players to zoom in and see every little bit of detail. The '
+ 'placement method allows buildings to be placed at an angle, as also seen in '
+ "Sierra Games' Caesar IV.\n"
+ 'More recently, the game has been criticized for lack of many detailed '
+ 'elements, such as weather, disasters, and more "in depth" user control.\n'
+ '\n'
+ 'Genere\n'
+ '\n'
+ 'Valutazione: N/A',
+ 'Tennis',
+ 'Slot Machine Game / Slot Machine ',
+ ' Snafu (video game)\n'
+ '\n'
+ 'Anno: 1981\n'
+ '\n'
+ 'Descrizione: Snafu is a video game released by Mattel for its Intellivision '
+ 'video game system in 1981. One of a number of snake games released in the '
+ 'late 1970s and early 1980s, Snafu features players controlling '
+ 'ever-lengthening serpents as they attempt to corner their opponents and trap '
+ 'them.\n'
+ "A version of Snafu was released for Mattel's short-lived Aquarius personal "
+ 'computer in 1983.\n'
+ '\n'
+ 'Genere\n'
+ '\n'
+ 'Valutazione: N/A',
+ 'Minigames',
+ 'Edutainment / Educational ',
+ 'Sci-fi mech simulation ',
+ ' Birth of America\n'
+ '\n'
+ 'Anno: 2006\n'
+ '\n'
+ 'Descrizione: Birth of America is a wargame by SEP BOA, a development team at '
+ 'AGEOD.\n'
+ '\n'
+ 'Genere\n'
+ '\n'
+ 'Valutazione: 71',
+ 'Climbing ',
+ 'Word puzzle ',
+ 'Role-playing Game ',
+ 'Action-role-playing ',
+ 'Simulator',
+ 'Music sequencer',
+ 'Tactical RPG / Tactical role-playing ',
+ 'Traditional tennis ',
+ 'Multicart',
+ 'Action puzzle ',
+ 'Arcade puzzle ',
+ 'Virtual camera system / Third-person ',
+ 'Word ',
+ 'Dancing ',
+ 'Massively multiplayer online first-person shooter',
+ 'Air combat simulators ',
+ 'Turn-based strategy / Turn based ',
+ 'Mind sport',
+ 'Rhythm',
+ ' Poibos Part 1\n'
+ '\n'
+ 'Anno: 1983\n'
+ '\n'
+ 'Descrizione: Poibos Part 1: Dasshutsu (ポイボスＰａｒｔ１ 脱出, lit. Poibos Part 1: '
+ 'Escape) is a sci-fi role-playing video game released by ZAT-SOFT for various '
+ 'computer platforms in Japan in 1983. It was originally developed on the '
+ 'premise of sequels, but only the first game was released. Planet name '
+ '"Poibos" is a reference to the god Phoebus from Greek mythology, with '
+ 'simplified spelling for a Japanese audience. Poibos Part 1 is one of the '
+ 'first JRPGs ever created, and the first one in a sci-fi setting.\n'
+ '\n'
+ 'Genere\n'
+ '\n'
+ 'Valutazione: N/A',
+ ' OutRunners\n'
+ '\n'
+ 'Anno: 1992\n'
+ '\n'
+ 'Descrizione: OutRunners (アウトランナーズ) is a racing video game developed by Sega '
+ 'and AM1 and released in Japan, Europe, and North America in 1993. It '
+ 'constitutes the third release in the arcade OutRun series and was ported to '
+ 'the Mega Drive in 1994.\n'
+ '\n'
+ 'Genere\n'
+ '\n'
+ 'Valutazione: N/A',
+ 'Quiz',
+ 'Turn-Based Role Playing Game / Turn-based role-playing ',
+ "Shoot_\\'em_up#Rail_shooters / Rail shooter ",
+ " Bonk 3: Bonk's Big Adventure\n"
+ '\n'
+ 'Anno: 1993\n'
+ '\n'
+ "Descrizione: Bonk 3: Bonk's Big Adventure (PC-原人3, PC-Genjin 3) is an action "
+ 'video game released for the TurboGrafx-16 in 1993, the third game in the '
+ 'Bonk video game series. It was rereleased for the TurboDuo in 1994, with a '
+ 'new cover illustration by Marc Ericksen. It was released for the Wii Virtual '
+ 'Console in Europe on August 31, 2007, and in North America on September 3, '
+ '2007. It was also released in Japan on the PlayStation Store on January 20, '
+ '2010, and on the Wii U Virtual Console June 25, 2014, the latter receiving a '
+ "North American release on June 29, 2017.Bonk 3: Bonk's Big Adventure brought "
+ 'the series many new gameplay elements, including candies that made the '
+ 'player shrink and grow, and cooperative multiplayer. The story is similar to '
+ 'that of the other Bonk games, putting the player character up against Evil '
+ 'King Drool and many new enemies in the Dinosaur Kingdom.\n'
+ '\n'
+ 'Genere\n'
+ '\n'
+ 'Valutazione: N/A',
+ 'Driving involving vehicular combat ',
+ 'Dark comedy',
+ "Scrolling beat \\'em up",
+ ' Leading Company\n'
+ '\n'
+ 'Anno: 1992\n'
+ '\n'
+ 'Descrizione: Leading Company (リーディングカンパニー) is a construction-oriented '
+ 'strategy video game that was released for both the Super Famicom, NEC '
+ 'PC-9801, Sharp X68000 and FM Towns.\n'
+ '\n'
+ 'Genere\n'
+ '\n'
+ 'Valutazione: N/A',
+ 'Tycoon ',
+ ' Battle of Antietam (video game)\n'
+ '\n'
+ 'Anno: 1985\n'
+ '\n'
+ 'Descrizione: Battle of Antietam is a wargame written for the Apple II by '
+ 'Chuck Kroegel and David Landrey and published by Strategic Simulations in '
+ '1985.\n'
+ '\n'
+ 'Genere\n'
+ '\n'
+ 'Valutazione: N/A',
+ 'Space combat simulator ',
+ 'Social network game',
+ 'First-person (gaming) / First-person ',
+ 'Train simulator / Train ',
+ "shoot \\'em up#Rail shooters / Rail shooter ",
+ 'Parody',
+ 'Point and click adventure',
+ 'Turn-based historic strategy ',
+ 'Visual novel#Nakige / Nakige ',
+ '3D platformer',
+ 'Pet-raising simulation',
+ 'MMOSG ',
+ 'Third-person Shooter',
+ 'Game based learning',
+ 'Real-time strategy / RTS ',
+ 'MMORTS ',
+ "Shoot \\'em up#Multi-directional shooter / Multi-directional shooter ",
+ ' Ganbare Goemon: Tengu-tō no Gyakushū!\n'
+ '\n'
+ 'Anno: 1999\n'
+ '\n'
+ 'Descrizione: Ganbare Goemon: Tengu-tō no Gyakushū! (がんばれゴエモン〜天狗党の逆襲〜) is a '
+ 'Japanese role-playing video game developed by TOSE and published by Konami '
+ 'for the Game Boy Color. It is the sixteenth main entry in the Goemon series. '
+ 'Unlike most games in the series, this game is actually a role-playing game, '
+ 'a genre which was used first in the Ganbare Goemon Gaiden games for the '
+ "Famicom. The game also borrows some concepts from the franchise's anime "
+ 'series.\n'
+ 'The protagonist in the game is a boy named Hiroshi, who somehow gets '
+ 'transported into a Ganbare Goemon game and teams with Goemon in order to '
+ 'save Japan from some evil force.\n'
+ '\n'
+ 'Genere\n'
+ '\n'
+ 'Valutazione: N/A',
+ 'Tactical wargame',
+ 'Sports Management ',
+ ' Seventh Fleet (video game)\n'
+ '\n'
+ 'Anno: 1985\n'
+ '\n'
+ 'Descrizione: Seventh Fleet is a 1985 computer wargame published by '
+ 'Simulations Canada.\n'
+ '\n'
+ 'Genere\n'
+ '\n'
+ 'Valutazione: N/A',
+ ' Blue Powder Grey Smoke\n'
+ '\n'
+ 'Anno: 1986\n'
+ '\n'
+ 'Descrizione: Blue Powder Grey Smoke is a 1986 computer wargame published by '
+ 'Gardé Games of Distinction.\n'
+ '\n'
+ 'Genere\n'
+ '\n'
+ 'Valutazione: N/A',
+ 'Action-role playing ',
+ 'Fantasy comedy',
+ 'Simulator ',
+ 'Reverse harem',
+ 'Space exploration',
+ 'First-person shooter / FPS ',
+ ' Panzer General III: Scorched Earth\n'
+ '\n'
+ 'Anno: 2000\n'
+ '\n'
+ 'Descrizione: Panzer General III: Scorched Earth (2000) is a computer wargame '
+ 'by Mattel Interactive based on the game Panzer General 3D Assault.\n'
+ '\n'
+ 'Genere\n'
+ '\n'
+ 'Valutazione: N/A',
+ ' Akatsuki Blitzkampf\n'
+ '\n'
+ 'Anno: 2007\n'
+ '\n'
+ 'Descrizione: Akatsuki Blitzkampf (アカツキ電光戦記, Akatsuki Denkō Senki, Akatsuki '
+ 'Chronicles) (also known as Akatsuki/En-Eins (アカツキ/エンアイン, Akatsuki/En-Ain)) '
+ 'is a series of Japanese dōjin 2D fighting games, developed by the dōjin '
+ 'circle SUBTLE STYLE for Microsoft Windows. The first installment in the '
+ 'series, titled Akatsuki Shisei Ichigō (アカツキ試製一號, lit. Akatsuki Prototyp 1, '
+ 'Akatsuki Prototype 1) was released in November 2003. It would later be '
+ 'reworked and released as Akatsuki Blitzkampf on April 30, 2007. On September '
+ '27, 2007 Japanese video game magazine Monthly Arcadia revealed that the game '
+ 'would be launched as an arcade title, published by SUBTLE STYLE itself.  The '
+ 'arcade version of the game was titled Akatsuki Blitzkampf Ausf. Achse, and '
+ 'was released february 20, 2008 for the Sega NAOMI arcade system. On march '
+ '26th of 2010 the game was announced to be getting a PC port, which was later '
+ 'released as En-Eins Perfektewelt (エヌアイン完全世界, En-Ain Kanzen Sekai, En-Eins '
+ 'Perfect World) in 2011.\n'
+ '\n'
+ 'Genere\n'
+ '\n'
+ 'Valutazione: N/A',
+ 'Racing Game / Top-down Racing ',
+ ' Drakkhen\n'
+ '\n'
+ 'Anno: 1989\n'
+ '\n'
+ 'Descrizione: Drakkhen is an early-3D role-playing video game, initially '
+ 'developed for the Amiga and Atari ST, and subsequently ported to several '
+ 'other platforms, including MS-DOS and Super Nintendo Entertainment System. '
+ 'It was a very early game in the North American SNES library, and as such, '
+ 'received almost universal coverage in previews of the then-upcoming SNES in '
+ 'gaming magazines of 1990 and early 1991. In February 2018, the DOS version '
+ 'of the game was made available on Steam and in June 2018 on GOG.com.Drakkhen '
+ 'was notable for being among the first role-playing games to feature a '
+ 'three-dimensional playing field and for being an early example of the real '
+ 'time tactics genre. It did not employ a fully 3D game engine, instead '
+ 'implementing a hybrid approach using vectors and bitmapped character-scaling '
+ 'algorithms. Drakkhen features an animated day-night cycle, and the ability '
+ 'to wander freely about the game world, both rarities for a game of its era. '
+ 'The game spawned a sequel, Dragon View, for the SNES.\n'
+ '\n'
+ 'Genere\n'
+ '\n'
+ 'Valutazione: N/A',
+ 'First person shooter / FPS ',
+ 'Action Role Playing ',
+ 'Skateboarding',
+ ' Arabian Nights: Sabaku no Seirei-ō\n'
+ '\n'
+ 'Anno: 1996\n'
+ '\n'
+ 'Descrizione: Arabian Nights: Sabaku no Seirei-ō (アラビアンナイト 〜砂漠の精霊王〜, lit. '
+ '"Arabian Nights: Spirit King of the Desert") is a 1996 Japan-exclusive '
+ 'Role-playing video game developed by Pandora Box and published by Takara for '
+ 'the Super Famicom.\n'
+ '\n'
+ 'Genere\n'
+ '\n'
+ 'Valutazione: N/A',
+ "Shoot 'em up#Types / Bullet hell ",
+ 'Education ',
+ 'Virtual Pet',
+ 'Mech simulator ',
+ "Shoot \\'em up#Bullet hell / Bullet hell (danmaku) ",
+ 'action adventure ',
+ 'Erotic ',
+ 'Endless Runner Game ',
+ 'Collectible Card Game / CCG ',
+ 'Card battle ',
+ 'vehicular combat',
+ 'Combat',
+ 'Online game',
+ ' Full Throttle (1984 video game)\n'
+ '\n'
+ 'Anno: 1984\n'
+ '\n'
+ 'Descrizione: Full Throttle is a video game released in 1984 for the ZX '
+ 'Spectrum and MSX. The player races a 500cc Grand Prix motorcycle on any of '
+ "ten of the world's top racing circuits.\n"
+ '\n'
+ 'Genere\n'
+ '\n'
+ 'Valutazione: N/A',
+ ' Donkey Konga\n'
+ '\n'
+ 'Anno: 2003\n'
+ '\n'
+ 'Descrizione: Donkey Konga is a GameCube rhythm video game series starring '
+ 'the ape Donkey Kong, developed by Namco and published by Nintendo. The '
+ "series' games are intended to be played with a special controller called the "
+ 'DK Bongos that resemble two small bongo drums, but can optionally be played '
+ 'with the standard GameCube controllers.\n'
+ 'Donkey Konga was developed by the team that were responsible for developing '
+ 'the Taiko no Tatsujin series. The tracks include songs such as "Louie '
+ 'Louie", "We Will Rock You", "Shining Star", "Rock Lobster" and "Losing My '
+ 'Religion". There are tracks from the Mario series, The Legend of Zelda '
+ 'series, and other Nintendo related music. The Japanese, North American, and '
+ 'PAL region versions have different track lists, and in the North American '
+ 'version of the first two games, almost all of the licensed '
+ 'non-Nintendo/traditional songs are shortened covers. The first two games '
+ 'have around 30 tracks each, depending on the region; Donkey Konga 3 has 58.\n'
+ '\n'
+ 'Genere\n'
+ '\n'
+ 'Valutazione: 72',
+ 'Match-three',
+ 'Roleplaying Game',
+ 'Interactive storytelling',
+ 'Real-time ',
+ "Shoot 'em up#Scrolling shooters / Horizontal Scrolling Shooter ",
+ 'Real Time Strategy',
+ 'Air combat ',
+ ' RDF 1985\n'
+ '\n'
+ 'Anno: 1983\n'
+ '\n'
+ 'Descrizione: RDF 1985 is a computer wargame published in 1983 by Strategic '
+ 'Simulations. Developed by Roger Keating, it was the second in the "When '
+ 'Superpowers Collide" series.\n'
+ '\n'
+ 'Genere\n'
+ '\n'
+ 'Valutazione: N/A',
+ ' Moondust (video game)\n'
+ '\n'
+ 'Anno: 1983\n'
+ '\n'
+ 'Descrizione: Moondust is a 1983 generative music video game created for the '
+ 'Commodore 64 by virtual reality pioneer, Jaron Lanier. Moondust was '
+ 'programmed in 6502 assembly in 1982, and is considered the first art video '
+ 'game. Moondust has frequently been used as an art installation piece in '
+ 'museum exhibitions from Corcoran Gallery of Art\'s 1983 "ARTcade" to the '
+ 'Smithsonian\'s 2012 "The Art of Video Games". It has also been used by '
+ 'Lanier and others in papers and lectures as an example to demonstrate the '
+ 'unexpected ephemerality of digital data.Moondust is also considered to be '
+ 'the first interactive music publication, and it sold quite successfully. '
+ 'With the profits from Moondust and additional funding from Marvin Minsky, '
+ 'Lanier formed VPL which would later go on to create the DataGlove and the '
+ 'DataSuit and to become one of the primary innovators of virtual-reality '
+ 'research and development throughout the 1980s.\n'
+ '\n'
+ 'Genere\n'
+ '\n'
+ 'Valutazione: N/A',
+ ' Computer Bismarck\n'
+ '\n'
+ 'Anno: 1980\n'
+ '\n'
+ 'Descrizione: Computer Bismarck is a computer wargame developed and published '
+ 'by Strategic Simulations, Inc. (SSI) in 1980. The game is based on the last '
+ 'battle of the battleship Bismarck, in which British Armed Forces pursue the '
+ "German Bismarck in 1941. It is SSI's first game, and features turn-based "
+ 'gameplay and two-dimensional graphics.\n'
+ 'The development staff consisted of two programmers, Joel Billings and John '
+ 'Lyons, who programmed the game in BASIC. Originally developed for the '
+ 'TRS-80, an Apple II version was also created two months into the process. '
+ 'After meeting with other wargame developers, Billings decided to publish the '
+ 'game as well. To help accomplish this, he hired Louis Saekow to create the '
+ 'box art.\n'
+ 'The first commercially published computer war game, Computer Bismarck sold '
+ "well and contributed to SSI's success. It is also credited in part for "
+ 'legitimizing war games and computer games.\n'
+ '\n'
+ 'Genere\n'
+ '\n'
+ 'Valutazione: N/A',
+ ' Eatme.io\n'
+ '\n'
+ 'Anno: 2016\n'
+ '\n'
+ 'Descrizione: EatMe.io is a freemium massively multiplayer online (MMO) game '
+ 'developed by Junglee Games, released in December 2016. The objective of the '
+ 'game is to eat fish and battle other players in the quest for survival. In '
+ 'this multiplayer arena, bigger fish eat smaller fish with mechanics similar '
+ 'to Agar.io. Eatme.io is in the same genre of io games as Agar.io and '
+ 'Slither.io. It was initially released in Canada only for iOS devices and '
+ 'then launched in Europe and Africa followed by a world wide launch. The game '
+ 'is compatible on Android and iOS devices and also available on the web.\n'
+ '\n'
+ 'Genere\n'
+ '\n'
+ 'Valutazione: N/A',
+ 'interactive fiction',
+ 'Modern first-person adventure ',
+ ' Mother (video game)\n'
+ '\n'
+ 'Anno: 1989\n'
+ '\n'
+ 'Descrizione: Mother, officially known outside of Japan as EarthBound '
+ 'Beginnings, is a 1989 role-playing video game developed by Ape and published '
+ 'by Nintendo for the Famicom. It is the first entry in the Mother series. It '
+ 'is modeled on the gameplay of the Dragon Quest series, but is set in the '
+ 'late 20th-century United States, unlike its fantasy genre contemporaries. '
+ "Mother follows the young Ninten as he uses his great-grandfather's studies "
+ 'on psychic powers to fight hostile, formerly inanimate objects and other '
+ 'enemies. The game uses random encounters to enter a menu-based, first-person '
+ 'perspective battle system.\n'
+ "Writer and director Shigesato Itoi pitched Mother's concept to Shigeru "
+ "Miyamoto while visiting Nintendo's headquarters for other business. Though "
+ 'Miyamoto rejected the proposal at first, he eventually gave Itoi a '
+ 'development team. A North American version of the game was localized into '
+ 'English, but was abandoned as commercially nonviable. A copy of this '
+ 'prototype was later found and circulated on the Internet under the informal '
+ 'title EarthBound Zero. The game was eventually released worldwide under the '
+ 'name EarthBound Beginnings for the Wii U Virtual Console in June 2015.\n'
+ 'Mother was the sixth best-selling game of 1989 in Japan, where it sold about '
+ '400,000 copies and received a "Silver Hall of Fame" score from Famitsu '
+ 'magazine. Mother was praised for its similarities to the Dragon Quest series '
+ "and its simultaneous parody of the genre's tropes; however, many considered "
+ 'its sequel EarthBound to be similar and a better overall implementation of '
+ "Mother's gameplay ideas, with the game's high difficulty level polarizing "
+ 'critics, along with balance issues. Jeremy Parish of 1UP.com wrote that '
+ 'Mother importantly generated interest in video game emulation and the '
+ 'historical preservation of unreleased games. The game was re-released in '
+ 'Japan on the single-cartridge compilation Mother 1+2 for the Game Boy '
+ 'Advance in 2003.\n'
+ '\n'
+ '\n'
+ '\n'
+ 'Genere\n'
+ '\n'
+ 'Valutazione: N/A',
+ ' Cultist Simulator\n'
+ '\n'
+ 'Anno: 2018\n'
+ '\n'
+ 'Descrizione: Cultist Simulator is a card-based simulation video game '
+ 'developed by indie studio Weather Factory and published by Humble Bundle. It '
+ 'was released for Microsoft Windows, macOS and Linux computer systems in May '
+ '2018, with mobile versions developed by Playdigious and released in April '
+ '2019. A port for Nintendo Switch was released in February 2021.\n'
+ 'The game, set in a Lovecraftian horror theme, has the player seek out and '
+ 'become the leader of an occult cult, with actions and other events played '
+ 'out through various types of playing cards.\n'
+ '\n'
+ 'Genere\n'
+ '\n'
+ 'Valutazione: 67',
+ 'mecha',
+ 'Vehicle combat ',
+ ' Battlefront (1986 video game)\n'
+ '\n'
+ 'Anno: 1986\n'
+ '\n'
+ 'Descrizione: Battlefront  is a computer wargame developed and published by '
+ 'Strategic Studies Group for the Commodore 64 and Apple II in 1986. \n'
+ 'The game is a turn-based strategy set in World War II.\n'
+ '\n'
+ 'Genere\n'
+ '\n'
+ 'Valutazione: N/A',
+ 'Claw machine',
+ 'Pinball#Computer pinball simulation / Pinball ',
+ 'Match-three ',
+ 'Educational entertainment / Educational ',
+ '2D action fighting ',
+ 'Endless round ',
+ ' Waterloo (video game)\n'
+ '\n'
+ 'Anno: 1989\n'
+ '\n'
+ 'Descrizione: Waterloo is a battle strategy game by PSS for MS-DOS, Atari ST, '
+ 'Amiga and Acorn Archimedes. It was released in the U.K. by Mirrorsoft in '
+ '1989 and in the U.S. by SSI in 1990.\n'
+ '\n'
+ 'Genere\n'
+ '\n'
+ 'Valutazione: N/A',
+ 'Naval warfare',
+ 'Edutainment ',
+ 'Idle ',
+ 'point-and-click adventure',
+ '3D shooter',
+ 'Massively Multiplayer Online Role-Playing Game',
+ "Shoot \\'em up#isometric shooter / Isometric shooter ",
+ 'Tower defense game',
+ ' Close Combat: A Bridge Too Far\n'
+ '\n'
+ 'Anno: 1997\n'
+ '\n'
+ 'Descrizione: Close Combat: A Bridge Too Far, or Close Combat II, is a World '
+ 'War II real-time computer wargame, developed by Atomic Games, and released '
+ 'on October 13, 1997. The second installment of the Close Combat series, the '
+ 'game is played on a two-dimensional map, between two players.\n'
+ 'Close Combat is based on Operation Market Garden; most units in the game are '
+ 'based on those used in 1944, with the exception of a few which are only '
+ 'available in custom games. The game may be played as either the Germans, or '
+ 'the Allies, the latter divided into the British, Americans, and Polish. The '
+ 'game received mainly positive reviews. On February 6, 2018, the game was '
+ 're-released on GOG.com.\n'
+ '\n'
+ 'Genere\n'
+ '\n'
+ 'Valutazione: N/A',
+ 'God Game ',
+ 'Third person shooter',
+ 'Bicycle',
+ ' Mata Nui Online Game\n'
+ '\n'
+ 'Anno: 2001\n'
+ '\n'
+ 'Descrizione: Mata Nui Online Game (also known as Mata Nui Adventure Game or '
+ 'Mata Nui: The Online Game)  is a 2001 point-and-click adventure browser game '
+ 'developed by Templar Studios to promote the Lego Bionicle  line of '
+ 'constructible action figures. The game follows Takua, a villager on the '
+ 'island of Mata Nui, as he explores the island, encountering other villagers '
+ 'and the Toa, heroic elemental warriors, on their quest to defeat the evil '
+ 'Makuta.\n'
+ 'The game was developed and released episodically on the official Bionicle '
+ 'website throughout 2001, launching in January and concluding in December. It '
+ 'was later re-released in 2006 in downloadable form and in 2013 by Templar on '
+ 'their website. Following the cancelation of Lego Bionicle: The Legend of '
+ 'Mata Nui, Mata Nui Online Game became the primary vehicle for the 2001 '
+ 'Bionicle story. The game was highly popular and is credited with helping to '
+ 'establish the success of the toy line. It received awards from the marketing '
+ 'industry, and retrospective reviews have highlighted its expansion of the '
+ 'concept of what Lego-related play can be and its popularity among fans of '
+ 'Bionicle.\n'
+ '\n'
+ 'Genere\n'
+ '\n'
+ 'Valutazione: N/A',
+ 'Cue sports ',
+ ' Kinect Joy Ride\n'
+ '\n'
+ 'Anno: 2010\n'
+ '\n'
+ 'Descrizione: Kinect Joy Ride is a racing game for Xbox 360 and a launch '
+ 'title for its Kinect hardware in 2010. The game was developed by BigPark and '
+ 'published by Microsoft Game Studios.\n'
+ '\n'
+ 'Genere\n'
+ '\n'
+ 'Valutazione: N/A',
+ ' MX vs. ATV: On the Edge\n'
+ '\n'
+ 'Anno: 2006\n'
+ '\n'
+ 'Descrizione: MX vs. ATV: On the Edge is a racing video game developed by '
+ 'Tantalus Media and published by THQ for the PlayStation Portable. It was '
+ 'released in 2006.\n'
+ 'There are several modes of play covering the entire world of pro ATV and MX '
+ 'racing like Hill climb, FMX, super cross race, and others. In this game, '
+ 'players can drive not only ATVs and MX bikes but dune buggies, golf carts, '
+ 'stadium trucks, monster trucks, and sand rails.\n'
+ "It's a fairly straightforward port of the PS2, Xbox, PC title MX vs. ATV "
+ 'Unleashed which was released in 2005 by THQ.  Besides obvious graphical '
+ 'differences and the addition of several new playable areas, the game lacks '
+ 'the ability to fly airplanes, unlike the console edition of the game.\n'
+ '\n'
+ 'Genere\n'
+ '\n'
+ 'Valutazione: N/A',
+ 'Management simulation',
+ 'Team brawler',
+ 'Sim racing ',
+ 'Arcade-adventure ',
+ 'Arcade Sports ',
+ 'Submarine adventure ',
+ 'Interactive film / FMV ',
+ 'Tactical CCG ',
+ 'Game show',
+ 'Light gun shooter / Light gun ',
+ 'Education / Game ',
+ 'Role-Playing Game / RPG ',
+ ' The Witcher: Monster Slayer\n'
+ '\n'
+ 'Anno: 2021\n'
+ '\n'
+ 'Descrizione: The Witcher: Monster Slayer is an augmented reality '
+ 'role-playing video game developed by Spokko, part of the CD Projekt group. '
+ 'The game was released for Android and iOS on July 21, 2021.\n'
+ '\n'
+ 'Genere\n'
+ '\n'
+ 'Valutazione: N/A',
+ 'MMOG',
+ 'Hidden object ',
+ 'Tactical role playing ',
+ 'first-person shooter / Shooter ',
+ 'Sidescroller ',
+ ' SINoALICE\n'
+ '\n'
+ 'Anno: 2017\n'
+ '\n'
+ 'Descrizione: SINoALICE is a role-playing video game developed by Pokelabo '
+ 'for Android and iOS. The game is directed by Yoko Taro, better known for his '
+ 'work in the NieR and Drakengard series. The game was released in Japan by '
+ 'Square Enix in June 2017, and worldwide by Pokelabo in July 2020.\n'
+ '\n'
+ '\n'
+ '\n'
+ 'Genere\n'
+ '\n'
+ 'Valutazione: N/A',
+ 'Factory simulation',
+ 'fantasy world / fantasy ',
+ 'Puzzle platformer',
+ 'Game ',
+ 'Half-court basketball ',
+ "Shoot \\'em up#Multidirectional shooter / Multidirectional shooter ",
+ 'Stealth action ',
+ 'action game',
+ 'Light gun shooter ',
+ 'Dating simulator',
+ 'cricket / Sports ',
+ 'Soccer ',
+ 'Arcade ice hockey ',
+ ' The Little Acre\n'
+ '\n'
+ 'Anno: 2016\n'
+ '\n'
+ 'Descrizione: The Little Acre is an adventure game developed by Pewter Games '
+ 'Studios with Charles Cecil and published by Curve Digital. \n'
+ 'It was released on PlayStation 4, Xbox One, Nintendo Switch and Steam on '
+ 'December 13, 2016. It was originally planned to be released November 22, '
+ '2016.\n'
+ '\n'
+ 'Genere\n'
+ '\n'
+ 'Valutazione: 68',
+ 'World War I',
+ 'Amateur flight simulation / Flight simulation ',
+ 'D.J. ',
+ 'Sports manager ',
+ 'Platform Game ',
+ "Shoot \\'em up#Types / Horizontal-scrolling shooter ",
+ 'Theme park simulation ',
+ ' Cover Girl Strip Poker\n'
+ '\n'
+ 'Anno: 1991\n'
+ '\n'
+ 'Descrizione: Cover Girl Strip Poker, alternately titled Cover Girl Poker, is '
+ 'a 1991 erotic video game based upon five-card strip poker and originally '
+ 'developed and self-published by Emotional Pictures; it was released for the '
+ 'Amiga, DOS, Commodore 64, CDTV, and CD32. Cover Girl Strip Poker is the '
+ 'original Danish title; it was retitled Cover Girl Poker outside of Denmark '
+ 'in the rest of Europe, and the title was subsequently reverted to Cover Girl '
+ 'Strip Poker for the European CDTV and CD-ROM DOS releases. Emotional '
+ 'Pictures was a subsidiary of Danish company InterActive Vision A/S.\n'
+ 'Cover Girl Strip Poker received negative to mixed reviews from critics; many '
+ "reviews criticized Strip Poker's 'poor' digitized graphics, 'bad' AI, and "
+ "several reviews criticized the game's sexual content, calling it "
+ "'unappealing' or 'sad'. While other versions of the game received more mixed "
+ 'reviews, reviews of the Commodore 64 version were universally negative. Some '
+ 'reviews criticized Strip Poker as sexist, with one magazine calling it "an '
+ 'affront to the female species". In addendum to this, Strip Poker has a legal '
+ 'disclaimer stating that the game is "Not manufactured, distributed or '
+ 'endorsed by any of the models appearing in the product"; a model featured in '
+ 'the game later stated that she was not informed what the video '
+ 'footage/photoshoot was for, and several models did not receive pay for their '
+ 'work.\n'
+ '\n'
+ 'Genere\n'
+ '\n'
+ 'Valutazione: N/A',
+ 'Off-road racing ',
+ 'Puzzle video games',
+ 'Art ',
+ 'Action-Adventure ',
+ 'Christian ',
+ 'turn-based tactics',
+ 'Massive Multiplayer Online Role-Playing Game / MMORPG ',
+ 'Puzzle adventure',
+ 'Naval simulator ',
+ 'Racing with top-down perspective ',
+ 'Virtual Reality',
+ 'Battle royale genre / Battle royale ',
+ 'massively multiplayer online ',
+ 'Exergaming / Fitness ',
+ 'Rugby union ',
+ 'Isometric ',
+ 'Concentration ',
+ 'Space trading and combat simulator / Space trading and exploration ',
+ 'science fiction / Sci-Fi ',
+ 'Audio ',
+ 'Roleplaying ',
+ 'Action-platform ',
+ 'Adventure video game',
+ 'Fantasy sports ',
+ ' C3 Racing\n'
+ '\n'
+ 'Anno: 1998\n'
+ '\n'
+ 'Descrizione: C3 Racing is a racing game released in 1998 by Infogrames '
+ 'Multimedia for the PlayStation. The game allows the player to race in 11 '
+ 'locations around the world in a variety of sports cars. In each country '
+ "there are three tracks to race on. The term C3 Racing stands for three C's; "
+ 'Car Constructors Championship. The game was released in the UK as Max Power '
+ 'Racing as a tie-in to the Max Power magazine. In North America, the game was '
+ 'released as TNN Motorsports Hardcore TR, which featured different cars, but '
+ 'with the similar tracks (relocated to locations within the United States) '
+ 'and menus.\n'
+ '\n'
+ 'Genere\n'
+ '\n'
+ 'Valutazione: N/A',
+ 'Puzzle games',
+ ' Germany 1985\n'
+ '\n'
+ 'Anno: 1983\n'
+ '\n'
+ 'Descrizione: Germany 1985 is a computer wargame published in 1983 by '
+ 'Strategic Simulations. Developed by Roger Keating, it was the first in the '
+ '"When Superpowers Collide" series, and was followed by RDF 1985, Baltic '
+ '1985: Corridor to Berlin and Norway 1985.\n'
+ '\n'
+ 'Genere\n'
+ '\n'
+ 'Valutazione: N/A',
+ ' Rough Racer\n'
+ '\n'
+ 'Anno: 1990\n'
+ '\n'
+ 'Descrizione: Rough Racer is a top-down racing game released by Sega in 1990. '
+ 'It was only released in Japan on the Sega System 24 hardware.\n'
+ '\n'
+ 'Genere\n'
+ '\n'
+ 'Valutazione: N/A',
+ 'Volleyball ',
+ 'rhythm game',
+ '2D weapon based fighting ',
+ ' Koro Koro Puzzle Happy Panechu!\n'
+ '\n'
+ 'Anno: 2002\n'
+ '\n'
+ 'Descrizione: Koro Koro Puzzle Happy Panechu! (コロコロパズル ハッピィパネッチュ!) is a '
+ 'puzzle video game software developed and published by Nintendo for the Game '
+ 'Boy Advance.  It was released only in Japan on March 8, 2002. It is the '
+ 'first Game Boy Advance title that uses a tilt-sensor chip.\n'
+ '\n'
+ 'Genere\n'
+ '\n'
+ 'Valutazione: N/A',
+ 'Single player / Single ',
+ 'Shooting game',
+ 'Mecha',
+ ' Pachicom\n'
+ '\n'
+ 'Anno: 1985\n'
+ '\n'
+ 'Descrizione: Pachicom (パチコン, Pachikon) is a parlor video game released for '
+ 'multiple platforms that is themed around pachinko. It was released in 1985 '
+ 'exclusively to the Japanese market.The game of pachinko is hugely popular in '
+ 'Japan, since it involves playing pinball with an element of slot machines '
+ 'mixed in along with gambling. There are four different gameplay modes to '
+ 'choose from (two of them assign a player with a pachinko machine while the '
+ 'other two allow players to choose their own machine).\n'
+ '\n'
+ 'Genere\n'
+ '\n'
+ 'Valutazione: N/A',
+ 'Psychological horror ',
+ 'visual novel',
+ 'Roguelike deck-building ']
+
