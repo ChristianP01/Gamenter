@@ -104,10 +104,12 @@ def searchQueryCLI(user_query):
     while True:
         #Provo a fare una versione che prenda un numero indefinito di parametri
         word_list = user_query.split(" ")  
-        L = [] 
+        Lcontent = []
+        Ltitle = [] 
         for word in word_list:
-            L.append(Term("content", word))
-        query = And(L)
+            Lcontent.append(Term("content", word))
+            Ltitle.append(Term("title", word))
+        query = And(Lcontent)| Or(Ltitle) 
         results = searcher.search(query)
         print(results)
         user_query = yield results
