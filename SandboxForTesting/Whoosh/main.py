@@ -38,7 +38,7 @@ if __name__ == "__main__":
 def openIndex():
     #Sto copiando dal tutorial, ma direi di star creando appunto uno schema che ha
     #un titolo in formato testuale e un contenuto in formato testuale
-    schema = Schema(title=TEXT(stored=True), content=TEXT)
+    schema = Schema(title=TEXT(stored=True), content=TEXT(sortable=True))
 
     #Leggo dalla guida che si possono creare i propri tipi di fields
 
@@ -89,6 +89,21 @@ def searchQueryCLI(user_query):
         query = And(L)
         results = searcher.search(query)
         print(results)
+        user_query = yield results
+
+
+def searchQueryCLIwithSCORING(user_query):
+    ix = openIndex()
+    from whoosh import scoring
+    searcher = ix.searcher(weighting=scoring.TF_IDF())
+    while True:
+        #Provo a fare una versione che prenda un numero indefinito di parametri
+        word_list = user_query.split(" ")  
+        L = [] 
+        for word in word_list:
+            L.append(Term("content", word))
+        query = And(L)
+        results = searcher.search(query)
         user_query = yield results
 
 
