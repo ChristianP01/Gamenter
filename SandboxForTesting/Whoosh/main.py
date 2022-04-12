@@ -109,9 +109,9 @@ def searchQueryCLI(user_query):
         for word in word_list:
             Lcontent.append(Term("content", word))
             Ltitle.append(Term("title", word))
-        query = And(Lcontent)| Or(Ltitle) 
+        query = And(Lcontent) | Or(Ltitle) 
         results = searcher.search(query)
-        print(results)
+        #print(results)
         user_query = yield results
 
 def searchQuery(gui, user_query):
