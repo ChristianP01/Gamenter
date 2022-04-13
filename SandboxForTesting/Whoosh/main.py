@@ -5,7 +5,6 @@ from pprint import pprint
 from whoosh.fields import Schema, TEXT
 from whoosh.query import *
 from whoosh.index import open_dir
-from os import listdir
 
 DEBUG = True
 PATH_TO_DOCUMENT = "../../Documenti"
