@@ -177,7 +177,7 @@ def proximitySearch():
     for word in word_list:
         L.append(Term("title", word))
 
-    q = spans.SpanNear2(L, slop=1)
+    q = spans.SpanNear2(L, slop=5, ordered=True)
 
     
     with ix.searcher() as s:
