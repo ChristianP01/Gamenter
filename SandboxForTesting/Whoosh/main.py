@@ -5,6 +5,7 @@ from pprint import pprint
 from whoosh.fields import Schema, TEXT
 from whoosh.query import *
 from whoosh.index import open_dir
+from whoosh.lang.porter import stem
 
 DEBUG = True
 PATH_TO_DOCUMENT = "../../Documenti"
@@ -38,6 +39,8 @@ def readDocument2(path):
     Il documento deve essere correttamente formattato.
     Returna una tupla del tipo (titolo, descrizione, valutazione, genere)
     '''
+
+
     try:
         with open(path, "r") as file:
             content = file.read()
@@ -45,6 +48,16 @@ def readDocument2(path):
             description : str = content[content.find("Descrizione:") + len("Descrizione: ") : content.find("\n", content.find("Descrizione:"))]
             mark : str = content[content.find("Valutazione:") + len("Valutazione: ") : content.find("\n", content.find("Valutazione:"))]
             genres : str = content[content.find("Genere:") + len("Genere: ") : content.find("\n", content.find("Genere:"))]
+            
+ 
+            """
+            title = stem(title)
+            description = stem(description)
+            mark = stem(mark)
+            genres = stem(genres)
+            """
+
+
             return (title, description, mark, genres)
     except:
         raise FileNotFoundError
@@ -56,7 +69,10 @@ if __name__ == "__main__":
 def openIndex():
     #Sto copiando dal tutorial, ma direi di star creando appunto uno schema che ha
     #un titolo in formato testuale e un contenuto in formato testuale
-    schema = Schema(title=TEXT(stored=True), content=TEXT(stored=True), mark=TEXT(stored=True), genres=TEXT(stored=True) )
+    from whoosh import analysis
+    ana = analysis.StemmingAnalyzer(stoplist=None, minsize=0)
+    schema = Schema(title=TEXT(stored=True, analyzer=ana), content=TEXT(stored=True, analyzer=ana),
+        mark=TEXT(stored=True, analyzer=ana), genres=TEXT(stored=True, analyzer=ana) )
 
     #Leggo dalla guida che si possono creare i propri tipi di fields
 
@@ -77,11 +93,14 @@ def openIndex():
         genres_list = []
 
         from os import listdir
+        
+        
 
         for f in listdir(PATH_TO_DOCUMENT):
             document = readDocument2(PATH_TO_DOCUMENT+"/"+f)
+
             #Writer accetta stringhe in unicode, ma ho letto che tutte le stringhe in python3 sono in unicode quindi polleg
-            writer.add_document(title=document[0], content=document[1], mark = document[2], genres = document[3])
+            writer.add_document(title=document[0], content=document[1], mark = document[2], genres = document[3], )
 
             if document[3] not in genres_list:
                 genres_list.append(document[3])
@@ -96,20 +115,29 @@ def openIndex():
         ix = index.open_dir("index")
     return ix
 
+
+
 def searchQueryCLI(user_query):
     ix = openIndex()
 
     searcher = ix.searcher()
     while True:
         #Provo a fare una versione che prenda un numero indefinito di parametri
-        word_list = user_query.split(" ")  
+        word_list = user_query.split(" ") 
+
         Lcontent = []
         Ltitle = [] 
         for word in word_list:
             Lcontent.append(Term("content", word))
             Ltitle.append(Term("title", word))
-        query = And(Lcontent) | Or(Ltitle) 
-        results = searcher.search(query)
+        #query = And(Lcontent) | Or(Ltitle)
+
+        query = And(Ltitle)
+        #query = And(Lcontent)
+
+        #query = And(Lcontent) | Or(Ltitle)
+
+        results = searcher.search(query, limit=10)
         #print(results)
         user_query = yield results
 

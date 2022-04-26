@@ -11,4 +11,4 @@ while True:
     result = qgen.send(q)
     print(result)
     for r in result:
-        print(r["title"])
+        print(f"{r['title']} con rank {r.score}")
