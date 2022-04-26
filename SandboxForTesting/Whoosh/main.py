@@ -121,13 +121,38 @@ def searchQuery(gui, user_query):
         word_list = user_query.split(" ")
         print(f"Lista parole: {word_list}")
         
-        L = []
+        Lcontent = []
+        Ltitle = []
+        Lscores = {}
         for word in word_list:
-            L.append(Term("content", word))
+            Lcontent.append(Term("content", word))
+            Ltitle.append(Term("title", word))
 
-        query = And(L)
+        query = And(Lcontent) | Or(Ltitle) 
         results = searcher.search(query)
         gui.resultsText.setPlainText("") #Inizializzo il valore iniziale del box risultati
 
         for r in results: #Appende i vari risultati singoli all'interno della lista
-            gui.resultsText.setPlainText(str(gui.resultsText.toPlainText())+str(r['title'])+"\n")
+            gui.resultsText.setPlainText(str(gui.resultsText.toPlainText())+str(r['title'])+" "+str(r.score)+"\n")
+            Lscores[r['title']]= r.score
+            
+
+def proximitySearch():
+    from whoosh import query
+    from whoosh.query import spans
+
+    ix = openIndex()
+    user_query = input("Inserisci query: ")
+    word_list = user_query.split(" ")
+
+    L = []
+    for word in word_list:
+        L.append(Term("title", word))
+
+    q = spans.SpanNear2(L, slop=1)
+
+    
+    with ix.searcher() as s:
+        results = s.search(q)
+        for r in results:
+            print(r)
