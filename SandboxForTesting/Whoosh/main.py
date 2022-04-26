@@ -70,7 +70,7 @@ def openIndex():
     #Sto copiando dal tutorial, ma direi di star creando appunto uno schema che ha
     #un titolo in formato testuale e un contenuto in formato testuale
     from whoosh import analysis
-    ana = analysis.StemmingAnalyzer(stoplist=None, minsize=0)
+    ana = analysis.StemmingAnalyzer(stoplist=None, minsize=0, maxsize=0)
     schema = Schema(title=TEXT(stored=True, analyzer=ana), content=TEXT(stored=True, analyzer=ana),
         mark=TEXT(stored=True, analyzer=ana), genres=TEXT(stored=True, analyzer=ana) )
 
