@@ -1,4 +1,4 @@
 from main import proximitySearch
 
-#Working
+#Works
 proximitySearch()
