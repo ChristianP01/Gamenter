@@ -116,6 +116,36 @@ def openIndex():
     return ix
 
 
+def searchTitle(searcher, titleList):
+    query = And(titleList)
+    results = searcher.search(query, limit=10)
+    return results
+
+def searchDescription(searcher, descList):
+    query = And(descList)
+    results = searcher.search(query, limit=10)
+    return results
+
+def joinResults(*results):
+    '''
+    IL PRIMO PARAMETRO DEVE ESSERE LA LISTA DEI TITOLI
+    '''
+
+    final_results = {}
+
+    titoli = results[0]
+    for t in titoli:
+        final_results[t['title']] = float(t.score) * 1.5
+
+    for r in results[1:]:
+        for doc in r:
+            if doc['title'] not in final_results:
+                final_results[doc['title']] = float(doc.score)
+            else:
+                final_results[doc['title']] += float(doc.score)
+    return final_results
+
+
 
 def searchQueryCLI(user_query):
     ix = openIndex()
@@ -130,16 +160,17 @@ def searchQueryCLI(user_query):
         for word in word_list:
             Lcontent.append(Term("content", word))
             Ltitle.append(Term("title", word))
+        
+        resultTitle = searchTitle(searcher, Ltitle)
+        resultDescription = searchDescription(searcher, Lcontent)
+        
         #query = And(Lcontent) | Or(Ltitle)
-
-        query = And(Ltitle)
+        #query = And(Ltitle)
         #query = And(Lcontent)
-
         #query = And(Lcontent) | Or(Ltitle)
-
-        results = searcher.search(query, limit=10)
+        #results = searcher.search(query, limit=10)
         #print(results)
-        user_query = yield results
+        user_query = yield joinResults(resultTitle, resultDescription)
 
 def searchQuery(gui, user_query):
 
