@@ -215,7 +215,7 @@ def proximitySearch(word_list, ix):
 def searchByMark(word_list, ix, mark_min=None, mark_max=None):
 
     marked_games = []
-
+    fatto da preti
     if mark_min is None:
         mark_min = 0
 
