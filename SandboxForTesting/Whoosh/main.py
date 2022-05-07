@@ -165,22 +165,51 @@ def searchQuery(gui, user_query):
             Lscores[r['title']]= r.score
             
 
-def proximitySearch():
+def proximitySearch(word_list, ix):
     from whoosh import query
     from whoosh.query import spans
-
-    ix = openIndex()
-    user_query = input("Inserisci query: ")
-    word_list = user_query.split(" ")
 
     L = []
     for word in word_list:
         L.append(Term("title", word))
 
-    q = spans.SpanNear2(L, slop=5, ordered=True)
+    q = spans.SpanNear2(L, slop=5, ordered=False)
 
     
-    with ix.searcher() as s:
-        results = s.search(q)
-        for r in results:
-            print(r)
+    results = ix.searcher().search(q)
+        
+    return results
+
+
+def searchByMark(word_list, ix, mark_min=None, mark_max=None):
+
+    marked_games = []
+
+    if mark_min is None:
+        mark_min = 0
+
+    if mark_max is None:
+        mark_max = 100
+
+    results_games = proximitySearch(word_list, ix)
+    print("All games: ")
+    for r in results_games:
+        print(f"{r['title']} with value of {r['mark']}")
+
+    for r in results_games:
+        try:
+            if float(r['mark']) in range(mark_min, mark_max):
+                marked_games.append(r)
+        except:
+            continue
+
+    print("Marked games: ")
+    for r in marked_games:
+        print(f"{r['title']} with value of {r['mark']}")
+
+
+x = input("Inserisci query: ")
+word_list = x.split(" ")
+ix = openIndex()
+
+searchByMark(word_list, ix, 20, 80)
