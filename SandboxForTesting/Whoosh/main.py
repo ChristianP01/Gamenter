@@ -196,10 +196,11 @@ def searchQuery(gui, user_query):
             Lscores[r['title']]= r.score
             
 
+# Utilizza la proximity retrieval per effettuare query all'inverted index
 def proximitySearch(word_list, ix):
     from whoosh import query
     from whoosh.query import spans
-
+    
     L = []
     for word in word_list:
         L.append(Term("title", word))
@@ -211,7 +212,7 @@ def proximitySearch(word_list, ix):
         
     return results
 
-
+# Ricerca attraverso proximity retrieval con range di voto
 def searchByMark(word_list, ix, mark_min=None, mark_max=None):
 
     marked_games = []
@@ -223,24 +224,14 @@ def searchByMark(word_list, ix, mark_min=None, mark_max=None):
         mark_max = 100
 
     results_games = proximitySearch(word_list, ix)
-    print("All games: ")
-    for r in results_games:
-        print(f"{r['title']} with value of {r['mark']}")
 
     for r in results_games:
         try:
-            if float(r['mark']) in range(mark_min, mark_max):
+            if int(r['mark']) in range(mark_min, mark_max):
                 marked_games.append(r)
         except:
             continue
 
-    print("Marked games: ")
+    print(f"\nMarked games: {len(marked_games)}")
     for r in marked_games:
-        print(f"{r['title']} with value of {r['mark']}")
-
-
-x = input("Inserisci query: ")
-word_list = x.split(" ")
-ix = openIndex()
-
-searchByMark(word_list, ix, 20, 80)
+        print(f"{r['title']}, with value of {r['mark']}")
