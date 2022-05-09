@@ -1,793 +1,11298 @@
-action-role playing 
-strategy and management
-air combat
-survival horror
-medal game
-card 
-rpg 
-claymation
-side-scroller 
-dungeon crawl 
-hunting
-role-playing game
-skateboarding
-plane racing 
-interactive fiction
-space combat 
-horror 
-chess
-shoot \'em up / third-person shooter 
-artillery 
-shoot \'em up#bullet hell / bullet hell (danmaku) 
-tower defense game
-post apocalyptic
-amateur flight simulation / flight simulator 
-simulator 
-racing game / top-down racing 
-shooter video game
-car combat 
-platform game 
-sport simulations 
-horizontal shooter
-combat
-horse racing
-tactical rpg / tactical role-playing 
-d.j. 
-mud
-scrolling shooters / scrolling shooter 
-match 3
-space combat simulator 
-multidirectional shooter
-trading card game
-virtual pet
-post-apocalyptic
-historical strategy 
-cooking simulation 
-real-time strategy
-pet-raising simulation
-decathlon 
-strategy 
-tactical wargame
-train simulation
-tactical role-playing 
-racing game
-sports 
-puzzle / puzzle game 
-turn-based strategy / turn based 
-3d computer graphics software
-snake 
-tabletop game
-pet care simulation
-edutainment 
-strategy involving breeding/constructing 
-education / game 
-run-and-gun shooter
-versus fighting game
-first-person shooter 
-text adventure
-educational 
-mind sport
-turn based strategy
-dark comedy
-construction and management simulation
-online 
-puzzle games
-combat flight simulator
-massively multiplayer online game
-massive multiplayer online roleplaying game
-air combat simulators 
-casual game
-rhythm 
-action rpg / action 
-boxing
-roguelike deck-building
-comedy-drama
-trivia
-online text-based role-playing game
-action video game
-romance novel / romance 
-arcade style racing 
-tactical role-playing
-stealth 
-light gun shooter
-auto racing
-action-platform 
-computer chess
-soccer/football 
-otome 
-dungeon crawl
-social 
-cue sports / billiards/pool 
-dating sim
-world war i
-shoot \'em up / light gun shooter 
-indie game
-game show
-educational video game
-sim racing / driving simulation 
-cue sports 
-puzzle adventure / puzzle adventure 
-christian 
-mush
-modern first-person adventure 
-shoot \'em up#fixed shooters / fixed shooter 
-role playing game
-player versus player / pure pk 
-breakout clone / block breaker 
-political simulation 
-miniature wargaming
-traditional soccer simulation 
-first-person adventure
-endless runner / runner 
-aerial combat 
-massively multiplayer online first-person shooter
-photography
-puzzle video games
-otome
-music 
-tile-matching 
-arcade game 
-audio game
-endless running 
-simulation 
-comic fantasy
-shoot \'em up#run and gun / run and gun 
-shoot \'em up#run and gun / 2d run and gun 
-submarine adventure 
-run-and-gun platform 
-sporting management simulation 
-space flight simulation 
-pinball
-trivia 
-collectible card game
-affective videogames
-grand strategy wargame
-horse racing 
-turn-based 
-traditional boxing 
-fishing
-light gun shooter / light gun 
-driving involving vehicular combat 
-exploration game
-space combat simulation / space combat 
-bowling
-simulation
-graphic adventure 
-scrolling beat \'em up
-versus fighting 
-mmorts 
-4x
-literature
-single-player 
-3d shooter
-ten pin bowling
-first-person shooter / fps 
-submarine simulation 
-fantasy world / fantasy 
-historical fiction
-mech simulation
-city-building game
-sports management game
-game creation system
-mmosg 
-science fiction
-sports - ice hockey sim 
-role playing 
-third-person shooter
-sim racing
-train simulator / train 
-extreme sports 
-erotic 
-exergaming 
-basketball
-quiz
-breakout clone / breakout 
-shoot\'em up / twin-stick shooter 
-multiplayer online battle arena
-survival horror 
-virtual world
-puzzle-platformer 
-metroidvania
-life simulation
-amateur flight simulation
-physics-based 
-amateur flight simulation / flight simulation 
-exergaming / fitness 
-space combat simulator
-tactical role playing 
-roleplaying game
-scrolling shooter 
-educational
-2d computer graphics / 2-d 
-hidden object game
-point and click adventure
-social networking service
-first-person shooter / shooter 
-endless running game
-free-to-play
-target shooting 
-tower defense
-non-fungible token / nft 
-air combat 
-shoot \'em up / vertical-scrolling shooter 
-reverse harem
-cricket / sports 
-god game
-side-scrolling shooter
-off-road arcade racing 
-block kuzushi / block breaker 
-racing
-party games
-interactive movie
-strategy game / strategy 
-shoot \'em up 
-tactical shooter
-music / rhythm 
-space trading and combat 
-raising simulation 
-software toy
-adventure video game
-first-person adventure 
-sports manager 
-tank simulation
-half-court basketball 
-first-person shooter / first-person action 
-shoot\'em up / fixed shooter 
-sports w/ third-person perspective 
-point-and-click 
-scrolling shooter
-real-time strategy / real-time 
-shoot \'em up / action 
-turn-based strategy game
-third person shooter
-role-playing game 
-sandbox 
-volleyball 
-sports game / sports 
-arpg 
-interactive movie / interactive drama 
-graphic adventure / point & click adventure 
-text adventure 
-2d versus fighting 
-gambling 
-artificial life
-breakout clone
-graphic adventure game
-interactive film / interactive movie 
-breakout clone / \'\'breakout\'\' 
-sidescroller 
-beat \'em up / beat-\'em-up 
-slot machine game / slot machine 
-theme park simulation 
-beat-\'em-up
-cinematic platformer
-computer game
-pinball 
-role-playing game / rpg 
-arcade-style racing 
-cinematic platformer 
-massively-multiplayer 
-flight simulator
-space exploration
-strategy
-arcade 
-arcade adventure
-sim racing 
-turn-based strategy / turn-based strategy 
-action rpg 
-rhythm
-gambling
-social network game
-social simulation 
-single player / single 
-stealth game
-space flight simulator
-shoot\'em up / vertical-scrolling shooter 
-2d platform 
-role-playing 
-combat flight simulator 
-platforming 
-shooting game
-traditional basketball 
-spy fiction
-edutainment
-turn-based strategy / turn-based 
-shoot \'em_up#run and gun / run and gun 
-action (fiction) / action 
-beat\'em up
-endless runner game 
-extreme sports
-turn-based
-action rpg
-sports
-puzzle 
-music video game
-2d fighting 
-shoot \'em up / run and gun 
-point and click
-shoot \'em up / top-down shooter 
-scrolling shooter / vertically scrolling shooter 
-tactical ccg 
-arcade racing
-eroge
-vehicular combat game
-baseball
-mmorpg
-space trading and combat simulator 
-racing with top-down perspective 
-survival horror / horror 
-claw machine
-football 
-racing 
-fighting
-mecha
-first-person shooter / first-person 
-romantic comedy
-computer wargame
-virtual reality
-top-down shooter 
-puzzle / puzzler 
-noutore
-platform game / platform 
-social networking service / social 
-exploration 
-vertically scrolling shooter 
-non specificato
-edutainment / educational 
-shoot \'em up / top down shooter 
-incremental 
-minigames
-slot machine
-real-time tactics / real-time 
-golf 
-roguelite
-shoot \'em up#rail shooters / rail shooter 
-traditional hockey 
-business simulation game
-business simulation
-augmented reality 
-online
-racing rpg 
-multiplayer
-time management 
-visual novel
-beat \'em-up
-massively multiplayer online racing 
-top-down shooter
-social simulation game
-3d platformer 
-newsgame
+Action role-playing 
+Platform 
+Adventure 
+Sports 
+Turn-based strategy
+Music video game
+Puzzle 
+Platform 
+Adventure 
+Role-playing video game
+Sports 
+Role-playing 
+Fighting game
+Rhythm 
+Turn-based tactics
+Beat 'em up
+Role-playing video game
+Platform 
+Turn-based strategy 
+Role-playing 
+First-person shooter
+Action-adventure
+Role-playing video game
+Multidirectional shooter
+Simulation 
+Racing 
+Turn-based tactics
+Maze 
+Action 
+Adventure 
+Sports 
+Sports 
+Maze 
+Role-playing video game
+Survival horror
+Real-time strategy
+Adventure game
+Strategy 
+Turn-based strategy
+Digital collectible card game
+Real-time strategy
+Interactive fiction
+Breakout clones / \'\'Breakout\'\' clone 
+Action-adventure
+Platform 
+Action 
+Action 
+Puzzle 
+Shooter 
+Action-adventure game
+First-person shooter
+Sports 
+Platform 
+Space combat simulation / Space combat 
+Action role-playing 
+Tactical shooter
+Visual novel
+Action-adventure 
+Sports 
+Puzzle 
+Puzzle 
+Music 
+Dating sim
+Action 
+Card battle
+Sport 
+Traditional baseball 
+Point-and-click Adventure
+Puzzle 
+Real-time tactics
+Racing 
+Action 
+Action-adventure 
+Exergaming 
+Tactical shooter
+Platform 
+Platform 
+Role-playing video game
+Traditional sports 
+Maze 
+Traditional football 
+First-person shooter
+Shoot \'em up#Scrolling shooters / Vertically scrolling shooter 
+Action role-playing 
+Strategy 
+Shoot \'em up / Vertical-scrolling shooter 
+Real-time strategy
+Life simulation 
+Point-and-click adventure 
+Action-adventure 
+Strategy 
+Action 
+Computer wargame
+Tactical shooter
+Adventure 
+Action 
+Sim racing
+First-person shooter
+Platformer 
+Action 
+Graphic adventure 
+Adventure 
+Space combat simulator
+Platform 
+Maze 
+Metroidvania
+Business simulation game
+City-building 
+Political simulation 
+First-person shooter
+Tactical role-playing
+Role-playing 
+Adventure 
+Open-world
+Platform 
+Platform 
+Action 
+Action 
+Roguelike
+Casino game
+Role-playing 
+Racing simulation
+First-person shooter
+Adventure 
+Simulation 
+Interactive fiction / Text adventure 
+Role-playing 
+Puzzle 
+Puzzle 
+Sports 
+Sports 
+Shoot \'em up / Fixed shooter 
+First-person shooter
+Action-adventure 
+Simulation video game
+Adventure 
+Adventure 
+Racing 
+Role-playing video game
+Point-and-click 
+First-person shooter
+Role-playing video game
+Vehicular combat 
 
-mile
-digital board game
-maze
-vehicular combat 
-breakout clone / ''breakout'' 
-fighting 
-nature sports 
-board 
-arcade sports 
-arcade game
-arcade ice hockey 
-online game
-pinball#computer pinball simulation / pinball 
-shooting 
-sports management 
-interactive storytelling
-survival 
-2d action 
-shoot \'em up#types / run and gun 
-match-three
-raster graphics editor
-word puzzle 
-casino 
-2d shooter
-incremental game
-vertically scrolling shooter
-shoot 'em up / top-down shooter 
-cooking 
-business simulation 
-arcade-adventure 
-multi-directional shooter
-combat flight simulation game
-fighting game
-drama
-educational simulation 
-hack and slash / hack-and-slash 
-point-and-click adventure game
-fantasy
-sci-fi mech simulation 
-bicycle
-shoot 'em up#types / bullet hell 
-graphic adventure
-traditional tennis 
-low fantasy
-puzzle-platform
-light gun shooter 
-programming 
-real time strategy
-motor racing 
-flight simulator / flight combat 
-naval warfare
-shoot\'em-up
-massively multiplayer online
-military strategy 
-tycoon game
-platform game
-combat flight simulation 
-strategy role-playing game
-mmorpg 
-golfing 
-adventure
-massively multiplayer online 
-harem (genre) / harem 
-arena
-horse racing / horse 
-run and gun 
-multiplayer browser game 
-game 
-2d computer graphics / 2d 
-motorsport simulator 
-otome game
-music/rhythm 
-space trading and combat simulator
-scrolling shooter / vertical-scrolling shooter 
-real-time tactics
-shoot\'em up
-action 
-scrolling
-shoot\'em up / horizontal-scrolling shooter 
-shoot \'em up / shooting scroller 
-fishing 
-air combat simulation 
-edutainment / educational entertainment 
-action role-playing game
-sports simulation 
-arcade-style golf 
-battle royale genre / battle royale 
-card game
-first person shooter
-japanese idol / idol 
-tactical rpg 
-sports game
-idle 
-american football simulation 
-action role-playing
-music game
-shoot 'em up / scrolling shooter 
-3d action 
-space combat simulation
-global warming game
-third-person action 
-horror fiction / horror 
-moba / multiplayer online battle arena 
-golf
-fixed shooter
-sim racing / racing simulation 
-match-three 
-breakout clone / \'\'breakout\'\' clone 
-mmorts
-action-role-playing 
-comedy horror
-maze game
-traditional golf 
-shooter game
-space simulator
-breakout clones / \'\'breakout\'\' clone 
-puzzle-platformer
-american football 
-survival horror game
-chess variant
-grand strategy 
-historic action adventure 
-action puzzle 
-falling block puzzle 
-live simulation 
-arcade-style 
-snowboarding 
-mech simulator 
-cinematic 
-art tool 
-level editor
-tycoon 
-educational software / educational 
-point-and-click adventure 
-wargame
-mod (video gaming) / partial conversion mod 
-music game 
-shoot \'em up / fixed shooter 
-side-scrolling 
-mmo 
-action game / action 
-strategy game
-construction and management simulation / cms 
-card battle
-karaoke 
-card battle 
-psychological horror
-adult 
-turn-based historic strategy 
-computer chess / chess 
-shoot \'em up#bullet hell / manic shooter 
-role-playing
-twin-stick shooter
-shoot \'em up / scrolling shooter 
-vehicle simulation game
-interactive novel
-tile-matching
-arcade adventure 
-hack-and-slash
-tactical role-playing game
-shoot \'em up#types / rail shooter 
-mathematics
-arcade racing 
-shoot \'em up / multidirectional shooter 
-game based learning
-anime
-boxing 
-tactical shooter / tactical 
-wargaming 
-massively multiplayer online real-time strategy
-cue sports
-artillery game
-exergaming
-action fiction / action 
-shoot \'em up
-driving 
-action role-playing video game
-massively multiplayer online role-playing 
-strategy video game
-formula one
-education
-fantasy comedy
-platform-adventure
-action adventure 
+Action-adventure 
+Shoot \'em up#Scrolling shooters / Scrolling shooter 
+Scrolling shooter 
+Role-playing 
+Role-playing game
+Racing 
+Business simulation 
+Role-playing 
+Role-playing 
+Survival horror
+Action 
+Fixed shooter
+Sports 
+Role-playing 
+Sports 
+Computer wargame
+Sports 
+Maze 
+Adventure 
+Fighting 
+Action-adventure 
+Action-adventure 
+Fixed shooter
+Real-time strategy
+Hack and slash
+Puzzle 
+Action role-playing
+Augmented reality
+Platform 
+Sports 
+Role-playing 
+Shoot \'em up#Run and gun / Run and gun 
+Adventure 
+Role-playing video game
+Fighting 
+Sports 
+Light gun shooter
+Action 
+Maze 
+Survival horror
+Turn-based strategy / Turn-based 
+Action-adventure 
+Turn-based strategy
+Tactical role-playing 
+Augmented reality
+Sports 
+Platform game
+Platform game
+Sports 
+Platform 
+Strategy 
+Racing 
+Platform 
+First-person shooter
+Puzzle
+Platform 
+Shoot \'em up
+Racing 
+Action 
+Puzzle 
+Puzzle 
+Fishing 
+Platform 
+Third-person shooter
+Action-adventure 
+Puzzle 
+4X
+Interactive film
+Adventure 
+Strategy video game
+Platform 
+Platform 
+2D action 
+Real-time tactics
+Fixed shooter
+Sports 
+Puzzle 
+Business simulation game
+Roguelike deck-building
+Fixed shooter
+Action role-playing 
+Sports game
+Point-and-click adventure
+Fighting
+Science fiction
+Adventure 
+Puzzle 
+Puzzle 
+Action-adventure game
+Adventure 
+Action role-playing 
+Action 
+Interactive fiction
+Shoot \'em up
+First-person shooter
+Action 
+Multidirectional shooter
+Music 
+Puzzle 
+Simulation 
+Basketball
+Platform 
+Platform game
+Multiplayer online battle arena
+Breakout clone / \'\'Breakout\'\' 
+Action-adventure 
+Third-person adventure 
+First-person shooter 
+Action-adventure 
+Arcade adventure
+Puzzle 
+Wrestling 
+Role-playing 
+Tactical role-playing 
+Platform 
+Traditional soccer 
+Pinball 
 platformer 
-naval simulator 
-first-person 
-interactive drama
-rail shooter
-parkour
-guessing ghamzaame
-real-time strategy 
-roguelike deck-building 
-shoot 'em up / rail shooter 
-digital collectible card game
-shoot 'em up#run and gun / run and gun 
-vehicle simulation 
-quiz 
-adventure game / adventure 
-simulation game
-turn-based strategy
-massively multiplayer online real-time strategy 
-audio 
-fighting video game
-kart racing game
-hidden object adventure 
-massively multiplayer online role-playing
-compilation 
-text adventure game
-drawing and creativity 
-role-playing video game
-word 
-shoot\'em up / rail shooter 
-platformer
-space simulation
-sports (ice hockey) 
-party game
-visual novel#nakige / nakige 
-flight simulation
-science fiction comedy
-turn-based strategy 
-maze 
-edutainment / educational software 
-off-road racing 
-team brawler
-point-and-click adventure
-bullet hell
-hack and slash
-puzzle adventure
-srpg 
-bullet hell / manic shooter 
-shooting gallery 
-vehicular combat
-match three
-mmog 
-open-world
-arg 
-side-scrolling
-dungeon crawler
-rhythm action
-traditional soccer/football 
-mission-based driving 
-traditional football 
-real-time 
-stealth action 
-dating simulator
-brawler
-mmofps
-open world
-rugby union 
-cross-genre
-run-and-gun shooter / run-and-gun 
-3d platformer
-roleplaying 
-turn-based tactics
-shoot_\'em_up#rail_shooters / rail shooter 
-visual novels / visual novel 
-indie 
-point-and-click adventure / adventure 
-action shooter
-traditional soccer 
-manic shooter
-soccer
-submarine simulator
-concentration 
-sport
-tile-matching video game
-battle royale 
-third-person shooter / third-person 
-comedy
-collectible card 
-real-time strategy game
-construction and management simulation 
-space trading and combat game
-adventure game
-professional wrestling
-real-time strategy / rts 
-platform 
-tube shooter
-matching game
-tennis
-casual 
-drag racing 
-looter shooter
-life simulation 
-virtual camera system / third-person 
-mahjong solitaire
-board game
-shoot \'em up / multi-directional shooter 
-shoot \'em up / rail shooter 
-arcade video game
-racing video game
-action role playing 
-shoot \'em up / twin-stick shooter 
-farm simulation 
-sim horse game
-baseball 
-simulator
-2d weapon based fighting 
-competitive sports 
-traditional baseball 
-sports / racing 
-pinball#computer_pinball_simulation / pinball 
-shoot \'em up / horizontal-scrolling shooter 
-action role-playing 
-arcade motorcycle racing 
-association football management 
-endless runner 
-motocross racing 
-action-adventure 
-run-and-gun 
-simulation video game
-sports video game
-traditional ice hockey 
-interactive story
-run-and-gun shooter 
-kart racing 
-parody
-quiz game
-soccer 
-action-adventure game
-shooter 
-multiplayer online battle arena / moba 
-casino game
-strategy involving breeding/construction 
-third-person adventure 
-massive multiplayer online game
-branded entertainment / branded entertainment 
-4x 
-non-game
-puzzle game
-vehicle combat 
-american football
-endless round 
-hidden object 
-alternative sports 
-sci-fi
-government simulation game
-rhythm game
-alternate reality game
-tactical rpg
-offroad/rally driving 
-art 
-fantasy role-playing
-science fiction / sci-fi 
-art game
-government simulation 
-action-adventure
-arcade puzzle 
-roguelike
-racing, sports 
-mobile 
-arcade genre / arcade 
-isometric 
-psychological horror 
-moba
-escape the room
-music sequencer
-education 
-sports management
-platform shooter 
+Platform 
+Action role-playing 
+Light gun shooter
+Collectible card game
+Traditional golf 
+First-person shooter
+Sports 
+Adventure 
+Vehicular combat 
+Adventure 
+Platformer 
+Construction and management simulation / Construction simulation 
+Action 
+Action-adventure 
+Flight simulator
+Real-time strategy
+Action 
+Action-adventure 
+Action role-playing 
+TRPG 
+Puzzle 
+Turn-based strategy
+First-person shooter
+Action-adventure 
+Fighting 
+Vehicular combat 
+Social simulation 
+Platform 
+Sports 
+Shoot \'em up#Scrolling shooters / Vertical-scrolling shooter 
+Puzzle game
+Role-playing video game
+Adventure 
+Adventure 
+Tower defense
+Dungeon crawl
+Racing 
+Sports 
+Tactical role-playing game
+Offroad/rally driving 
+Graphic adventure 
+First-person shooter
+Real-time tactics
+Roguelike
+Action-adventure 
+Action-adventure 
+Action 
+Racing 
+Role-playing 
+City-building 
+Sports 
+Platform 
+Action 
+Interactive fiction
+Puzzle 
+Incremental game
+Adventure 
+Platform 
+Adventure 
+social simulation game
+Action-adventure
+Air combat simulation 
+Puzzle 
+Strategy
+Action role-playing 
+Adventure 
+MMOG 
+Graphic adventure 
+Twin-stick shooter
+Sports game
+Tactical shooter
+Racing, Sports 
+Real-time tactics
+Platforming 
+Platform game
+Rhythm 
+Third-person shooter
+Point-and-click adventure 
+puzzle 
+Maze 
+Arcade adventure
+Space trading and combat simulator
+Turn-based strategy
+Maze 
+Platform 
+Breakout clone / \'\'Breakout\'\' clone 
+Interactive fiction / Text adventure 
+4X 
+Role-playing 
+Life simulation 
+Puzzle-platform 
+Multidirectional shooter
+Role-playing 
+Racing 
+Racing 
+First person shooter
+Simulation 
+Sports 
+Sports
+Real-time strategy
+Platform 
+Puzzle
+MMORPG 
+Action 
+Racing 
+Action-adventure 
+Racing 
+Interactive movie / Interactive drama 
+Platform game
+Action 
+Action 
+Shoot\'em up / Horizontal-scrolling shooter 
+Role-playing 
+Action-adventure 
+simulation 
+Third-person shooter
+Traditional ice hockey 
+Turn-based strategy 
+Action role-playing
+Construction and management simulation
+Adventure 
+Platform 
+Side-scrolling shooter
+Puzzle video game
+Rail shooter
+Platform 
+Rail shooter
+Strategy 
+Multidirectional shooter
+Puzzle 
+Tactical shooter
+MMO 
+Action 
+Sports 
+Sports 
+Shoot \'em up
+Role-playing 
+Photography
+Simulation
+Third-person shooter
+Action role-playing
+Turn-based strategy
+Adventure
+Sim racing
+Shooter 
+Third-person action 
+Action 
+First-person shooter
+Racing 
+Platformer
+Platform 
+Real-time tactics
+Action 
+Strategy 
+Adventure 
+Action 
+Puzzle 
+Horror fiction / Horror 
+Hack and slash
+Maze 
+Racing 
+First-Person Shooter
+Action 
+Fighting 
+Grand strategy 
+City-building 
+Fighting 
+Sports 
+Light gun shooter
+Action 
+Platform 
+Shoot \'em up#Tube and rail shooters / Rail shooter 
+Action 
+First-person shooter
+Platform 
+Strategy 
+Side-scrolling
+Sports 
+Racing 
+First-person shooter
+Sports 
+Massively multiplayer online real-time strategy
+Turn-based strategy / Turn-based 
+Vehicular combat
+Puzzle 
+Role-playing 
+Action role-playing 
+First Person Shooter
+
+First-person shooter
+Role-playing video game
+RPG 
+2D computer graphics / 2-D 
+Beat 'em up
+Motor racing 
+Scrolling shooter
+Sports 
+Grand strategy 
+Puzzle 
+Action 
+Sports 
+Racing 
+Scrolling shooter
+Action 
+Action-adventure 
+Sports 
+Card Game
+Graphic adventure 
+Puzzle 
+Sports 
+First-person shooter
+Fixed shooter
+Amateur flight simulation
+Snowboarding 
+Real-time strategy
+Action 
+Adventure 
+Platform 
+Roguelike
+Simulation 
+Tank simulation
+Adventure 
+Platformer 
+Action 
+Platform 
+Sports 
+Action 
+Vehicular combat 
+Vehicle simulation game
+First-person shooter
+Interactive drama
+Tactical role-playing 
+Vehicular combat 
+Role-playing video game
+Strategy 
+Action RPG
+Action-adventure
+Platform 
+
+Role-playing 
+SRPG 
+Educational 
+Interactive fiction
+Role-playing 
+Platform 
+Racing 
+Shooter video game
+Collectible card game
+Fighting 
+Puzzle 
+
+Action 
+Real-time tactics
+MMORPG
+Role-playing game
+Shoot \'em up
+Collectible card game
+Platform 
+Snake 
+Action-adventure 
+Shoot 'em up
+Puzzle 
+Maze 
+Role-playing 
+Action 
+Graphic adventure
+Bullet hell
+Puzzle game
+Sport
+First-person shooter
+Role-playing game
+Adventure 
+Adventure 
+Action-adventure
+Racing 
+Battle royale 
+Adventure 
+Sports 
+Shoot \'em up
+Action 
+Puzzle 
+First-person shooter
+Platformer
+Racing 
+Puzzle-platform 
+Action 
+Air combat simulation 
+Multidirectional shooter
+Racing 
+Action 
+Multidirectional shooter
+Fighting game
+Combat flight simulator
+Educational 
+Puzzle 
 puzzle
-educational entertainment / educational 
-god game 
-space trading 
-traditional sports 
-collectible card game / ccg 
-tank simulator 
-action game
-survival game
-first-person (gaming) / first-person 
-first-person shooter
-shoot \'em up / twin stick shooter 
-amateur flight simulator
-climbing 
-puzzle-platform 
-mmog
-dancing 
-word game
-platform-adventure 
-augmented reality
-shoot 'em up
-sports simulation
-digital pet
-pachinko
-hidden object
-management simulation
-life simulation game
-multicart
-browser game
-strategy-rpg 
-toys-to-life
-multiplayer 
-creativity 
-party 
-endless runner
-interactive film / fmv 
-racing simulation
-bishōjo 
-interactive fiction 
-interactive film
-block breaker 
-adventure 
-skiing
-single-player
-educational game
-sim racing / racing simulator 
-sport 
-fantasy sports 
-action adventure
-survival horror / horror-adventure 
-turn-based strategy / strategy 
-city-building 
+Racing 
+Sports 
+Strategy 
+Sports video game
+Survival horror
+Platform 
+Eroge
+Sports 
+Sports 
+Action 
+Action-adventure
+Music 
+Platform 
+Fantasy
+Tactical role-playing 
+Role-playing 
+Flight simulator
+Platform game
+Action-adventure 
+Action 
+Traditional soccer simulation 
+Adventure 
+Combat flight simulator
+Graphic adventure 
+Maze 
+Survival horror
+Exergaming
+Action-adventure 
+Action 
+Rhythm 
+Puzzle 
+Action 
+Action-adventure game
+Platform game
+Action-adventure 
+Fixed shooter
+Action role-playing game
+Real-time strategy
+Puzzle 
+Sports 
+Sports 
+Role-playing 
+Racing 
+Simulation 
+Adventure 
+Side-scroller 
+Platform-adventure
+Action-adventure 
+First-person shooter
+Action-adventure 
+Action 
+Sports 
+Role-playing video game
+Racing 
+Adventure 
+Sports 
+Scrolling shooter
+Sports 
+Maze 
+First-person shooter
+Action-adventure 
+Action-adventure 
+Maze 
+Action role-playing 
+Action 
+Action-adventure 
+Computer wargame
+Space trading and combat simulator
+Pinball
+Puzzle game
+Real-time strategy
+Strategy 
+Role-playing game
+Light gun shooter
+Adventure 
+Computer wargame
+Educational 
+Platform 
+Adventure 
+Survival horror 
+First-person shooter
+Action 
+Space combat simulator
+Racing 
+Beat \'em-up
+Pinball
+Action-adventure 
+First-person shooter
+Racing 
+Action role-playing
+Massively multiplayer online action role-playing game
+Music 
+
+Adventure 
+Massively multiplayer online role-playing game
+Adventure 
+Role-playing 
+Sports 
+Action-adventure 
+Racing 
+Action 
+Action 
+Role-Playing Game
+Action-adventure
+2D computer graphics / 2D 
+Cinematic platformer 
+
+Shoot \'em up
+Sports 
+Traditional football 
+Action-adventure 
+Wargame
+Platform game
+Action-adventure 
+Turn-based tactics
+Sports game
+Platform game
+First-person shooter
+Platform 
+Action-adventure 
+Racing
+Boxing 
+Psychological horror
+Racing 
+Fighting 
+MMORPG 
+Puzzle 
+Adventure 
+Platform 
+Arcade 
+Real-time strategy
+Sandbox 
+Shoot \'em up
+Top-down shooter
+Vehicle simulation game
+Strategy 
+Shoot \'em up#Multidirectional shooter / Multi-directional shooter 
+Tactical shooter
+Role-playing 
+Breakout clone
+Adventure game
+Fighting 
+Action-adventure 
+Scrolling shooter
+Role-playing 
+Action RPG 
+Puzzle 
+Shooter 
+Sports 
+Real-time strategy
+Sports 
+Action-adventure 
+MMORTS
+Sports 
+City-building 
+Bullet hell / Manic shooter 
+Simulation 
+Turn-based strategy
+First-person shooter
+Shoot \'em up
+Fighting 
+Sports game
+Real-time strategy
+Survival horror
+Rhythm 
+Adventure 
+First-person shooter
+Arcade adventure
+Turn-based tactics
+Action-adventure 
+Dungeon crawl
+Adventure 
+Music 
+Comedy
+Life simulation 
+Puzzle 
+Sim racing
+Combat flight simulator
+Tactical role-playing game
+First-person shooter
+Survival horror
+Puzzle 
+Point-and-click adventure
+Music 
+Flight simulation / First-person and third-person flight simulator 
+Beat \'em up
+Action-adventure 
+
+Party 
+Sports 
+Platform 
+Sports 
+Action role-playing 
+Interactive fiction
+Role-playing video game
+Adventure 
+Action role-playing 
+Graphic adventure 
+Action 
+Fighting 
+Arcade 
+Beat \'em up
+Puzzle 
+Adventure 
+Role-playing 
+Survival horror
+First-person shooter
+Action-adventure 
+Adventure 
+Role-playing 
+City-building 
+Adventure 
+Adventure game
+Adventure 
+Dating sim
+Action-adventure 
+Construction and management simulation
+Adventure 
+Racing 
+Word game
+Battle royale 
+Business simulation game
+Racing 
+Sim racing
+Programming game
+Sports 
+Sports 
+Role-playing 
+Action role-playing 
+Shoot \'em up
+Racing 
+Puzzle-platform 
+Business Simulation 
+Hack and slash
+Turn-based tactics
+Shoot \'em up / Top-down shooter 
+Sports 
+Multiplayer 
+Programming game
+First-person shooter
+Maze 
+Music video game
+Fighting 
+Sports Game / Sports 
+Action role-playing
+Sports game
+Party 
+Action-adventure 
+Massively multiplayer online role-playing 
+Tactical shooter
+Action 
+Graphic adventure 
+Role-playing video game
+Snake 
+First-person shooter
+Platform 
+Breakout clone / ''Breakout'' 
+Action role-playing game
+Role-playing 
+4X 
+Multidirectional shooter
+Maze 
+Stealth 
+Graphic adventure 
+Shoot \'em up
+Adventure 
+Platform 
+Survival horror
+Puzzle 
+Action 
+Strategy 
+Endless runner 
+Rail shooter
+Space simulation
+Action 
+Educational 
+2D action 
+Action role-playing game
+Survival 
+Sim racing
+Platform game
+Puzzle 
+Platform 
+Action role-playing game
+Beat \'em up
+Comic fantasy
+Action-adventure 
+Action-adventure
+Adventure 
+Puzzle 
+Racing 
+Puzzle 
+Action 
+RPG 
+Shoot \'em up#Scrolling shooters / Scrolling shooter 
+4X
+Racing 
+Action 
+Racing RPG 
+Action role-playing
+Graphic adventure
+Business simulation game
+Action 
+Action 
+Action 
+Platform 
+Interactive movie
+Racing 
+Platform 
+Hack and slash
+Racing 
+Racing 
+space combat simulator / Space trading and combat simulator 
+Racing
+Stealth 
+Cue sports / Billiards/Pool 
+Roguelike
+Role-playing game
+Sports / Racing 
+Visual novel
+Platform 
+Role-playing video game
+Real-time strategy
+Submarine simulator
+Roguelike
+Sports 
+Adventure 
+Adventure 
+Multidirectional shooter
+Action-adventure 
+Turn-based strategy
+Sports 
+Roguelike
+Action 
+Horror 
+Action 
+Shoot \'em up / Top down shooter 
+Tile-matching video game
+Collectible card game
+Platformer 
+Adventure game
+Turn-based strategy 
+Hack and slash
+Interactive fiction
+Flight simulator
+Sports 
+Sports 
+Endless runner 
+Puzzle 
+Maze 
+Massively multiplayer online role-playing game
+Platform-adventure 
+Beat \'em up
+Platform 
+Platform 
+Real-time strategy
+Adventure 
+Music video game
+Action 
+Survival 
+Augmented reality
+Scrolling shooter / Vertically scrolling shooter 
+Breakout clone / Block breaker 
+Action 
+Action game
+First-person shooter
+Interactive fiction
+Role-playing 
+Role-playing 
+Massively-multiplayer 
+Action 
+Stealth game
+Puzzle 
+Computer wargame
+Maze 
+Action role-playing 
+Sports 
+Maze 
+Fixed shooter
+Turn-based strategy
+Sports 
+Sports game
+
+Sports 
+Platform 
+First-person shooter
+Party 
+Run-and-gun platform 
+Action-adventure 
+Sport 
+Strategy
+Puzzle 
+Puzzle 
+Real-time strategy
+Action-adventure
+Puzzle 
+Business simulation 
+Adventure game
+Formula One
+Racing 
+Traditional sports 
+Competitive sports 
+Real-time strategy game
+Sports 
+Traditional soccer 
+Music 
+Action 
+Puzzle 
+Strategy
+Sports 
+Virtual world
+Shooting gallery 
+Platform 
+Action role-playing
+Action 
+Adventure 
+Shooter 
+Sport
+Sports
+Fighting game
+Action 
+Business simulation 
+Maze 
+Sports
+Scrolling shooter
+Fighting 
+Fantasy
+Adventure 
+First person shooter
+Simulation 
+Action 
+Platform 
+Sport
+Action-adventure 
+Party 
+Arcade adventure
+Adventure 
+role-playing game
+Racing 
+Adventure 
+Interactive fiction
+Sports 
+Traditional football 
+Fighting 
+Music 
+Third-person shooter
+Graphic adventure 
+Role-playing
+Flight simulation
+Action-adventure 
+Shoot \'em up / Run and gun 
+Real-time tactics
+Racing 
+Real-time strategy
+Shoot 'em up#Scrolling shooters / Scrolling shooter 
+
+Action-adventure 
+Scrolling shooter
+Platform 
+Action 
+
+Action 
+Sports 
+Platform 
+Platform-adventure 
+Scrolling shooter
+First-person shooter
+Sports 
+First-person 
+Action 
+Racing 
+Sports 
+Action 
+Tile-matching 
+Action 
+Action 
+Turn-based strategy
+Fighting 
+Beat \'em up
+Role-playing 
+Platform 
+First-person shooter
+Shoot \'em up / Horizontal-scrolling shooter 
+Sports 
+Role-playing 
+First-person shooter
+Racing 
+First person shooter
+Action 
+MMORPG
+Mathematics
+Action 
+Action-adventure 
+Graphic adventure 
+Action role-playing 
+Sandbox 
+Strategy
+First-person shooter
+Sports 
+Puzzle 
+Tower defense
+Platform 
+Sports 
+Action-adventure 
+Platform 
+Platformer
+Action role-playing 
+Traditional soccer 
+Racing 
+Role-playing 
+Music video game
+Role-playing video game
+Action 
+Platform 
+Shoot \'em up#Run and gun / Run and Gun 
+Role-playing game
+Action 
+Rail shooter
+Aerial combat 
+Adventure 
+Shoot\'em up / Rail shooter 
+Sim racing
+First-person shooter
+Puzzle 
+Adventure 
+Role-playing 
+Adventure 
+Arcade 
+Action-adventure 
+Interactive fiction
+Educational 
+Visual novel
+MMORPG 
+Role-playing 
+Racing 
+
+Fighting game
+Platform-adventure
+Massively multiplayer online role-playing game
+Strategy 
+Fighting 
+Construction and management simulation 
+Shooting gallery 
+Role-playing 
+Party 
+Beat \'em up
+Platform 
+First-person shooter
+Sports 
+Role-playing 
+First-person shooter
+Interactive fiction
+
+Action role-playing game
+Role-playing 
+Kart racing 
+Racing 
+First-person shooter
+Third-person shooter
+Sports 
+Platform 
+Sports 
+Action role-playing 
+Action-adventure 
+Multiplayer online battle arena
+Action 
+Computer wargame
+Tactical role-playing
+Role-playing 
+Racing 
+Scrolling shooter
+Role-playing 
+Puzzle 
+RPG 
+Racing 
+Board game
+City-building game
+Adventure 
+Tactical role-playing 
+Shoot \'em up#Tube and rail shooters / Rail shooter 
+Scrolling shooter
+Puzzle 
+Sim racing
+Platform 
+Platformer
+Third-person shooter
+Art game
+Survival 
+Racing 
+Tactical RPG
+Sports 
+First-person shooter
+Platform 
+Shoot \'em up#Run and gun / Run and gun 
+First person shooter
+Sports 
+Racing 
+Third-person shooter
+Role-playing 
+Educational 
+Action 
+Action 
+Roguelike
+Role-playing 
+Sports 
+Action role-playing 
+Adventure 
+Role-playing video game
+Action adventure 
+Adventure game
+Adventure 
+Puzzle 
+Literature
+Game creation system
+Scrolling shooter
+Survival horror
+Action role-playing 
+Fighting Game
+4X 
+Interactive drama
+Combat flight simulation 
+Action-adventure 
+Business simulation game
+Fighting 
+Adventure 
+Action role-playing 
+Role-playing 
+Puzzle 
+Action-adventure 
+Side-scrolling 
+Racing 
+Game creation system
+Racing 
+Platform 
+Driving 
+Action-adventure 
+Gambling
+Submarine simulator
+Educational 
+Turn-based strategy 
+Racing video game
+First-person shooter
+Role-playing 
+Interactive movie
+Programming game
+Maze 
+Action 
+Turn-based strategy
+Fighting 
+Roguelike
+Action-adventure 
+Sports management
+Sports
+Role-playing video game
+MUD
+tower defense
+Adventure 
+Puzzle 
+Artillery 
+Role-playing 
+Puzzle 
+Racing 
+Role-playing 
+Traditional football 
+City building 
+Tactical role-playing game
+Platform 
+Strategy 
+Puzzle 
+Tactical role-playing 
+First-person shooter
+Racing 
+Platform 
+Point-and-click adventure 
+Action 
+Action-adventure
+Point-and-click adventure
+Action 
+Puzzle 
+Action-adventure 
+Puzzle 
+Platforming 
+Puzzle 
+Education
+Puzzle 
+Adventure game
+Simulation
+Puzzle 
+Action 
+Music 
+Strategy 
+Action 
+Puzzle-platform 
+Puzzle 
+Farm simulation 
+Graphic adventure 
+Vehicle simulation game
+
+MMORPG 
+Space flight simulation 
+Kart racing game
+Puzzle 
+Action-adventure 
+Fighting 
+Third-person shooter
+Action-adventure
+Real-time strategy
+Shoot \'em up
+Action role-playing 
+Puzzle
+Sports
+City-building 
+Action-adventure 
+Fixed shooter
+Party 
+Platform 
+
+Maze game
+Arcade 
+Action 
+Beat \'em up
+Action 
+Science fiction
+Puzzle 
+Sports video game
+Sports Game
+Digital collectible card game
+First-person shooter
+Graphic adventure 
+Role-playing video game
+Sports 
+First-person shooter
+Action-adventure 
+Role-playing 
+Run and gun 
+
+Hidden Object Adventure 
+Adventure 
+Sports 
+Racing 
+Fixed shooter
+Toys-to-life
+Computer wargame
+Action role-playing game
+Action RPG 
 puzzle video game
-magic system
-2d action fighting 
-shoot \'em up / shooter 
-city building 
-lifestyle (sociology) / lifestyle 
-government simulation
-rogue-lite
-massively multiplayer online role-playing game
-trpg 
-first person shooter / fps 
-interactive art
-programming game
-puzzle platformer
-wrestling 
-beat 'em up
-beat \'em up
-factory simulation
-strategy role-playing 
-interactive fiction / text adventure 
+Platform game
+Action-adventure 
+Shoot \'em up
+Role-playing 
+Turn-based strategy 
+Music 
+Action-adventure 
+Action 
+Platform 
+Racing 
+First-person shooter
+Role-playing 
+Real-time strategy
+Multidirectional shooter
+Miniature wargaming
+Platform 
+Puzzle 
+Fixed shooter
+Action 
+Platform 
+Role-playing 
+Puzzle-platform 
+Shoot \'em up
+Racing 
+Sports 
+Space combat simulator
+Survival horror
+Role-playing 
+Action-adventure 
+Shoot \'em up / Vertical-scrolling shooter 
+Adventure 
+First-person shooter
+Puzzle 
+Puzzle 
+Sports 
+Real-time tactics
+Beat \'em up
+Collectible card game
+Survival horror
+Claymation
+Action 
+City-building 
+Action 
+Casual 
+Sports 
+Platform 
+Action 
+Turn-based strategy
+Point-and-click adventure
+Adventure 
+Grand strategy 
+4X
+Platform 
+Platform 
+Action-adventure 
+Sports 
+Action-adventure 
+Snowboarding 
+Action-adventure 
+Puzzle 
+Adventure 
+
+Turn-based strategy 
+Racing 
+Sports 
+Fighting 
+Sports game
+Puzzle 
+Platform 
+Sports 
+Shoot \'em up / Multi-directional shooter 
+Flight simulator
+Puzzle 
+Puzzle 
+Racing 
+Action-adventure 
+Party 
+Action role-playing 
+
+Action 
+Massively multiplayer online game
+Sports video game
+
+Adventure game
+Role-playing 
+Third-person shooter
+Maze 
+Action-adventure 
+Adventure 
+Kart racing 
+survival horror game
+Collectible card game
+Cinematic platformer 
+Role-playing 
+Racing 
+Racing 
+Tactical role-playing 
+Racing 
+Sports 
+Role-playing 
+Role-playing 
+Fishing
+Business simulation 
+Action-adventure
+Shooter game
+Board game
+Role-playing 
+Racing 
+Adventure 
+Turn-based tactics
+Sports 
+Role-playing 
+Roguelike
+Adventure 
+Amateur flight simulator
+Fighting 
+
+Scrolling shooter
+Multidirectional shooter
+Action 
+Action game
+Puzzle 
+Cinematic platformer
+First-person shooter
+Racing simulation
+Role-playing video game
+Action 
+Maze 
+Platform 
+Visual novel
+Puzzle 
+Action-adventure game
+Action 
+Massively multiplayer online role-playing game
+Puzzle 
+Role-playing 
+Action-adventure 
+Action role-playing game
+Racing 
+Tactical role-playing 
+Adventure 
+First-person shooter
+Sports 
+Platform 
+Strategy 
+Third-person shooter
+Action game
+Sports 
+Tactical RPG 
+Action 
+Role-playing 
+Turn-based strategy
+Third-person shooter
+Fighting 
+Racing 
+Sim racing
+Adventure 
+Action-adventure 
+Tube shooter
+Action-adventure 
+Spy fiction
+Action role-playing 
+Party 
+Tactical role-playing game
+Fighting 
+Platformer 
+Racing 
+Action role-playing
+Snake 
+Puzzle 
+Educational 
+Sports 
+Kart racing 
+Music game
+Combat flight simulator
+Racing 
+Sports 
+Sports
+First-person shooter
+Survival horror
+Visual novel
+Adventure 
+Traditional basketball 
+Action-adventure 
+Fantasy
+Racing 
+Role-playing 
+Educational game
+Strategy 
+Strategy 
+Fighting 
+Pinball
+Racing 
+Platform 
+Point-and-click adventure / Adventure 
+Platformer 
+Beat \'em up
+Vehicular combat 
+Action-adventure 
+First-person shooter
+Puzzle 
+Puzzle 
+Sports 
+Battle royale 
+Action game
+Strategy 
+First-person shooter
+Arcade racing
+Platform 
+Role-playing 
+Puzzle 
+Run and gun 
+Adventure game
+Adventure 
+Racing 
+Raising Simulation 
+Action 
+Platformer
+Sports 
+First-person shooter
+Computer wargame
+Stealth 
+Role-playing 
+Fighting 
+Sports 
+Role-playing video game
+Action 
+Music video game
+Adventure game
+Simulation 
+Role-playing 
+Sports 
+Platform 
+Pinball
+Platformer 
+Art game
+Farm simulation 
+First-person shooter
+Off-road arcade racing 
+Racing 
+Action role-playing 
+Fighting 
+Role-playing video game
+Fighting 
+Computer wargame
+Adventure game
+Racing 
+Third-person shooter
+Racing 
+Sports 
+Board game
+Beat \'em up
+Tactical shooter
+First-person shooter
+Real-time tactics
+Platform 
+Interactive novel
+Platform 
+Fighting 
+Sports 
+Flight simulation
+Strategy 
+Endless runner
+Survival Horror
+Puzzle 
+Educational
+Action 
+Survival horror
+Beat \'em up
+Action 
+Platform 
+Action-adventure 
+Interactive art
+Music 
+Sim racing
+Flight simulator
+Action role-playing game
+Action-adventure 
+Air combat simulation 
+Sports 
+Platformer 
+Air combat simulation 
+Interactive fiction
+Adventure 
+Beat 'em up
+Role-playing video game
+Role-playing 
+Platform 
+Racing 
+Strategy 
+Action 
+Adventure 
+Sports 
+Shoot \'em up#Scrolling shooters / Scrolling shooter 
+Racing 
+Platform 
+Sports 
+Racing 
+Platform 
+Action 
+Cue sports
+Platform 
+Puzzle 
+Turn-based strategy
+Roguelike
+Point-and-click adventure
+Party 
+Simulation 
+Action 
+Fighting 
+Simulation 
+Sports game
+Graphic adventure 
+Role-playing 
+Combat flight simulator
+Shoot \'em up
+Racing 
+Visual novel
+Fighting 
+Educational 
+Educational 
+Racing 
+Point-and-click adventure
+Third-person shooter
+Role-playing 
+Action 
+Romantic comedy
+Shoot \'em up
+Sports
+Puzzle video game
+Simulation game
+Tactical RPG
+Real-time tactics
+Action-adventure game
+Role-playing video game
+Pinball
+Computer wargame
+Turn-based strategy
+Racing 
+Platform 
+Sports video game
+Sports 
+Platform 
+Action 
+Puzzle-platform 
+Adventure 
+Action 
+Construction and management simulation / Construction simulation 
+Racing 
+Point and click
+Scrolling shooter
+Strategy 
+Interactive fiction
+Multidirectional shooter
+Beat \'em up
+Arcade game
+Platform game
+Real-time strategy
+Action-adventure 
+Role-playing 
+4X
+Simulation 
+Tower defense
+Fighting game
+Action-adventure 
+Snowboarding 
+Adventure 
+Educational 
+Survival horror
+Shoot \'em up
+Action role-playing
+Action 
+3D platformer 
+Action 
+Business simulation game
+Battle royale 
+Adventure 
+Vehicle simulation 
+Music 
+Online Game
+Action 
+First-person shooter
+Racing simulation
+Action-adventure 
+Adventure game
+Horizontal shooter
+Fighting 
+Match three
+Role-playing video game
+Racing 
+Fighting 
+Multidirectional shooter
+Tactical RPG 
+Simulation game
+Action-adventure 
+Shoot 'em up
+Decathlon 
+Action-adventure 
+Fixed shooter
+Side-scroller 
+Kart racing 
+Puzzle-platform
+Action-adventure 
+Sports game
+Puzzle 
+Indie game
+Music 
+Role-playing 
+Puzzle 
+Rail shooter
+Action role-playing 
+Puzzle 
+Strategy 
+First-person shooter
+Adventure 
+Stealth 
+Tactical role-playing 
+Action 
+Racing
+Simulation 
+Beat \'em up
+Role-playing video game
+Action-adventure 
+Platform 
+Traditional basketball 
+Puzzle 
+Racing 
+MMORPG
+Puzzle 
+Shoot \'em up#Fixed shooters / Fixed shooter 
+Puzzle-platform 
+Sports 
+First-person shooter
+Rhythm 
+Action role-playing
+Adventure game
+Eroge
+Driving 
+Flight simulator
+Racing 
+Simulation 
+Action 
+Action 
+First-person shooter
+Simulation
+Combat flight simulator
+Life simulation game
+Sports 
+Puzzle 
+2D Versus Fighting 
+Battle royale 
+Racing 
+Platformer 
+Action 
+Casual 
+
+First-person shooter
+Sports 
+Strategy 
+Adventure game
+Scrolling shooter
+First-person shooter
+Racing 
+Action-adventure 
+Action-adventure 
+Racing 
+Role-playing 
+Puzzle 
+Puzzle 
+First-person shooter
+Action 
+Racing 
+Platformer
+Shoot \'em up
+Platform-adventure 
+Action role-playing 
+Platform 
+Action-adventure 
+Action 
+Third-person shooter
+Action role-playing 
+Vehicle simulation 
+Sports 
+Role-playing video game
+Strategy 
+Educational 
+Racing 
+Survival 
+Action 
+Role-playing video game
+Flight simulation
+Platform 
+MMO 
+Action-adventure 
+platform 
+Action role-playing 
+Puzzle-platform 
+Adult 
+Role-playing 
+First-person shooter
+Action 
+Sports
+Sports 
+First-person shooter
+Third-person shooter
+Educational game
+Puzzle 
+Third-person shooter
+Computer wargame
+Sports 
+First-person shooter
+Tactical role-playing 
+Run and gun 
+Adventure 
+Adventure 
+Dungeon crawl
+Exploration game
+Party 
+hack and slash
+Visual novel
+Action-adventure 
+First-person shooter
+Action 
+Adventure 
+Sports 
+Platform 
+Action 
+Virtual reality
+Amateur flight simulator
+
+Adventure 
+Beat \'em up
+Action 
+Turn-based strategy / Turn-based Strategy 
+Action-adventure 
+Role-playing 
+Turn-based strategy
+Tactical role-playing 
+Visual novels / Visual novel 
+Horror 
+Adventure game
+Platform 
+Adventure game
+Pinball
+Action role-playing 
+Action-adventure 
+Adventure 
+Platform 
+Tactical role-playing game
+Action-adventure 
+Action-adventure
+Adventure 
+Adventure 
+Third-person shooter
+Action role-playing 
+Strategy game
+Role-playing video game
+Maze 
+Role-playing 
+Action 
+Shoot \'em up
+Run and gun 
+Action role-playing 
+Third-person shooter
+Maze 
+Massively Multiplayer Online
+Educational 
+Action role-playing 
+Racing 
+Survival horror / Horror 
+Third-person shooter
+Action-adventure 
+Platform 
+Sports 
+Platform 
+Action-adventure 
+Fighting 
+Brawler
+Puzzle game
+Real-time tactics
+Action-adventure 
+Platform 
+Metroidvania
+Platform 
+Action-adventure 
+Sports
+Graphic adventure 
+Visual novel
+Action role-playing 
+Racing 
+Graphic adventure 
+Rail shooter
+Puzzle 
+Fixed shooter
+Sports 
+Action-adventure 
+Adventure 
+Point-and-click adventure game
+Sports 
+Third-person shooter
+First-person shooter
+Puzzle 
+Role-playing 
+Hack and slash
+Sports 
+Sports - Ice Hockey Sim 
+Educational 
+Action role-playing
+Turn-based strategy game
+Puzzle 
+Action 
+Adventure game
+Turn-based strategy
+Tactical shooter
+Third-person shooter
+Beat \'em up
+Sports 
+Run-and-gun shooter 
+Action-adventure 
+Sports 
+Sports 
+Platform 
+Racing 
+Tactical role-playing 
+Action 
+Sports 
+Shoot \'em up
+Role-playing 
+Platform-adventure 
+Otome 
+Racing 
+Puzzle 
+Action-adventure 
+Action 
+Real-time strategy / Real-time 
+Interactive fiction
+Action 
+Role-playing 
+Action 
+Platform 
+Action 
+Real-time strategy / Real-time 
+Music Game 
+
+Educational 
+Survival horror
+Sports 
+Educational 
+Action role-playing 
+Sports 
+Puzzle 
+Survival 
+Arcade game
+Run and gun 
+Action 
+Role-playing 
+Racing 
+Sports 
+lifestyle (sociology) / Lifestyle 
+Action 
+Point-and-click adventure 
+Racing 
+Versus fighting 
+Real-time strategy
+Platform game
+Kart racing 
+Platform 
+Platformer 
+Racing 
+Simulation 
+Adventure game
+Visual novel
+Sports 
+Collectible card 
+Action-adventure 
+Life simulation 
+Scrolling shooter
+Third-person shooter
+Adventure 
+Action 
+Sports 
+Beat \'em up
+Action 
+Action-adventure 
+Computer wargame
+First-person shooter
+Interactive fiction
+Action-adventure 
+Action 
+Strategy 
+Sports 
+Action role-playing
+Drawing and creativity 
+Platformer
+Adventure game
+Role-playing game
+MMORPG
+Turn-based strategy game
+Hack and slash
+Sports 
+Tactical shooter
+Real-time tactics / Real-time 
+Traditional sports 
+Real-time strategy
+Sports 
+Romantic comedy
+Third-person shooter
+Fantasy
+Racing 
+Adventure 
+Scrolling shooter
+Tile-matching 
+4X 
+Music 
+Scrolling shooter
+Platformer 
+Rhythm 
+Role-playing 
+First-person shooter
+Action-adventure 
+Adventure 
+Platform 
+Platform 
+Space combat simulator
+RPG 
+Action 
+Maze 
+Platform 
+Real-time tactics / Real-time 
+Platform 
+Role-playing video game
+Sports 
+platform 
+Vehicular combat 
+Racing 
+Third-person shooter
+Fantasy
+Interactive fiction
+Platform 
+Fighting 
+Art game
+Sports 
+Puzzle 
+Real-time tactics
+MMORPG
+Fighting 
+Platform 
+Simulation
+Shooter 
+Action role-playing 
+Pinball
+Fighting 
+Shoot 'em up / Top-down shooter 
+Survival horror
+Adventure 
+Racing 
+First-person 
+Beat \'em up
+First-person shooter
+Racing 
+Action 
+Role-playing video game
+Flight simulation
+Multiplayer
+Racing 
+Educational 
+Adventure 
+Space flight simulator
+Collectible card game
+MMORPG
+Action 
+Stealth 
+Platform 
+Platformer
+Action RPG 
+Massively multiplayer online role-playing
+Shoot \'em up#Run and gun / Run and gun 
+Puzzle 
+Art game
+First-person shooter
+Real-time tactics
+Government simulation game
+Side-scrolling 
+Literature
+educational 
+Military strategy 
+Fighting
+Fighting 
+Mod (video gaming) / Partial conversion mod 
+Adventure 
+Strategy 
+Party 
+Endless running 
+Racing 
+Interactive fiction
+Action 
+Hack and slash
+Multidirectional shooter
+Point-and-click adventure
+Beat \'em up
+Fighting 
+Combat flight simulator 
+Sports simulation 
+Sports 
+Action-adventure 
+Maze 
+Endless Runner 
+Action 
+Sports 
+Sporting management simulation 
+Action-adventure
+first-person shooter
+Educational 
+Puzzle 
+Sports 
+Online
+Horror 
+Massively multiplayer online real-time strategy 
+Sports - Ice Hockey Sim 
+Role-playing video game
+Top-down shooter
+Text adventure 
+Tactical role-playing 
+Action role-playing 
+Shoot 'em up#Scrolling shooters / Scrolling shooter 
+MMO 
+
+Role-playing 
+Strategy role-playing game
+Collectible card game
+Action 
+Puzzle 
+Action-adventure 
+Platform 
+Sports 
+Shooting gallery 
+Fixed shooter
+Role-playing 
+Side-scrolling shooter
+Edutainment
+Action-adventure 
+Music 
+Beat \'em up
+Simulation
+Racing 
+Adventure 
+Role-playing 
+Shoot \'em up
+Strategy 
+Role-playing 
+Shoot \'em up
+Multidirectional shooter
+Role-playing 
+Beat 'em up
+Puzzle 
+Simulation
+Platform 
+Racing 
+Trading card game
+Racing
+Traditional baseball 
+
+Stealth 
+Action-adventure
+Action-adventure 
+Action-adventure 
+First-person shooter
+matching game
+Business simulation 
+Adventure 
+Government simulation 
+First-person shooter
+Adventure 
+Strategy 
+Graphic adventure 
+Platform 
+Racing 
+Simulation 
+Text adventure
+Sports 
+First-person adventure 
+Strategy
+Visual novel
+Action 
+Point-and-click adventure 
+Action-adventure
+MMO 
+Action 
+Simulation 
+Action role-playing 
+Platform game
+Hidden Object 
+Massively multiplayer online 
+Action 
+Light gun shooter
+Visual novel
+Sports 
+Action-adventure 
+Platform 
+Third-person shooter
+Run and gun 
+Otome
+Puzzle 
+Racing 
+First-person shooter
+Sports 
+Action role-playing 
+Survival horror
+Sports 
+Action-adventure 
+Action-adventure 
+Sports 
+Racing 
+Sports 
+Fixed shooter
+Real-time tactics
+Platform 
+Action-adventure 
+Sports game
+Action-adventure 
+Role-playing 
+Breakout clone
+Role-playing 
+Action 
+Sports 
+Hack and slash
+Adventure 
+Trivia 
+Fighting game
+Puzzle 
+Action 
+Sports 
+Strategy and Management
+Shoot \'em up#Bullet hell / Manic shooter 
+Turn-based
+Adventure 
+Racing 
+Platform game
+Action 
+Action role-playing
+Turn-based tactics
+Fighting 
+Action-adventure 
+Adventure 
+First-person shooter
+Action-adventure 
+Role-playing 
+Vehicular combat 
+Fighting 
+Sim racing / Racing simulation 
+Adventure game
+Fighting 
+Real-time strategy
+Puzzle 
+Racing 
+Action 
+Sports game
+Platform 
+Scrolling shooter
+Roguelike
+Puzzle 
+First-person shooter
+Adventure 
+Action-adventure 
+Racing 
+City-building 
+Sports 
+Sports 
+Platform 
+Racing 
+Turn-based strategy
+Combat flight simulator
+Action 
+Simulation 
+Educational software / Educational 
+Racing
+2D Versus fighting 
+Turn-based strategy
+Strategy
+Action 
+Action-adventure 
+Arcade 
+Strategy 
+Point-and-click adventure
+Racing 
+Platform 
+Sports 
+Graphic adventure 
+Role-playing video game
+Simulation 
+Turn-based tactics
+Point-and-click adventure 
+Racing 
+Scrolling shooter
+Business simulation 
+Survival horror
+Interactive movie
+Beat \'em up
+Scrolling shooter
+Puzzle 
+Fighting 
+Puzzle-platform 
+Action role-playing 
+First-person shooter
+Social simulation 
+Adventure 
+Platform game
+Sports 
+Maze
+Space trading and combat game
+Party 
+Fighting 
+Racing 
+Sports 
+2D action 
+Action-adventure 
+Real-time tactics / Real-time 
+Action-adventure 
+Adventure 
+Action-adventure 
+Point-and-click adventure 
+Adventure 
+First-person shooter
+Platform 
+Party 
+Third-person shooter
+Multidirectional shooter
+Racing 
+Scrolling shooter
+
+Action 
+Action role-playing game
+Strategy 
+Sandbox 
+Action 
+Shoot \'em up
+MMORPG
+Shooter 
+Strategy 
+Shoot \'em up
+Hack and slash
+Third Person Shooter
+First-person shooter
+Sports 
+Strategy 
+Role-playing video game
+Racing 
+Adventure 
+Vehicle simulation 
+Survival 
+First-person shooter
+Scrolling shooter
+Action role-playing
+Multidirectional shooter
+Adventure 
+Action-adventure 
+Racing video game
+Sports 
+Real-time strategy
+Action 
+God game
+Dungeon crawl
+Bishōjo 
+Action 
+role-playing 
+Third-person shooter
+Action-adventure 
+Sports 
+Puzzle
+Action-adventure 
+Pachinko
+Point-and-click adventure
+Racing 
+Action 
+Educational game
+Fixed shooter
+Sports 
+Pinball
+Tactical role-playing 
+Platform 
+Action-adventure 
+Sports 
+Business simulation game
+Platform 
+Hidden object
+Fighting 
+Action-adventure 
+Music 
+Puzzle 
+Sports 
+Role-playing 
+Action-adventure 
+Adventure 
+Action role-playing 
+Racing game
+extreme sports 
+Action 
+Platform 
+Educational 
+Role-playing 
+First-person shooter
+Third-person shooter
+Puzzle-platform 
+Beat \'em up
+Eroge
+Graphic adventure
+Chess
+Action 
+Adventure 
+First-person shooter
+First-person shooter
+Action 
+Action 
+Fixed shooter
+Action role-playing 
+Shoot \'em up
+Sports 
+Maze 
+Party games
+Shoot 'em up
+Music 
+Role-playing video game
+Role-playing 
+Tactical role-playing 
+Role-playing 
+Vehicular combat 
+Action-adventure 
+Action 
+Beat \'em up
+Action 
+Adventure 
+Party 
+Interactive movie
+Platform 
+Action RPG 
+Action-adventure 
+Puzzle-platform
+Survival horror
+Puzzle game
+Sports 
+Adventure game
+Massively multiplayer online role-playing game
+Puzzle 
+Third-person shooter
+Professional wrestling
+Action 
+Racing video game
+Role-playing 
+Racing 
+Multidirectional shooter
+Non-game
+Interactive fiction
+Adventure 
+Arcade 
+Adventure 
+Scrolling shooter
+Action-adventure 
+Platform 
+Interactive fiction
+Sports 
+First-person shooter
+Air combat simulation 
+Vehicle simulation 
+Racing 
+Sports 
+Action-adventure 
+First-person shooter
+Action 
+Puzzle 
+Fixed shooter
+Adventure Game / Adventure 
+
+Shoot \'em up
+Sports 
+Interactive movie
+Action-adventure 
+Racing 
+Construction and management simulation
+Real-time strategy
+Action role-playing 
+Strategy 
+Real-time strategy
+Maze 
+Run and gun 
+Combat flight simulator
+First-person shooter
+Roguelike
+Action 
+Action 
+Arcade 
+Adventure 
+Sports 
+Educational 
+Action-adventure 
+Vehicular combat
+Simulation 
+Combat flight simulation 
+Fighting game
+Action-adventure game
+Role-playing 
+Turn-based strategy
+Platform 
+Racing 
+Adventure 
+Adventure 
+Racing 
+2D action 
+Shoot \'em up#Run and gun / Run and gun 
+Action role-playing
+Puzzle-platform 
+Beat-\'em-up
+Action-adventure 
+Shooter 
+Tile-matching
+Adventure 
+Party 
+Puzzle 
+Trivia
+Adventure 
+Action-adventure 
+Adventure 
+Point-and-click adventure
+Sports 
+Tactical role-playing game
+Action-adventure 
+Action role-playing
+Board game
+Action 
+Light gun shooter
+Action 
+Fighting 
+Action-adventure 
+Edutainment
+City-building game
+Action RPG
+Educational simulation 
+Platform 
+Shoot \'em up#Run and gun / Run and gun 
+Racing 
+Action 
+Platform 
+Action-adventure 
+Real-time strategy
+strategy game
+Sports 
+Beat 'em up
+Shoot \'em up#Scrolling shooters / Horizontal-scrolling shooter 
+Light gun shooter
+Fighting 
+Racing 
+Adventure 
+Board game
+Action-adventure 
+Action 
+Simulation
+Role-playing 
+Adventure 
+Shoot \'em up
+Adventure 
+Real-time strategy
+Role-playing 
+Action 
+Beat \'em up
+Sports 
+Interactive fiction
+Board game
+Action 
+Puzzle 
+Programming 
+Role-playing video game
+Racing 
+Action-adventure 
+Puzzle 
+Fighting game
+Platform 
+Racing 
+Real-time tactics
+Action-adventure 
+First-person shooter
+Platform 
+Role-playing video game
+First-person shooter
+Adventure 
+Action-adventure 
+Sports 
+Action 
+
+First-person shooter
+Action 
+Beat \'em up
+Text adventure
+Shoot \'em up
+
+Player versus player / Pure PK 
+Visual novel
+Platforming 
+Racing 
+Action role-playing 
+Real-time tactics
+Adventure 
+Kart racing 
+Action role-playing game
+Racing 
+Platform 
+Third-person shooter
+Sim racing
+Platform 
+Adventure 
+Role-playing 
+Tactical shooter / Tactical 
+tactical shooter / Tactical 
+Puzzle 
+Shoot \'em up
+Action 
+Interactive film
+Puzzle 
+Adventure 
+First-person shooter
+Point and Click
+Platform-adventure 
+Action-adventure 
+First-person shooter
+Simulation game
+Role-playing 
+Sports
+Platform 
+Platform 
+Sports 
+Text adventure game
+Sport simulations 
+Platform 
+Arcade-style 
+Racing 
+City-building 
+Action-adventure 
+Role-playing 
+Interactive fiction
+Puzzle-platformer
+Racing 
+Action 
+Music video game
+Hack and Slash
+Puzzle 
+Sports 
+First-person shooter
+Puzzle 
+Shoot \'em up
+Action 
+Interactive fiction
+Arcade 
+Turn-based tactics
+Action 
+Action-adventure 
+Roguelike
+Combat flight simulator
+Platform 
+Platformer 
+Stealth 
+Simulation
+Platform 
+Turn-based strategy
+Platform 
+Rhythm game
+Adventure 
+Action 
+Visual novel
+Single-player 
+Shoot \'em up
+Sports game
+Fighting 
+Platform 
+Chess variant
+Real-time strategy
+Fighting 
+First-person shooter
+Space combat simulation
+Puzzle 
+Arena
+Action-adventure 
+Shoot \'em up
+Adventure 
+Hack and slash
+Racing 
+Platform 
+Arcade 
+Puzzle 
+Action-adventure 
+Snowboarding 
+Party 
+Flight simulation
+Interactive fiction
+Construction and management simulation
+Platform game
+Racing 
+Fantasy
+Turn-based strategy
+Action-adventure 
+Survival horror
+Platformer 
+Sports game
+Real-time tactics
+
+Racing 
+Action-adventure 
+Sports 
+Beat \'em up
+Third-person shooter
+Turn-based strategy
+Action 
+First Person Shooter
+Graphic adventure 
+Mission-based driving 
+Roguelike
+Action-adventure 
+Adventure 
+Board game
+Tactical shooter
+Real-time strategy
+Turn-based strategy
+Turn-based tactics
+Computer wargame
+Platform 
+Action 
+Action 
+Racing 
+Role-playing game
+Fighting 
+Life simulation
+Sports
+Racing 
+Sports 
+Adventure 
+Sports 
+Tactical role-playing
+Action 
+Sports (ice hockey) 
+Platform 
+Action-adventure game
+Sports 
+Platformer 
+Word game
+Platform 
+Maze 
+Racing 
+Multi-directional shooter
+Endless runner
+Platform 
+Racing 
+Hack and slash
+Third-person shooter
+Life simulation 
+incremental 
+Action 
+Racing 
+Horse racing
+Versus Fighting 
+Interactive fiction
+Fighting game
+Puzzle-platformer
+Platform 
+Mech simulation
+Beat \'em up
+Fighting 
+Sports 
+MMORTS
+First-person shooter
+Adventure 
+Role-playing 
+Social simulation game
+Action-adventure
+Racing 
+
+
+Adventure 
+Role-playing video game
+Action-adventure
+Vehicular combat 
+First-person adventure 
+Real-time strategy
+Interactive fiction
+Adventure 
+Third-person shooter
+First-person shooter
+MMORPG
+Vehicular combat 
+Racing 
+Sports 
+Sim racing
+Racing 
+First-person shooter
+Action 
+Sim racing
+Casual game
+Rhythm 
+Vehicular combat
+Massively multiplayer online role-playing game
+Action 
+Action role-playing game
+Strategy-RPG 
+Racing 
+Adventure 
+Action 
+Sports 
+Graphic adventure 
+Fixed shooter
+Sports 
+Sports 
+Platform 
+Submarine simulation 
+Racing 
+Action-adventure 
+Puzzle 
+Adventure 
+Puzzle-platform 
+Tactical role-playing game
+Shoot \'em up
+Light gun shooter
+Action 
+Puzzle 
+Adventure 
+Rhythm 
+Survival horror
+Stealth 
+Action-adventure
+Action-adventure 
+Puzzle 
+Puzzle-platform 
+First-person shooter
+Puzzle 
+Grand strategy 
+
+Massively multiplayer online 
+Puzzle 
+Role-playing 
+Multiplayer online battle arena / MOBA 
+
+Breakout clone / Block breaker 
+Platform 
+Fighting 
+Adventure game
+Music 
+Role-playing 
+Music 
+Real-time strategy
+Action 
+Skiing
+City-Building Game
+Platform 
+Platform 
+Racing 
+Role-playing 
+Action role-playing 
+Adventure game
+Sports 
+Interactive fiction
+Graphic adventure
+Shoot \'em up
+Educational 
+Platformer 
+Rhythm game
+Action-adventure 
+Fighting 
+Life simulation 
+Battle royale 
+Stealth 
+Vehicular combat 
+Third-person shooter
+Action role-playing
+Platform game
+MMORPG 
+Adventure 
+Tactical role-playing 
+Role-playing 
+First-person shooter
+Platform 
+Real-time strategy
+Survival horror
+Simulation
+Casual 
+Action 
+Visual novel
+Role-playing 
+Sports 
+first-person shooter
+Role-playing 
+Stealth 
+Role-playing 
+Platformer 
+Strategy 
+Fighting 
+Shoot 'em up
+Fantasy
+Role-playing 
+Racing 
+Breakout clone
+Sports 
+Sports 
+Platform 
+Fighting 
+Action 
+Shoot \'em up#Run and gun / 2D Run and gun 
+Tabletop game
+Platform 
+Sport simulations 
+Sports 
+Educational 
+Role-playing 
+RPG 
+Space flight simulation 
+Business simulation 
+Comedy horror
+Dating sim
+Snowboarding 
+Air combat simulation 
+Action 
+Platform 
+Platformer
+Educational 
+Fighting 
+Platform 
+Platform 
+Horse racing 
+Sports 
+Role-playing 
+Tactical role-playing 
+Platform 
+Sports
+Point-and-click adventure 
+Air combat simulation 
+Sports 
+4X 
+Role-playing 
+Role-playing 
+Visual novel
+First-person shooter
+Adventure 
+Post apocalyptic
+Racing 
+2D action 
+Strategy 
+Arcade video game
+Action-adventure 
+Third-person shooter / Third-person 
+
+Action-adventure 
+Side-scrolling 
+Third-person shooter
+
+Racing 
+Puzzle
+Interactive movie
+Action role-playing 
+Adventure 
+Action role-playing
+Action role-playing game
+Shoot \'em up#Run and gun / Run and gun 
+Interactive fiction
+Graphic adventure 
+Sports 
+Interactive fiction
+Puzzle-platform 
+Real-time strategy
+Fixed shooter
+Computer chess
+Sports 
+Platform 
+Massively Multiplayer Online Racing 
+Air combat simulation 
+Fighting 
+Puzzle 
+Puzzle game
+Target shooting 
+Puzzle 
+Action role-playing 
+Real-time strategy
+2D action 
+Puzzle 
+Shoot\'em up / Horizontal-scrolling shooter 
+Business simulation game
+Action-adventure 
+Adventure 
+Survival horror
+Racing 
+Action 
+Sports 
+Fighting game
+Vehicular combat 
+Fighting 
+First-person shooter
+Action role-playing 
+Shoot \'em up
+Computer wargame
+Survival horror
+Action 
+Sports
+MMOG 
+Tactical role-playing 
+Third-person shooter
+Action 
+Action-adventure 
+Platform-adventure 
+Action 
+Sports 
+Sports 
+Sports 
+Puzzle 
+Survival horror
+Adventure 
+Puzzle-platform 
+Fantasy
+Shooter 
+Action 
+Action 
+Tank simulator 
+Anime
+Action 
+Action 
+Horror 
+Role-playing 
+Adventure 
+Bowling
+American football 
+Fighting 
+Point-and-click adventure game
+Puzzle 
+Massively multiplayer online 
+Sports 
+Sports 
+Sports 
+Adventure game
+Adventure 
+Sports 
+Platformer 
+Space combat 
+Sports 
+Racing 
+Racing 
+Point-and-click adventure 
+Third-person shooter
+Platformer
+Action 
+Space combat simulator
+Puzzle 
+Driving 
+Role-playing 
+Survival horror
+Adventure 
+Run and gun 
+Action-adventure 
+Puzzle 
+Action role-playing
+Interactive fiction
+
+Platform 
+Adventure 
+Interactive fiction
+Sports 
+Music 
+Adventure game
+Simulation video game
+Action 
+Action 
+Space trading and combat 
+Sports 
+Computer wargame
+Real-time strategy
+First-person shooter
+Submarine simulator
+Shooter 
+Action-adventure 
+Action 
+Puzzle 
+Adventure 
+Tactical shooter
+Action 
+Action role-playing 
+Role-playing 
+Adventure 
+First-person shooter
+First-person shooter
+Platform game
+Role-playing 
+Puzzle
+Platform 
+Action 
+Role-playing video game
+Adventure 
+Real-time tactics
+Tactical role-playing 
+MMORPG
+Action-adventure 
+2D action 
+Sports 
+Scrolling shooter
+Action 
+Platform 
+Platform game
+Puzzle 
+Role-playing 
+Shooter 
+Action 
+Tactical RPG 
+Puzzle 
+Platform 
+Platform 
+Shoot 'em up
+Action-adventure 
+Sandbox 
+First-person shooter
+Endless runner
+Fighting 
+Action role-playing 
+Action 
+Action 
+Platform 
+Action 
+Roguelike
+Adventure 
+First-person shooter
+Racing 
+Sim racing
+Adventure game
+Action role-playing game
+Multidirectional shooter
+Sports 
+Simulation 
+Puzzle adventure / Puzzle Adventure 
+Action 
+Sports 
+Sports video game
+Adventure 
+Sports 
+Real-time strategy
+Action-adventure 
+Side-scrolling 
+Platform 
+Sports
+Action Game / Action 
+Party 
+Action 
+Shoot 'em up
+Strategy 
+Real-time tactics / Real-time 
+Racing 
+Adventure 
+Traditional soccer 
+Action 
+Interactive fiction
+Fighting 
+Turn-based strategy
+Run-and-gun 
+Platform 
+Platform 
+Fighting 
+Action role-playing 
+Fighting 
+Role-playing 
+Racing 
+Puzzle-platform 
+Shoot 'em up
+Shooter 
+Shoot \'em up / Multidirectional shooter 
+Construction and management simulation
+Role-playing video game
+Action-adventure game
+Scrolling shooter
+Maze 
+Massively multiplayer online role-playing 
+Action 
+Vehicle simulation game
+Action 
+First-person shooter
+Maze 
+Flight simulator
+Board game
+Dungeon crawl
+Third-person adventure 
+First-person shooter
+Action-adventure 
+Shoot \'em up
+Fighting 
+Sports 
+Fighting 
+Role-playing 
+Racing 
+Platform 
+MILE
+Action role-playing 
+Role-playing 
+Racing 
+Third Person Shooter
+free-to-play
+Party 
+Real-time strategy
+Action role-playing 
+First-person shooter
+Action role-playing 
+Fighting 
+Combat flight simulator
+Hack and slash
+Puzzle 
+Racing 
+Third-person shooter
+Strategy 
+Fishing 
+First-person shooter
+Action role-playing 
+Action-adventure 
+First-person shooter
+Turn-based tactics
+Sports 
+Simulation game
+Fighting 
+Business simulation 
+Role-playing 
+Action-adventure 
+Action-adventure
+Action-adventure 
+Combat flight simulation 
+Action 
+Exploration 
+Puzzle 
+Action-adventure 
+Party 
+Role-playing video game
+Platform 
+Vehicle simulation game
+Music 
+
+Puzzle 
+Single-player 
+Action-adventure 
+Action 
+Adventure 
+Role-playing video game
+Action 
+Platform 
+Sandbox 
+Programming 
+First-person shooter
+Educational 
+
+Action 
+Sports 
+Fixed shooter
+Massively multiplayer online real-time strategy game
+Action-adventure 
+Puzzle 
+Adventure 
+Shooting 
+Massively multiplayer online role-playing game
+Hack and slash
+Role-playing 
+Adventure 
+Platform 
+Racing 
+Sports video game
+Sim racing
+Action 
+Platform 
+Role-playing video game
+Scrolling shooter
+Educational 
+Turn-based strategy
+Action 
+Racing 
+Puzzle 
+Scrolling shooter
+Action role-playing game
+Real-time strategy
+Action role-playing
+Fighting 
+Platform game
+Sports 
+Role-playing 
+Maze 
+Creativity 
+Real-time strategy
+Role-playing 
+Strategy 
+Action role-playing 
+Action 
+Survival horror
+Scrolling shooter
+Government simulation game
+Interactive fiction
+Action role-playing 
+Game creation system
+Puzzle 
+Action-adventure 
+Action-adventure
+Vertically scrolling shooter
+Adventure 
+Music/Rhythm 
+Sports 
+Action role-playing
+Action 
+Turn-based strategy 
+Action 
+4X
+Turn-based strategy
+Platform game
+Real-time tactics / Real-time 
+Hack and slash
+Platform 
+Platform-adventure 
+Platform 
+Music 
+Action role-playing 
+Adventure 
+Edutainment
+Fighting 
+Toys-to-life
+Adventure 
+RPG 
+Fighting 
+Platform 
+2D Versus Fighting 
+Action role-playing game
+Puzzle 
+Action role-playing 
+Multidirectional shooter
+Adventure 
+Fighting 
+Dungeon crawler
+Sim racing
+
+Beat \'em up
+Action-adventure 
+Racing 
+Sports 
+Role-playing video game
+Sports 
+Action role-playing 
+Racing 
+Stealth 
+Action-adventure 
+Racing game
+Sports game
+Action 
+Action game
+Puzzle-platform 
+Action-adventure 
+Sports 
+Shoot \'em up#Scrolling shooters / Vertical-scrolling shooter 
+Action-adventure 
+Music 
+Survival 
+Action-adventure 
+Real-time strategy
+Role-playing 
+Role-playing 
+Beat \'em up
+Action role-playing 
+Multidirectional shooter
+Versus fighting 
+Pinball 
+First-person shooter
+3D platformer 
+Platform 
+Interactive fiction
+Fighting 
+Action-adventure 
+Sports 
+Endless runner
+Sports 
+Interactive fiction
+Tactical role-playing 
+Action 
+Action-adventure 
+Adventure 
+Shoot \'em up#Run and gun / Run and gun 
+Action role-playing game
+Educational 
+Action-adventure 
+First-person shooter
+Third-person shooter
+Sports 
+Action-adventure 
+Action role-playing
+Drama
+Metroidvania
+Rail shooter
+Role-playing video game
+Adventure 
+Turn-based strategy
+First-person shooter
+Strategy 
+Adventure 
+Sports 
+Racing 
+Shoot \'em up
+Interactive fiction
+Shooter 
+Simulation 
+Simulation 
+Sim racing / Driving simulation 
+Adventure 
+Sports 
+Action role-playing 
+Action-adventure 
+Simulation 
+Platform 
+Action 
+Turn-based strategy
+
+Action-adventure 
+Boxing
+Adventure 
+Racing 
+Strategy 
+Role-playing 
+Action 
+Top-down shooter
+Action 
+Action-adventure 
+Stealth 
+Real-time strategy
+Arcade adventure
+Text adventure
+Adventure 
+Space trading 
+MMORPG
+Party 
+Scrolling shooter
+Beat \'em-up
+Role-playing game
+First-person shooter
+Action 
+Adventure 
+Racing 
+Puzzle 
+American football
+Action 
+Action-adventure 
+Vehicular combat 
+Racing 
+Platform 
+Action 
+Sports 
+Combat flight simulator
+Role-playing 
+Platform-adventure
+Role-playing video game
+Shoot \'em up
+Puzzle-platform
+Space combat simulator
+Racing 
+Platform game
+Interactive fiction
+Sports 
+Fighting 
+Fighting 
+Survival 
+Real-time strategy
+Sports 
+Sports 
+Role-playing 
+Tactical role-playing game
+Role-playing video game
+Sport simulations 
+Interactive fiction
+MMORPG 
+Simulation 
+Shooter 
+Flight simulator
+Massively multiplayer online role-playing 
+Action 
+Turn-based strategy
+Adventure game
+First-person shooter
+Puzzle 
+Board game
+Platformer 
+First-person shooter
+Multidirectional shooter
+Sports 
+Strategy 
+Simulation 
+Motorsport Simulator 
+Endless runner
+Football 
+Racing 
+Fighting 
+Sports Game / Sports 
+Action 
+Puzzle-platform 
+Fighting 
+Racing 
+Action role-playing
+Puzzle 
+Simulation
+Simulation 
+Beat \'em up
+Fighting 
+Platform 
+Third-person shooter
+Action 
+Exploration 
+Sports 
+Action role-playing 
+Comedy-drama
+Role-playing 
+Visual novel
+Shooter 
+Platform-adventure 
+Slot machine
+Sports 
+Otome game
+Visual novel
+Racing 
+Racing 
+Platform 
+Beat \'em up
+Art game
+Massively multiplayer online role-playing game
+Strategy 
+Beat \'em up
+Sports 
+Roguelike
+MMORPG 
+Strategy 
+Platform 
+Sports 
+Action 
+Action-adventure 
+Pinball 
+Sports 
+Action-adventure 
+Action role-playing
+Turn-based strategy
+Rail shooter
+Action RPG 
+Stealth 
+rhythm 
+Platform 
+Educational 
+Platform 
+Role-playing 
+Racing 
+Shoot\'em up
+RPG 
+Platform-adventure 
+Action 
+Real-time strategy
+Action-adventure 
+Racing 
+Adventure game
+Scrolling shooter
+Fighting 
+Puzzle 
+Adventure 
+Beat \'em up
+Action role-playing 
+Sports game
+Maze 
+Racing 
+MMO 
+Puzzle 
+Platform 
+Scrolling shooter
+Beat \'em up
+Turn-based strategy
+Racing 
+Party 
+Adventure 
+Combat flight simulator
+Sports 
+Action-adventure 
+Action role-playing
+Simulation 
+Action role-playing 
+Platform 
+Interactive fiction
+Business simulation game
+Beat \'em up / Beat-\'Em-Up 
+MUD
+Platform 
+Stealth 
+Scrolling shooter
+Non-game
+Shoot \'em up
+Platform 
+
+Multidirectional shooter
+Dungeon crawler
+Action 
+
+Interactive fiction
+Endless runner
+Sports 
+Visual novel
+2D action 
+Action 
+Maze 
+Sports 
+Role-playing video game
+First-person shooter
+Game creation system
+Alternative sports 
+Racing 
+Rail shooter
+Scrolling shooter
+Action-adventure 
+American football 
+Strategy Game / Strategy 
+Edutainment
+Vehicle simulation 
+Puzzle
+Strategy video game
+Auto racing
+Platform 
+Simulation 
+Air combat simulation 
+4X 
+Action role-playing game
+Action 
+Action 
+Fixed shooter
+Card game
+Shoot \'em up
+Arcade 
+First-person shooter
+Action 
+Puzzle 
+Sports 
+Action 
+Action 
+Dungeon crawler
+Turn-based strategy
+Air combat simulation 
+Educational 
+Hack and slash
+Real-time strategy
+Scrolling shooter
+Interactive movie
+Beat \'em up
+Combat flight simulator
+Sports 
+Action 
+Maze 
+Action fiction / Action 
+Puzzle-platformer
+Platformer 
+Adventure 
+Music 
+Action-adventure game
+Vehicle simulation game
+Action role-playing 
+Turn-based strategy
+Adventure 
+action 
+Sports 
+Fighting 
+Racing 
+First-person shooter
+Third-person shooter
+Vehicle simulation 
+Platform 
+Interactive fiction
+Computer wargame
+Platform 
+Sports 
+First-person shooter
+Puzzle / Puzzler 
+Action 
+
+Shoot \'em up / Fixed shooter 
+Shooter 
+Cooking 
+Visual novel
+Point-and-click adventure
+Action-adventure 
+Rail shooter
+Adventure 
+Tactical role-playing 
+Racing 
+Platform 
+Sports 
+Action 
+Maze 
+Action 
+Educational 
+Action role-playing game
+Arcade adventure
+First-person shooter
+Sports 
+Grand strategy 
+Incremental game
+Role-playing 
+Puzzle 
+Shooting 
+Action role-playing 
+Action-adventure 
+Adventure 
+Action-adventure 
+Music / Rhythm 
+Platform 
+Vehicular combat
+Action 
+Music / Rhythm 
+Role-playing video game
+Sports 
+Racing 
+Sports 
+Third-person shooter
+Space combat simulator
+Maze 
+Adventure 
+Real-time strategy
+Visual novel
+Life simulation 
+Action 
+First-person shooter
+Drag racing 
+Point-and-click adventure
+Role playing game
+Combat flight simulator 
+Puzzle 
+Turn-based strategy
+Music 
+First-person shooter
+Platform 
+Racing 
+Puzzle-platform 
+turn-based strategy / strategy 
+Racing 
+Action 
+Role-playing 
+Role-playing video game
+Sports 
+Puzzle 
+Turn-based strategy
+Life simulation
+Platform 
+Action role-playing 
+Vehicular combat 
+Strategy 
+Racing 
+Music 
+Role-playing 
+Action 
+Sports 
+Fighting 
+Shoot \'em up#Scrolling shooters / Scrolling shooter 
+Action 
+Visual novel
+RPG 
+Shoot \'em up
+Action 
+Adventure 
+Action-adventure
+Educational 
+Platform 
+Role-playing 
+Board 
+Action 
+Fighting 
+Visual novel
+Visual novel
+Traditional boxing 
+Adventure 
+Action 
+Action 
+Combat flight simulator 
+Sports 
+Farm simulation 
+Tactical role-playing 
+Maze 
+Endless runner / Runner 
+Vehicle simulation game
+Adventure 
+Role-playing 
+Turn-based strategy
+Shooting gallery 
+Fighting 
+Fighting 
+Puzzle
+Vehicle simulation game
+First-person shooter
+Action-adventure 
+Run-and-gun platform 
+Digital collectible card game
+Fixed shooter
+Sports 
+Platform 
+Platform 
+Vehicle simulation game
+Computer game
+Survival horror
+Platform 
+Top-down shooter
+Racing 
+Platform game
+Interactive fiction
+First-person shooter
+Role-playing 
+Maze 
+Adventure 
+Shoot \'em up
+Action 
+Platform 
+Sim racing
+Adventure 
+Sports 
+space combat 
+Racing 
+Sports 
+Action 
+Adventure 
+Platform 
+Tactical shooter
+Fixed shooter
+Role-playing game
+Scrolling shooter
+Traditional football 
+Vehicular combat
+Action 
+Golfing 
+Role-playing 
+Beat \'em up
+Sports 
+Adventure 
+Government simulation
+Adventure 
+Run-and-gun shooter
+Fighting 
+Action 
+Racing 
+Racing 
+Racing 
+Platform 
+Cinematic 
+Adventure 
+Arcade 
+Tactical role-playing game
+First-person shooter
+Shoot \'em up
+Action role-playing 
+First-person shooter
+Turn-based strategy
+Platform 
+Action 
+Pinball
+Racing game
+Graphic adventure 
+Action 
+Sim racing
+Adventure game
+Racing 
+Fighting game
+Music / Rhythm 
+Action-adventure 
+Incremental 
+Hack and slash
+Survival horror
+Cooking simulation 
+Racing 
+Fighting 
+Hunting
+Music 
+Action-adventure 
+Third-person shooter
+Air combat simulation 
+Tower defense
+Fighting 
+Interactive film
+Interactive fiction
+Sports 
+Fighting game
+Top-down shooter
+Action role-playing
+Third-person shooter
+Sports game
+Shoot \'em up
+Action-adventure 
+Racing 
+Sports (ice hockey) 
+Sports 
+Otome game
+Adventure game
+Racing
+Gambling 
+Racing 
+Puzzle 
+First-person shooter
+Action 
+Action 
+Shoot \'em up
+Racing 
+Action adventure 
+Fighting 
+Text adventure
+Adventure 
+Hack and slash
+Racing 
+Sports 
+Pinball 
+Breakout clone / Breakout 
+Visual novel
+Horror 
+Psychological horror
+Action-adventure 
+Kart racing 
+Real-time strategy
+Action 
+Racing 
+Adventure 
+Music video game
+Action-adventure 
+Tower defense
+Action 
+Simulation video game
+Real-time strategy
+Flight simulator
+Action 
+Strategy 
+Role-playing video game
+Life simulation 
+Fixed shooter
+Racing 
+Formula One
+Real-time strategy
+Arcade 
+Sports
+Platform 
+Strategy 
+First-person shooter
+Racing 
+Action 
+Interactive fiction
+Platform game
+Vertically scrolling shooter 
+Real-time strategy
+Racing 
+Sports 
+Adventure game
+Action role-playing 
+Music 
+Action-adventure 
+Puzzle 
+Scrolling
+Vehicular combat 
+Action role-playing 
+Adventure 
+Real-time strategy
+Light gun shooter
+Role-playing 
+Puzzle 
+Action role-playing game
+Rail shooter
+Racing 
+Hack and slash
+Fixed shooter
+Soccer/football 
+Platform 
+Action role-playing 
+Adventure 
+Real-time tactics
+Action 
+Action-adventure 
+Role-playing 
+Action-adventure 
+Edutainment
+Scrolling shooter
+Action role-playing
+Shoot \'em up
+Action-adventure 
+First-person shooter
+Shoot \'em up
+
+Beat \'em up
+Action-adventure 
+Sports 
+Side-scrolling 
+Collectible card game
+Strategy 
+Music 
+Shoot \'em up
+Action-adventure
+Action role-playing
+Sandbox 
+Business simulation
+Adventure 
+Role-playing 
+Action 
+Racing 
+Scrolling shooter / Vertically scrolling shooter 
+Action 
+Rhythm 
+Puzzle-platform 
+Collectible card game
+Construction and management simulation
+Puzzle 
+Simulation 
+Wrestling 
+Sports - Ice Hockey Sim 
+Vehicular combat 
+4X
+Tactical RPG
+Action role-playing 
+Role-playing 
+Sport
+Third-person shooter
+Action-adventure 
+Sport
+Flight simulator
+Interactive fiction
+Multidirectional shooter
+Multidirectional shooter
+Shoot \'em up#Run and gun / Run and gun 
+
+Beat \'em up
+Arcade adventure
+Sports 
+Platform 
+Racing 
+Action-adventure 
+Role-playing 
+Action-adventure
+Hack and slash
+Dungeon crawl
+Puzzle game
+Puzzle-platform 
+Action 
+Sports game
+Puzzle 
+Sim racing / Driving simulation 
+Action-adventure 
+Strategy 
+Air combat simulation 
+Action 
+Action-adventure 
+Platform 
+Action 
+Maze 
+Sports 
+Adventure 
+First-person shooter
+Turn-based tactics
+Sports Game / Sports 
+Action-adventure 
+Racing 
+Digital pet
+Puzzle 
+Casino 
+Chess
+Role-playing 
+Action-adventure game
+Point-and-click adventure 
+2D action 
+
+Virtual pet
+Sports 
+Puzzle 
+Third-person shooter
+Puzzle 
+Action-adventure
+Action 
+Role-playing 
+Shoot \'em up
+Action RPG 
+RPG 
+Puzzle 
+Business simulation game
+Action-adventure 
+Platform 
+Platform 
+Strategy 
+Strategy 
+Interactive story
+Tower defense
+Sports 
+Sports 
+Sports 
+Air combat simulation 
+Role-playing 
+Adventure 
+Racing 
+First-person shooter
+Turn-based strategy
+Action 
+Action role-playing
+Action 
+Real-time tactics
+Scrolling shooter
+Survival horror
+Racing 
+Action 
+Action role-playing 
+Tactical role-playing game
+Card game
+Fighting 
+Fighting 
+Adventure 
+First-person shooter
+Puzzle 
+Beat 'em up
+Racing 
+Sports 
+Breakout clone / Breakout 
+Sports 
+Real-time strategy
+Real-time tactics
+Role-playing 
+Rhythm 
+Text adventure
+Sports 
+Scrolling shooter / Vertical-scrolling shooter 
+Role-playing 
+Racing 
+Turn-based strategy
+Casino 
+Action role-playing 
+Action role-playing 
+Beat \'em up
+Shoot \'em up
+Action-adventure 
+2D fighting 
+Action RPG
+Third-person shooter
+Life simulation game
+Action-adventure
+Puzzle 
+Educational game
+Tactical role-playing game
+Platformer 
+Simulation game
+Traditional baseball 
+Adventure 
+First-person shooter
+Adventure 
+Action 
+Action 
+Role-playing 
+Racing 
+Sports
+Action 
+Fighting 
+Action role-playing 
+First-person shooter
+Real-time strategy
+Puzzle 
+Adventure game
+Action 
+Platform 
+Adventure 
+Game creation system
+Adventure Game / Adventure 
+Action RPG 
+Shoot \'em up
+Air combat simulation 
+Fighting game
+Strategy 
+Platform 
+Action role-playing 
+Action 
+Sports 
+Historical fiction
+Virtual pet
+MOBA / Multiplayer Online Battle Arena 
+Action-adventure 
+Action 
+Adventure 
+Fighting 
+action 
+Platform 
+Third-person shooter
+Puzzle-platform 
+Fighting 
+Beat \'em up
+Music 
+Sports 
+Vehicle simulation game
+Action-adventure 
+Action 
+Historical strategy 
+Graphic adventure 
+Music 
+Sports 
+2D computer graphics / 2-D 
+First-person shooter
+Real-time tactics
+Platform 
+Platform 
+Sports 
+
+First-person shooter
+Role-playing 
+Block kuzushi / Block breaker 
+Strategy 
+Rail shooter
+Role-playing 
+Software toy
+Computer wargame
+Platform 
+Tactical role-playing 
+Action role-playing game
+Action 
+Rhythm game
+Platform game
+Air combat simulation 
+Adventure 
+MMO 
+Role-playing 
+Racing 
+Racing 
+Action 
+Adventure 
+Adventure 
+Sports 
+Action 
+Sports game
+Platform 
+Sports 
+Arcade adventure
+Racing 
+Traditional soccer 
+Life simulation game
+Fighting 
+Edutainment / Educational software 
+Racing 
+First-person shooter
+Action 
+Action 
+Adventure 
+First-person shooter
+Action-adventure 
+Pinball
+Racing 
+Business simulation 
+Shoot \'em up#Run and gun / Run and gun 
+Scrolling shooter
+Third-person shooter
+Third-person shooter
+Scrolling shooter
+First-person shooter
+Role-playing 
+Eroge
+Racing 
+First-person shooter
+Simulation
+Action role-playing game
+Action-adventure 
+Puzzle 
+2D action 
+Sports 
+Shoot \'em up
+Maze 
+Puzzle 
+Tactical role-playing 
+Adventure 
+Snowboarding 
+Text adventure
+Computer wargame
+Golf
+Sim racing / Racing simulator 
+Sports 
+Puzzle-platform 
+Third-person shooter
+Puzzle 
+Action-adventure 
+Action-adventure 
+Tactical shooter
+Combat flight simulator 
+Platform 
+Breakout clone
+Adventure 
+Adventure 
+Computer wargame
+First-person shooter
+Quiz 
+Visual novel
+Action 
+Action 
+Sports 
+Simulation 
+Third-person shooter
+Auto racing
+Racing 
+Shoot \'em up
+First-person shooter
+Golf 
+Survival horror
+Survival horror
+Interactive fiction
+Strategy 
+Platform 
+Platform 
+Racing 
+
+Sports 
+Racing 
+Sports 
+Medal game
+Sports 
+Shoot \'em up
+Adventure 
+Survival horror
+Music 
+Tactical role-playing 
+Strategy 
+MMORPG 
+Rhythm 
+Music 
+Top-down shooter
+Puzzle 
+Action-adventure 
+Simulation 
+Platformer 
+Car combat 
+Breakout clone / Breakout 
+Artillery game
+Visual novel
+Turn-based strategy
+Fighting 
+Air combat simulation 
+Action-adventure 
+3D computer graphics software
+Sports 
+Role-playing 
+Survival 
+Action role-playing 
+Action 
+Twin-stick shooter
+Rail shooter
+Business simulation 
+Traditional golf 
+Role-playing video game
+Collectible card game
+Platformer 
+Real-time tactics
+Real-time strategy
+Fighting 
+Adventure 
+Role-playing 
+Sim racing
+Role-playing 
+Computer wargame
+First-person shooter
+Puzzle 
+Fixed shooter
+Rail shooter
+Role-playing video game
+Business simulation 
+Action Adventure
+Multidirectional shooter
+Run-and-gun shooter 
+Action-adventure 
+Educational 
+Flight simulator
+Racing 
+Rail shooter
+Action-adventure 
+Maze 
+Beat \'em up
+Action-adventure 
+Racing 
+Platformer 
+Sports 
+Puzzle 
+MMORPG
+Platform 
+Adventure 
+Real-time tactics
+Tactical shooter
+Adventure Game / Adventure 
+Platform 
+Shoot \'em up#Scrolling shooters / Scrolling shooter 
+Puzzle 
+Action-adventure 
+Racing 
+Adventure 
+Tactical role-playing 
+Survival horror
+Versus fighting 
+Puzzle 
+Noutore
+Sports 
+Strategy game
+Snowboarding 
+Simulation
+Shoot \'em up / Rail shooter 
+Action role-playing 
+First-person shooter
+Vehicle simulation 
+Action 
+First-person shooter
+Action role-playing
+Fighting 
+First-person shooter
+Music 
+Action 
+Shoot\'em up / Twin-stick shooter 
+Roguelite
+Action-adventure game
+Action-adventure 
+Platform game
+Action 
+Strategy 
+Puzzle
+Real-time strategy
+Rail shooter
+Racing 
+Puzzle / Puzzle Game 
+Shoot \'em up
+Shooter 
+Visual novel
+Action role-playing 
+First-person adventure
+Action 
+Interactive fiction
+Tabletop game
+Racing 
+Role-playing 
+Traditional baseball 
+Platform 
+Role-playing 
+Role-playing 
+Point-and-click adventure 
+First-person 
+Social networking service
+Adventure 
+Roguelike
+Platform 
+Sports 
+Action 
+Action 
+Sports 
+Business simulation 
+Turn-based strategy
+Vehicular combat game
+Maze 
+Maze 
+
+Puzzle 
+Fantasy
+Adventure Game
+Puzzle 
+Turn-based strategy
+Sports 
+Tactical role-playing game
+Traditional football 
+Stealth 
+Puzzle 
+Simulation 
+Shoot 'em up#Run and gun / Run and gun 
+
+Shoot \'em up#Run and gun / Run and gun 
+Platformer 
+Shoot \'em up
+Shoot \'em up#Tube and rail shooters / Rail shooter 
+Shoot \'em up
+Puzzle 
+Puzzle 
+Beat \'em up
+Action role-playing 
+Baseball 
+Shoot \'em up
+Traditional baseball 
+First-person shooter
+Vertically scrolling shooter 
+Action 
+Racing 
+Action-adventure 
+Fighting 
+Scrolling shooter
+Real-time strategy
+Shooter 
+Space combat simulator
+Sports 
+Sports 
+Tactical shooter
+Maze 
+First-person shooter
+Puzzle video game
+Tower defense
+Adventure 
+Action 
+Adventure 
+Scrolling shooter
+Puzzle game
+Role-playing game
+Action-adventure 
+4X
+Action 
+Puzzle-platform 
+Fighting 
+Sports 
+Sports 
+Simulation 
+Turn-based strategy
+First-person shooter
+Action 
+Adventure Game
+Action-adventure 
+Action role-playing
+Fixed shooter
+Grand strategy wargame
+First-person shooter
+Adventure 
+Role-playing video game
+Action-adventure 
+Racing 
+Maze 
+Action 
+Third-person shooter
+Collectible card game
+Platform 
+Fighting
+Multidirectional shooter
+Role-playing 
+Role-playing 
+Educational 
+Fighting 
+Platform 
+Real-time strategy
+Action-adventure 
+Action 
+Sports game
+Tactical shooter
+Computer wargame
+Graphic adventure
+Platformer
+Action-adventure 
+Platform game
+Platformer 
+Vehicular combat 
+Racing 
+Platform 
+Casual 
+Role-playing video game
+Platform 
+Roguelike
+Action 
+Combat flight simulator
+Role-playing 
+Tactical shooter
+Battle royale 
+Text adventure
+Adventure 
+Action 
+Interactive fiction
+Graphic adventure
+Role-playing video game
+Business simulation game
+Sports 
+Turn-based strategy
+Sports 
+Action 
+Graphic adventure 
+Sports 
+Shoot \'em up#Run and gun / Run and gun 
+Scrolling shooter
+First-person shooter
+MMORPG
+Graphic adventure / Point & Click Adventure 
+Puzzle-platform 
+Puzzle 
+Real-time strategy
+Racing 
+Action 
+Action role-playing 
+Sports 
+Collectible card game
+Puzzle 
+Puzzle 
+Snake 
+Platformer 
+Text Adventure
+Construction and management simulation
+Racing 
+Virtual world
+Platform 
+Scrolling shooter
+Sport 
+Strategy 
+Golf 
+Card 
+Vehicular combat
+Shoot \'em up#Run and gun / Run and gun 
+Role-playing 
+Real-time strategy
+RPG 
+Action-adventure 
+Puzzle 
+Sports 
+Breakout clone
+Sports 
+Platformer
+Action role-playing 
+Shoot \'em up#Run and gun / Run and gun 
+2D platform 
+Strategy 
+Puzzle 
+First-person shooter
+Real-time strategy
+Strategy 
+Social simulation 
+Action 
+Action 
+Action role-playing video game
+Platformer
+MOBA
+First-person shooter
+Sports 
+Survival 
+Action 
+Action video game
+Action 
+RPG 
+Adventure 
+Sports 
+Shoot \'em up
+Role-playing 
+Racing 
+Block breaker 
+Action-adventure 
+Action-adventure
+Action-adventure 
+Rhythm game
+Multidirectional shooter
+Fixed shooter
+Real-time strategy
+Racing 
+Tactical role-playing 
+Fixed shooter
+Sports
+Third-person shooter
+Air combat simulation 
+Real-time tactics
+Sim racing
+Strategy 
+Action-adventure 
+Racing 
+Adventure 
+Air Combat
+Beat \'em up
+First-person shooter
+Adventure 
+Driving 
+Bishōjo 
+Adventure 
+Adventure 
+Open world
+Survival horror
+Adventure 
+Third-person shooter
+Sports game
+Flight simulator
+Action-adventure 
+Turn-based strategy
+Sports
+Puzzle 
+Educational 
+Platform 
+Role-playing 
+Action role-playing game
+Platform 
+Action-adventure
+Sports 
+Action-adventure 
+Strategy 
+Traditional football 
+Tactical shooter
+Action role-playing 
+Third-person shooter
+role-playing game
+Construction and management simulation
+Racing 
+Adventure 
+Guessing ghamzaame
+Action 
+Puzzle 
+Exploration game
+
+Sports 
+Sports game
+Sports 
+Action role-playing 
+Shoot \'em up
+Beat \'em up
+Combat flight simulation 
+Shoot \'em up
+Educational 
+graphic adventure 
+Fighting 
+Shoot \'em up 
+Real-time tactics
+Digital pet#Generalization to non-pet situations / Raising simulation 
+Social simulation 
+Adventure game
+Racing 
+Action 
+Shooting 
+Strategy 
+Puzzle 
+Shoot \'em up#Types / Vertically scrolling shooter 
+Puzzle 
+Role-playing 
+Puzzle 
+Maze 
+Action 
+Platform 
+Business simulation 
+Racing 
+Time management 
+Business simulation game
+Shoot \'em up
+Simulation 
+Racing 
+Action-adventure
+Construction and management simulation / Management Simulation 
+Sports 
+Real-time strategy
+Shoot \'em up#Tube and rail shooters / Tube shooter 
+Fixed shooter
+Educational software / Educational 
+Life simulation 
+Sports 
+Fantasy
+Sports 
+Platform 
+First-person shooter
+Role-playing video game
+Puzzle 
+Exergaming
+Action 
+Racing 
+Fighting 
+Adventure 
+Action role-playing 
+Massively multiplayer online role-playing game
+Platform-adventure 
+Fighting 
+Tactical role-playing 
+Action 
+Racing 
+Fighting 
+Vehicle simulation 
+Action 
+Digital pet
+First-person shooter
+Sports 
+Affective videogames
+Role-playing 
+Role-playing 
+Action video game
+Fighting 
+Platform Game / Platform 
+Battle royale 
+Fighting 
+Combat flight simulation game
+Sport 
+Sports 
+Real-time strategy
+Puzzle 
+Platform 
+First-person shooter
+Role-playing 
+Visual novel
+Interactive fiction
+Sports 
+Interactive fiction
+Graphic adventure
+Combat flight simulator 
+Metroidvania
+Action-adventure 
+Shoot \'em up#Scrolling shooters / Vertical-scroller,<br />Shoot \'em up 
+Puzzle 
+Maze 
+Music 
+Racing 
+Platform 
+Alternative sports 
+Puzzle-platform 
+Quiz 
+Interactive fiction
+Fighting 
+Shoot \'em up
+Rhythm 
+Real-time strategy
+4X
+Fixed shooter
+First-person shooter
+Shoot \'em up / Shooter 
+First-person shooter
+Platform 
+Multidirectional shooter
+Action-adventure
+Shoot \'em up
+Strategy 
+Racing 
+Scrolling shooter
+Real-time tactics
+First-person shooter
+Platform 
+Puzzle 
+Action role-playing 
+Sports 
+Platform 
+Action-adventure 
+Adventure 
+Multidirectional shooter
+Party 
+Turn-based strategy
+Action role-playing 
+Sci-fi
+Role-playing 
+Fighting 
+Third-person shooter
+Simulation 
+Kart racing game
+Action 
+Battle royale 
+Sports 
+Puzzle 
+Simulation 
+Action role-playing 
+Action 
+Shoot \'em up#Multidirectional shooter / Multi-directional shooter 
+Role-playing 
+Role-playing 
+Visual novel
+Adventure 
+Vehicular combat
+Sports 
+Horror 
+Role-playing 
+Interactive fiction
+Grand strategy 
+Action-adventure 
+Sports 
+Shooter game
+Vehicle simulation 
+Fighting 
+Action 
+Rhythm game
+Platform 
+Sports 
+Amateur flight simulator
+Puzzle-platform 
+Sports 
+Point-and-click adventure
+Platform 
+First-person shooter
+Action role-playing 
+Puzzle-platform 
+Real-time strategy
+Arcade game
+Arcade-style golf 
+MMORPG
+Adventure 
+Platform 
+Traditional soccer 
+2D action 
+Sports 
+Hack and slash
+Train simulation
+Platform 
+Action-adventure
+Simulation
+Racing 
+Educational 
+Adventure 
+MMORPG 
+Versus fighting 
+Action role-playing 
+Action 
+Role-playing 
+Multiplayer Browser Game 
+Pinball
+Action 
+Hidden object game
+
+Action-adventure 
+Open world
+Real-time strategy
+
+Puzzle 
+Stealth 
+Platform 
+Survival horror
+Action role-playing 
+Real-time strategy
+Sports management 
+Platform 
+Platform 
+Action-adventure 
+Platform 
+Flight simulator / Flight combat 
+Action role-playing 
+First-person shooter
+Sports 
+Third-person shooter
+Action 
+Shoot \'em up#Run and gun / Run and gun 
+Simulation game
+Visual novel
+Arcade racing 
+Racing 
+Computer wargame
+Space combat 
+Sports 
+Interactive fiction
+Adventure 
+Point-and-click adventure game
+Action-adventure 
+Shoot \'em up
+Action-adventure
+Role-playing 
+Platform 
+Tactical role-playing
+Action role-playing
+Turn-based strategy
+Role-playing 
+Platform 
+Live simulation 
+Tactical role-playing 
+Racing 
+Role-playing video game
+Vehicle simulation 
+Traditional football 
+Rhythm game
+Interactive fiction
+Strategy 
+Action 
+Maze 
+Action 
+Role-playing 
+Tactical role-playing game
+Action-adventure 
+Motocross racing 
+Adventure 
+Construction and management simulation
+Multidirectional shooter
+Action role-playing 
+First-person shooter
+Action 
+Fixed shooter
+Fighting 
+Shoot \'em up
+Action role-playing 
+Sports management game
+Arcade adventure
+Dungeon crawl#First-person party-based dungeon crawlers / Dungeon crawler 
+Point-and-click adventure 
+Action-adventure 
+Action role-playing
+Rail shooter
+Platform 
+Platform game
+Action-adventure game
+Survival horror
+Role-playing 
+Stealth 
+
+Tactical role-playing game
+Side-scrolling 
+Fighting 
+Action role-playing game
+Sports 
+Adventure 
+Sim racing
+Educational 
+Action 
+Role-playing 
+Platform 
+Action 
+Puzzle 
+Platform 
+Tactical role-playing game
+Action-adventure 
+Third-person shooter
+City-building 
+Puzzle 
+Platform 
+Endless runner
+Interactive fiction
+Turn-based strategy
+Puzzle-platform 
+Role-playing 
+Tactical shooter
+Music 
+platform game
+MMOG 
+Sports 
+Shoot \'em up
+Turn-based tactics
+Survival horror
+Survival horror
+Survival horror
+Business simulation 
+Action-adventure 
+Platform 
+Multidirectional shooter
+
+Racing 
+Turn-based strategy
+Turn based strategy
+Action 
+Fighting 
+Fighting 
+Platform game
+Vehicle simulation game
+Strategy 
+Puzzle 
+Action role-playing 
+Platform 
+Shoot \'em up#Run and gun / Run and gun 
+Fighting 
+adventure 
+Fantasy
+Strategy involving breeding/constructing 
+Adventure 
+Cinematic platformer
+Survival horror
+Action-adventure
+Action role-playing 
+Tactical role-playing 
+Role-playing 
+Action-adventure 
+First-person shooter
+Action 
+Action-adventure 
+Sports 
+Third-person shooter
+Platform game
+Nature sports 
+Puzzle 
+Puzzle 
+Action 
+Grand strategy wargame
+Fighting game
+First-person shooter
+action role-playing game
+2D action 
+Action 
+Fighting 
+Role-playing 
+Fighting 
+Action shooter
+Action-adventure 
+Action 
+Action 
+Sports 
+Sports 
+Racing 
+Platform 
+First-person shooter
+Racing 
+Role-playing game
+Action 
+Artillery 
+Action 
+Adventure 
+Strategy and Management
+
+Run-and-gun shooter / Run-and-gun 
+Simulation 
+Racing 
+Sports 
+Adventure game
+Shoot \'em up#Tube and rail shooters / Rail shooter 
+Traditional ice hockey 
+Augmented reality 
+Light gun shooter
+Action role-playing 
+Beat \'em up
+Vehicular combat 
+City-building 
+Maze 
+Fighting 
+Platform 
+Action 
+Graphic adventure 
+Maze 
+Action-adventure 
+First-person shooter
+Action 
+First-person shooter
+Survival horror
+Sports 
+Graphic adventure 
+Action role-playing
+Action-adventure 
+Role-playing 
+Third-person shooter
+Sports 
+First-person shooter
+Real-time tactics
+Beat \'em up
+Action game
+Action role-playing
+Massively multiplayer online role-playing game
+Action 
+Adventure game
+Action role-playing
+Sports 
+Survival horror
+Platform 
+Side-scrolling 
+Interactive film / Interactive movie 
+First-person shooter
+Visual novels / Visual Novel 
+Arcade racing
+ARG 
+Role-playing 
+Adventure 
+Sports 
+Racing 
+Role-playing 
+Action-adventure 
+Action-adventure 
+Adventure game
+Platform 
+Kart racing 
+
+RPG 
+Action role-playing
+Action-adventure 
+Run-and-gun shooter
+Strategy 
+Action-adventure
+Platform 
+Scrolling shooter
+Role-playing video game
+Racing 
+Role-playing video game
+Party 
+
+Real-time strategy
+Construction and management simulation / CMS 
+Action 
+Racing 
+Shoot \'em up#Tube and rail shooters / Rail shooter 
+Maze 
+Dating sim
+Social 
+Adventure 
+Action-adventure 
+First-person shooter
+Platformer 
+Adventure 
+Action-adventure game
+Action-adventure 
+Massive multiplayer online game
+Puzzle 
+Roguelike
+Grand strategy 
+Shoot \'em up#Run and gun / Run and gun 
+Tactical role-playing 
+Real-time strategy
+Pinball
+Racing 
+Action-adventure 
+Racing 
+Puzzle 
+Traditional baseball 
+Racing 
+Action-adventure 
+Action role-playing video game
+Action 
+Role-playing 
+Fighting 
+Fighting 
+Platform 
+Platformer
+Amateur flight simulator
+Hack and slash
+Shoot\'em up / Fixed shooter 
+Action 
+Adventure 
+Real-time strategy
+First-person shooter
+First-person shooter
+Role-playing 
+Sports 
+Fighting 
+Action 
+Interactive film
+Platform 
+MMO 
+Racing 
+Sports 
+Racing 
+Survival horror
+Maze game
+First-person shooter
+Platform 
+Party 
+Scrolling shooter
+Role-playing 
+Racing 
+Breakout clone / \'\'Breakout\'\' clone 
+First-person Adventure 
+Action role-playing 
+platformer 
+Real-time tactics
+Action 
+Survival horror
+Turn-based strategy
+City-building 
+Sports 
+
+4X
+3D action 
+Rhythm 
+Shoot \'em up#Rail shooters / Rail shooter 
+Action-adventure 
+Survival horror
+Role-playing 
+Fighting 
+Role-playing 
+Action role-playing 
+Point and click
+Space combat simulator
+Real-time tactics / Real-time 
+Racing 
+Sports 
+Adventure 
+Shoot\'em up / Horizontal-scrolling shooter 
+Adventure 
+Action 
+Platform 
+action 
+Manic shooter
+Puzzle 
+Construction and management simulation
+Platformer
+Real-time strategy
+Racing 
+Action-adventure 
+Beat \'em up
+Life simulation 
+Adventure 
+Fantasy
+Snake 
+Action-adventure 
+Space simulation
+Real-time tactics
+Visual novel
+Point-and-click adventure 
+Puzzle 
+Puzzle 
+Racing 
+Role-playing 
+Multidirectional shooter
+Life simulation 
+Tactical role-playing game
+Party 
+Shooter 
+Role-playing 
+Construction and management simulation
+Browser game
+Survival 
+Platform game
+Fighting 
+Action 
+Rhythm game
+Space combat simulator
+Party 
+Turn-based strategy
+Shoot \'em up
+Strategy role-playing 
+Strategy
+city-building game
+Interactive fiction
+Platformer 
+Racing 
+Roguelike
+Puzzle 
+Third-person shooter
+Sports 
+First-person adventure 
+Adventure game
+Audio game
+Tactical shooter
+Sports 
+Hack and slash
+Real-time strategy
+Puzzle 
+Puzzle 
+First-person shooter
+Sim racing
+Action 
+Racing 
+Action-adventure 
+Racing
+Real-time strategy
+Light gun shooter
+Platform 
+Action game
+Role-playing 
+Visual novel
+Action role-playing 
+Third-person shooter
+Adventure 
+Action game
+Turn-based 
+Sports game
+Action 
+Action 
+Racing 
+Simulation
+Platform 
+Scrolling shooter
+Fighting 
+Chess
+Versus fighting game
+Action 
+Survival horror
+Platform 
+Social simulation game
+Puzzle 
+Adventure 
+Survival game
+Artificial life
+Action 
+Mobile 
+American football simulation 
+Puzzle 
+Role-playing video game
+Platform 
+Action RPG 
+Action 
+Graphic adventure 
+Action role-playing 
+Action game
+
+Metroidvania
+Puzzle 
+Educational 
+Role-playing 
+Puzzle-platform
+Platformer
+Baseball
+Sports 
+Role-playing video game
+Puzzle 
+Racing 
+Racing 
+Platformer 
+Combat flight simulator
+Sports game
+Combat flight simulator 
+Sports game
+Fighting 
+Beat \'em up
+Shooter game
+City-building game
+Role-playing 
+Interactive fiction
+Puzzle 
+Action 
+Sports 
+Roguelike
+Action 
+Action 
+Action game
+Racing 
+Puzzle 
+Social networking service / Social 
+Action-adventure 
+Racing 
+Adventure 
+Platform game
+First-person shooter
+Sports 
+Fantasy
+Real-time strategy
+Adventure 
+2D versus fighting 
+Puzzle
+First-person shooter
+Shoot \'em up / Twin-stick shooter 
+Role-playing 
+Visual novel
+Tactical role-playing 
+Racing 
+Simulation 
+Sports
+Tactical shooter
+Adventure 
+Newsgame
+Shoot \'em up / Twin Stick Shooter 
+Fighting 
+Role-playing 
+Puzzle 
+Sports 
+Adventure game
+Role-playing 
+Role-playing 
+Puzzle-platform 
+Puzzle 
+Racing 
+Interactive fiction
+Comedy
+Third-person adventure 
+City-building 
+Eroge
+Role-playing 
+Action 
+Adventure 
+Turn-based strategy
+First-person shooter
+Interactive fiction
+Fighting 
+Action-adventure
+Shoot \'em up#Scrolling shooters / Scrolling shooter 
+First person shooter
+Graphic adventure 
+Interactive fiction
+First-person shooter
+Adventure 
+Visual novel
+Scrolling shooter
+Roguelike
+Scrolling shooter
+Action 
+Action 
+Pinball
+Adventure 
+Space combat simulator
+Puzzle 
+Racing 
+Racing 
+Adventure 
+Tower defense
+MMORPG
+Party 
+Role-playing video game
+Arcade 
+Beat \'em up
+Platform 
+Puzzle 
+Space combat simulator / Space trading and combat simulator 
+Turn-based strategy
+Survival horror
+First-person shooter / First-person action 
+Platform 
+Sports 
+Exploration 
+
+Adventure 
+Racing 
+Point-and-click adventure 
+Sports game
+Traditional hockey 
+Action-adventure
+Rail shooter
+Stealth 
+Survival 
+Racing 
+Sports 
+Rail shooter
+Action-adventure
+First-person shooter
+Puzzle 
+Sim racing
+Action-adventure 
+Point-and-click adventure game
+Real-time strategy 
+Racing 
+Online 
+Fighting game
+God game
+Maze 
+Educational 
+Action role-playing
+Role-playing 
+Branded Entertainment / Branded entertainment 
+Puzzle 
+Collectible card game
+Role-playing 
+Platform 
+Real-time strategy
+Action role-playing 
+Party 
+First-person shooter
+Hack and slash
+Action 
+Adventure 
+Racing 
+Tactical shooter
+Fighting 
+Educational video game
+Role-playing 
+Adventure game
+Submarine simulator
+Platform 
+Tactical role-playing 
+Educational 
+Edutainment
+Sports video game
+Collectible card game
+Strategy 
+Action 
+Sports 
+Real-time tactics
+Platform 
+Action game
+Sports 
+Game creation system
+Party 
+Scrolling shooter
+First-person shooter
+2D action 
+Role-playing 
+Action 
+Hack and Slash
+Platform 
+Strategy 
+Fighting 
+Real-time strategy / Real-Time 
+Adventure 
+Massively multiplayer online 
+Role-playing 
+Racing 
+Platform 
+Fighting 
+Scrolling shooter
+Adventure 
+Racing 
+Turn-based strategy
+Fighting 
+Platform 
+Racing 
+Platform shooter 
+Sports 
+Hack-and-slash
+Real-time strategy
+Action-adventure 
+Visual novel
+Simulation
+Roguelike
+Puzzle 
+Adventure 
+Interactive fiction
+Rail shooter
+Third-person shooter
+Racing 
+Platform 
+Tactical role-playing 
+Platform game
+Role-playing 
+Role-playing 
+Educational 
+Sports 
+Role-playing game
+Action game
+Racing game
+Sports 
+Music 
+Party 
+Role-playing game
+Survival 
+First-person shooter
+First-person shooter
+Real-time strategy
+Run and gun 
+Racing 
+Action 
+First-person shooter
+Turn-based strategy
+Sandbox 
+Adventure 
+Adventure 
+Racing 
+Role-playing 
+Shoot \'em up
+Action-adventure 
+Maze 
+Shoot \'em up / Scrolling shooter 
+Action role-playing game
+Beat\'em up
+Sports 
+Platform 
+Racing 
+Shoot \'em up
+Music video game
+Sports 
+Adventure 
+Puzzle 
+Fighting 
+Adventure 
+Sports 
+Action 
+Action 
+Graphic adventure 
+Air combat simulation 
+Turn-based strategy 
+Puzzle game
+Action-adventure 
+Platform 
+Sports 
+Global warming game
+Third-person shooter
+Platform shooter 
+Sports 
+Tower defense
+Board game
+Adventure 
+First-person shooter
+Shoot \'em up
+Adventure 
+Adventure 
+Real-time strategy
+Platform game
+Pinball
+Horror 
+MMO 
+MMORPG
+Action-adventure 
+Metroidvania
+Scrolling shooter
+Party game
+Racing 
+Sports 
+Sports 
+Racing 
+Card game
+Racing 
+Platform 
+Dating sim
+Sports game
+Action-adventure 
+Platform 
+Maze 
+Sports 
+Sports 
+Adventure 
+Interactive movie
+Snowboarding 
+Sports video game
+Action role-playing 
+Racing 
+Interactive fiction
+Sports 
+Action 
+Adventure 
+Virtual reality
+Adventure 
+Platform 
+Action role-playing 
+Sports 
+Action 
+Strategy 
+Sports 
+Roguelike
+Scrolling shooter
+Computer wargame
+Adventure 
+Platform 
+Puzzle 
+Music 
+Sports 
+Maze 
+Maze 
+Role-playing 
+Tactical role-playing game
+Real-time strategy
+Action 
+First-person shooter
+Role-playing video game
+Racing 
+Fighting video game
+Simulation 
+Role-playing 
+First-person shooter
+Party 
+Grand strategy 
+Sports 
+First-person shooter
+Arcade 
+Role-playing 
+Platform 
+Roguelike
+Sports 
+Toys-to-life
+Racing 
+Sports 
+Role-playing 
+Sports 
+Sports game
+Action-adventure 
+2D shooter
+Puzzle-platform 
+Fixed shooter
+real-time strategy
+Racing 
+Action 
+Platform game
+Tactical RPG
+Sports 
+shoot \'em up#Multi-directional shooter / Multi-directional shooter 
+Educational 
+Action 
+Platform 
+Grand strategy 
+Scrolling shooter
+Space trading and combat simulator
+Fighting 
+Simulation 
+Action role-playing 
+Racing 
+Wargaming 
+Match 3
+Life simulation game
+Strategy 
+Sports 
+Air combat simulation 
+Tactical RPG
+Platform 
+Puzzle 
+Real-time strategy
+Action role-playing 
+Gambling
+Fixed shooter
+Sports 
+Adventure game
+Survival horror
+Action 
+Role-playing video game
+Computer wargame
+Racing 
+Sports 
+Point-and-click adventure 
+Action 
+Scrolling shooter
+Eroge
+Racing 
+Platform 
+2D action 
+Sports 
+Platform 
+Dating sim
+Puzzle 
+Platforming 
+Computer wargame
+Platform 
+Shoot \'em up
+Art tool 
+Action-adventure 
+Puzzle 
+Action role-playing 
+Sports 
+Action 
+Adventure 
+Role-playing video game
+Adventure 
+Third-person shooter
+Action-adventure 
+Interactive fiction
+Shooter 
+Turn-based strategy
+Point-and-click adventure 
+Action game
+Action 
+Shooter 
+Action 
+Adventure 
+Real-time strategy
+Shoot \'em up#Run and gun / Run and gun 
+Strategy 
+Fighting 
+Action 
+Historic action adventure 
+Visual Novel
+Action role-playing 
+Construction and management simulation
+Text adventure
+Turn-based strategy
+Educational 
+Survival horror
+Sandbox 
+Vehicle simulation game
+First-person shooter
+Platform 
+Beat \'em up
+Interactive movie
+Shoot \'em up / Third-person shooter 
+Educational 
+Sports 
+Adventure 
+Shoot \'em up#Horizontal scrolling shooters / Horizontally scrolling shooter 
+Tower defense
+Sports 
+Puzzle 
+Beat \'em up
+Role-playing 
+Tactical role-playing 
+tactical shooter / Tactical 
+Shoot \'em up
+Sports 
+Action role-playing game
+Racing 
+Action 
+Tank simulator 
+Adventure 
+Action RPG 
+MUSH
+First-person shooter
+Sports 
+Action 
+2D action 
+First-person shooter
+City-building 
+Strategy 
+Action-adventure 
+First-person shooter
+Vehicular combat 
+Graphic adventure
+Action 
+Real-time strategy
+Turn-based strategy / Turn-based 
+Sports 
+Puzzle 
+Sports 
+Sports game
+Real-time tactics
+Racing 
+First-person shooter
+Role-playing 
+Brawler
+Turn-based
+Racing 
+Point-and-click adventure 
+Action 
+Graphic adventure
+Simulation 
+Strategy 
+Sports 
+Racing 
+Business simulation 
+Action 
+Shoot \'em up
+Survival horror
+Rail shooter
+Action 
+Puzzle-platform 
+Turn-based strategy
+Turn-based strategy
+Racing 
+Sports 
+Point-and-click adventure game
+Educational 
+Point-and-click 
+Puzzle 
+Puzzle 
+Role-playing 
+Sports 
+Racing 
+Fantasy
+Visual novel
+Computer wargame
+Sports 
+Turn-based strategy
+Hack and slash
+Platform 
+Action-adventure 
+Sports 
+Action role-playing 
+Action RPG 
+Sports 
+Turn-based strategy
+Space trading and combat simulator
+Beat \'em up
+Real-time strategy
+Action-adventure 
+Party 
+Tactical shooter
+Strategy 
+Adventure game
+real-time strategy / RTS 
+Interactive fiction 
+Vehicle simulation 
+Fighting 
+Puzzle-platform
+First-person shooter
+
+Platform 
+Digital collectible card game
+Action 
+Adventure 
+First-person shooter
+Platform 
+Adventure 
+Shoot \'em up / Multi-directional shooter 
+Action-adventure 
+Shoot \'em up
+Racing 
+Action 
+Adventure 
+Hack and slash
+Adventure game
+Action-adventure 
+Third-person shooter
+Shoot \'em up#Run and gun / Run and gun 
+Quiz game
+Educational game
+Action role-playing 
+Racing 
+Business simulation game
+Role-playing video game
+Sports 
+Role-playing 
+Multiplayer online battle arena
+Interactive fiction
+Tactical shooter
+Adventure 
+Adventure 
+Fixed shooter
+Air combat simulation 
+Computer wargame
+Action-adventure 
+Multidirectional shooter
+Platform 
+Sports 
+Racing
+First-person shooter
+Platform 
+Shoot \'em up#Fixed shooters / Fixed shooter 
+Puzzle 
+Role-playing video game
+Adventure 
+Action-adventure game
+Shoot \'em up#Run and gun / Run and gun 
+Interactive fiction
+Action role-playing
+Arcade 
+Action role-playing 
+Action role-playing 
+Fighting 
+Strategy 
+Third-person shooter
+Third-person shooter
+Educational 
+Beat \'em up
+Shooter 
+Puzzle-platform 
+Action RPG 
+Plane racing 
+Music video game
+Action role-playing 
+Action 
+Puzzle 
+Puzzle-platform
+Business simulation 
+Role-playing 
+Shoot \'em up
+Action RPG / Action 
+Beat \'em up
+Action role-playing
+Role-playing video game
+Strategy 
+Tycoon game
+Interactive fiction
+Light gun shooter
+Platform 
+Turn-based strategy
+Air combat simulation 
+Sports 
+Shoot 'em up / Rail shooter 
+Sports 
+Educational video game
+First-person shooter
+Traditional soccer 
+Air combat simulation 
+Fantasy
+Sports 
+Air combat simulation 
+Graphic adventure 
+Third-person shooter
+Adventure 
+Platform 
+Racing 
+Digital collectible card game
+Action-adventure 
+Puzzle 
+Simulation 
+Interactive fiction
+Fighting 
+Computer wargame
+Grand strategy 
+Action 
+Battle royale 
+Endless running game
+Turn-based strategy
+Sports 
+Strategy 
+Racing game
+Action 
+Combat flight simulator
+Sports game
+Platform 
+Magic system
+Adventure 
+Sports 
+Shooter 
+First-person shooter
+Survival horror / Horror-Adventure 
+Action 
+Role-playing 
+Sports 
+Racing 
+Real-time strategy
+Turn-based tactics
+First person shooter
+Action 
+Adventure 
+Action-adventure 
+Role-playing video game
+Platform 
+Adventure 
+Nature sports 
+Dating sim
+First-person shooter
+Strategy 
+Battle royale 
+Science fiction comedy
+Turn-based strategy
+Space simulation
+Pinball#Computer_pinball_simulation / Pinball 
+Action 
+Shoot \'em up
+Sports 
+Adventure 
+Tactical role-playing game
+Drama
+Racing 
+Soccer
+Fighting 
+Adventure 
+Platform 
+Racing 
+Puzzle
+Party 
+Role-playing 
+Sports 
+Association football management 
+Role-playing 
+Puzzle 
+Action 
+Computer wargame
+Third-person shooter
+Interactive fiction
+Survival horror
+Combat flight simulator
+Vehicular combat 
+Shoot \'em up#Tube and rail shooters / Rail shooter 
+Shoot \'em up
+Space trading and combat simulator
+Turn-based strategy
+Business simulation game
+Interactive fiction
+Vehicular combat 
+Sports 
+Platformer 
+Platform 
+First-person shooter
+Raster graphics editor
+Platform 
+Sandbox 
+Sports 
+Role-playing 
+Platform game
+Music video game
+Action 
+Survival 
+Fighting game
+Adventure 
+Action-adventure 
+Adventure 
+Kart racing 
+Battle royale 
+Third-person shooter
+Puzzle 
+Sports video game
+Beat \'em up
+Board game
+Interactive fiction
+Racing 
+Action-adventure 
+Platform 
+Platformer 
+Action-adventure 
+Adventure 
+Graphic adventure 
+Racing 
+Action 
+Tactical role-playing game
+Adventure 
+Action role-playing 
+First-person shooter
+Action-adventure 
+Graphic adventure 
+Breakout clone
+Massively multiplayer online role-playing game
+Platform 
+Action 
+Action 
+Platform game
+Turn-based strategy
+Point-and-click adventure 
+Shoot \'em up / Shooting scroller 
+Platform 
+First-person shooter
+Platform game
+Adventure 
+Racing 
+Fighting game
+Action 
+Racing 
+Action-adventure 
+First-person shooter
+Role-playing video game
+Action 
+Computer wargame
+Real-time strategy
+Rail shooter
+Tank simulator 
+Shoot \'em up / Light gun shooter 
+Tactical role-playing 
+Maze 
+Top-down shooter 
+Real-time tactics
+Puzzle 
+Rogue-lite
+Music 
+Run-and-gun shooter
+Fighting 
+Multidirectional shooter
+Action-adventure 
+Strategy 
+Interactive fiction
+Racing 
+First-person shooter
+Action 
+Action-adventure 
+Strategy 
+Puzzle 
+Action-adventure 
+Action role-playing
+Puzzle 
+Action-adventure 
+Third-person shooter
+Puzzle 
+Stealth 
+First-person shooter
+Racing 
+Adventure 
+First-person shooter
+Platformer
+Strategy 
+Platform 
+Arcade adventure 
+Music 
+Puzzle 
+Virtual reality
+Action-adventure 
+Platform 
+Action-adventure 
+Action role-playing 
+First-person shooter
+Adventure 
+Roguelike
+Action-adventure 
+Role-playing 
+City-building 
+Music 
+Interactive fiction
+Adventure 
+Action-adventure
+Role-playing 
+Adventure game
+Action role-playing 
+Fighting 
+Racing 
+Racing 
+Turn-based strategy 
+Adventure 
+Beat 'em up
+Adventure 
+Multidirectional shooter
+Interactive fiction
+Racing 
+First-person 
+Combat flight simulator
+Sports 
+Action-adventure 
+Tactical role-playing 
+Fixed shooter
+Turn-based strategy
+Role-playing 
+Romance novel / Romance 
+Action role-playing 
+Sports (ice hockey) 
+Role-playing video game
+Action 
+Role-playing 
+Action role-playing 
+Puzzle 
+Action 
+Sports 
+Sports 
+Action 
+Strategy involving breeding/construction 
+Visual novel
+First-person shooter
+Ten pin bowling
+First-person shooter
+Fixed shooter
+Platform 
+
+Extreme sports
+Puzzle-platform 
+Top-down shooter
+Racing 
+Maze 
+Racing 
+Platform 
+Simulation 
+Survival horror
+Turn-based strategy
+Role-playing video game
+Word game
+Scrolling shooter
+Platform 
+Puzzle-platform 
+Action 
+Racing 
+Combat flight simulator
+Adventure game
+Shoot \'em up
+Stealth 
+Endless running 
+Platform 
+MMORPG
+Action role-playing 
+First-person shooter
+Adventure game
+MMORPG 
+Scrolling shooter
+Pinball
+Interactive fiction
+Action-adventure 
+Fishing
+First-person shooter
+Sports 
+Beat \'em up
+Music 
+Graphic adventure 
+Point-and-click adventure
+Party 
+First-person shooter
+Action-adventure 
+Strategy 
+Action-adventure 
+Real-time strategy
+Third-person shooter
+Third-person shooter
+Racing 
+Alternate reality game
+Role-playing 
+Beat \'em up
+Puzzle 
+Massively multiplayer online role-playing game
+Action-adventure 
+Social simulation 
+Real-time tactics
+Platform 
+Survival horror
+Shoot 'em up
+Action role-playing 
+Turn-based strategy
+Party 
+Puzzle 
+Action role-playing 
+Pinball 
+Puzzle 
+Single-player
+Puzzle game
+Role-playing video game
+Action role-playing 
+Real-time tactics
+Role-playing 
+Action-adventure 
+Puzzle 
+Real-time strategy
+Platformer 
+Puzzle 
+Adventure 
+Adventure 
+Sports 
+Tactical role-playing 
+Action-adventure 
+Action-adventure 
+Puzzle 
+Action-adventure 
+Role-playing 
+Sports 
+Role-playing 
+Multidirectional shooter
+Strategy 
+Beat \'em up
+Wargame
+Adventure game
+Action-adventure game
+Action game
+Fixed shooter
+Platform 
+Adventure 
+Racing 
+Sports 
+Platformer 
+Roguelike
+Music / Rhythm 
+Racing 
+Action role-playing
+Sports 
+Puzzle 
+Puzzle game
+Combat flight simulator
+Action-adventure 
+Action 
+Combat flight simulator 
+Adventure 
+Educational 
+Simulation 
+Action-adventure 
+Educational 
+Racing 
+First-person shooter
+Digital board game
+Platform 
+Sports game
+Sports game
+Role-playing 
+Racing 
+First-person shooter
+Role-playing 
+Role-playing 
+Action 
+Role-playing 
+Board Game
+Fighting 
+First-person shooter
+Real-time strategy
+First-person shooter
+Action 
+Graphic adventure 
+Racing 
+Puzzle 
+Role-playing 
+Sports
+Action 
+Maze 
+Role-playing 
+Battle royale 
+Scrolling shooters / Scrolling shooter 
+Business simulation game
+Action 
+Action 
+Racing 
+Puzzle 
+Role-playing 
+Sports simulation
+MMOFPS
+Scrolling shooter
+Racing 
+Educational 
+Adventure 
+Survival horror
+Action role-playing
+Endless runner
+Point-and-click adventure 
+Role-playing 
+Puzzle 
+Fighting 
+Sports 
+Action role-playing 
+First-person shooter
+Sports 
+Adventure 
+Third-person shooter
+Adventure 
+Beat \'em up
+Shoot \'em up#Scrolling shooters / Horizontal-scrolling shooter 
+Third-person shooter
+Racing 
+Sandbox 
+Platform 
+First-person shooter
+Snake 
+Action-adventure 
+Platformer 
+Action 
+Strategy 
+Action 
+Fighting 
+Action-adventure 
+Turn-based strategy
+Role-playing 
+Puzzle 
+Tactical role-playing game
+Adventure 
+Simulation 
+Maze 
+Party 
+Shoot \'em up#Scrolling shooters / Scrolling shooter 
+Strategy 
+Racing 
+Action role-playing 
+Sports 
+Sports 
+Action 
+Rhythm 
+Puzzle 
+Beat \'em up
+Visual novel
+Puzzle 
+Casual 
+Side-scroller 
+Turn-based strategy
+Shoot 'em up / Scrolling shooter 
+Maze 
+Snake 
+Real-time Strategy
+MMORPG 
+Combat flight simulator
+Sports 
+Action role-playing 
+Real-time tactics
+Action-adventure 
+Racing 
+Adventure game
+Platform 
+Turn-based strategy
+Sports
+Action RPG 
+Roguelike
+Computer wargame
+First-person shooter
+Beat \'em up
+First-person shooter
+First-person shooter
+Sports 
+Adventure 
+Action-adventure 
+Scrolling shooter
+Text adventure
+Platformer 
+Tactical role-playing 
+Platform 
+Karaoke 
+Life simulation 
+Eroge
+Third-person shooter
+Survival 
+Adventure 
+Puzzle 
+First-person shooter
+Traditional soccer 
+
+Simulation 
+Fixed shooter
+Shoot \'em up#Scrolling shooters / Scrolling shooter 
+Action 
+Stealth 
+Puzzle 
+Puzzle 
+Sports 
+Educational 
+Shoot \'em up
+Sports 
+Fantasy
+Sports 
+Turn-based strategy
+Survival horror
+Puzzle 
+Sports 
+Action 
+Combat flight simulator
+Dating sim
+Shoot 'em up
+Action role-playing 
+Adventure 
+Simulation 
+Action 
+Platform 
+Tactical role-playing game
+Horse racing / horse 
+Action-adventure 
+Action-adventure 
+Action 
+Action 
+Puzzle 
+Strategy 
+Sports 
+Educational 
+Platform 
+Arcade 
+Scrolling shooter
+Sports 
+First-person shooter
+Turn-based strategy
+First-person shooter
+Aerial combat 
+First-person shooter
+Point-and-click adventure
+Real-time strategy
+Platform 
+Puzzle 
+Interactive fiction
+Sports 
+Action 
+Action-adventure 
+Role-playing 
+Action 
+Massively multiplayer online real-time strategy game
+Platform 
+Real-time strategy
+Puzzle 
+Visual novel
+Interactive movie
+First-person shooter
+Racing 
+Adventure game
+Strategy 
+Graphic adventure 
+Platform 
+Role-playing 
+Action-adventure 
+Platform 
+
+Adventure 
+Sports 
+Fighting 
+Edutainment
+Action 
+Space combat 
+Life simulation 
+Racing 
+Scrolling shooter
+Space trading and combat simulator
+Strategy 
+Tactical RPG 
+Sports 
+Action-adventure 
+Action 
+Adventure 
+Action 
+Sports 
+Puzzle 
+Combat flight simulation 
+Graphic adventure 
+Puzzle 
+Action-adventure 
+Action 
+Platform 
+Fighting 
+sports 
+Construction and management simulation
+Real-time tactics / Real-time 
+Adventure 
+Fighting game
+Sports w/ third-person perspective 
+Action-adventure 
+Battle royale 
+Action-adventure 
+Puzzle 
+Non-game
+Platform 
+Cross-genre
+Puzzle 
+Adventure game
+Sports 
+Scrolling shooter
+Platform 
+Visual novel
+Adventure 
+Turn-based strategy
+Puzzle 
+Arcade 
+Action-adventure 
+Sports 
+Sandbox 
+Action-adventure 
+Scrolling shooter
+Racing 
+Platform 
+Survival 
+Tactical shooter
+Shoot 'em up
+Simulation 
+Pinball
+First-person shooter
+Real-time strategy
+Real-time strategy
+Role-playing 
+Computer chess / Chess 
+Party 
+Role-playing 
+Strategy 
+Adventure 
+Racing 
+Beat \'em up
+Sports 
+Platform 
+Tactical role-playing 
+Shoot \'em up
+Multidirectional shooter
+Racing 
+Combat flight simulation 
+Beat \'em up
+First-person shooter
+Simulation 
+Adventure 
+Platform 
+Graphic adventure 
+Role-playing video game
+Action (fiction) / Action 
+Platformer 
+RPG 
+Adventure 
+Action 
+Massively multiplayer online 
+Action 
+Visual novel
+Multidirectional shooter
+
+Scrolling shooter
+Action 
+First-person shooter
+Combat flight simulator
+Fighting 
+Board game
+Action 
+Sports 
+Sports 
+Roguelike
+Computer wargame
+First-person shooter
+Platform 
+Scrolling shooter / Horizontally scrolling shooter 
+Action role-playing 
+Action 
+Action 
+Action 
+Sports video game
+Sports 
+Platform 
+Action 
+Action 
+Sports 
+Action-adventure 
+Sports game
+Puzzle-platform 
+Puzzle-platform 
+Racing 
+Platform 
+Educational
+MMORPG
+Massive multiplayer online roleplaying game
+Action game
+Real-time strategy
+Raising simulation 
+First-person shooter
+Brawler
+Fighting game
+Action role-playing 
+Action-adventure 
+Party 
+Fighting 
+Puzzle
+Shoot \'em up
+Action-adventure 
+Traditional soccer/football 
+Roguelike
+Adventure 
+Turn-based strategy
+Sports 
+Action 
+Survival horror
+Action 
+Platformer 
+Action 
+Adventure 
+Platform 
+Shoot \'em up
+Amateur flight simulation / Flight simulator 
+Massively multiplayer online role-playing game
+Stealth 
+Action role-playing 
+Action role-playing game
+Puzzle 
+Racing 
+Puzzle game
+Action-adventure 
+Sports 
+Arcade racing
+Platform 
+Amateur flight simulation / Flight simulator 
+Graphic adventure 
+Platform 
+Third-person shooter
+Action-adventure 
+Shoot \'em up
+Adventure 
+Role-playing 
+Looter shooter
+Shoot \'em up#Run and gun / Run and gun 
+Real-time tactics
+First-person shooter
+Tactical role-playing 
+Beat \'em up
+First-person shooter
+Puzzle 
+MMORPG
+Sports 
+Puzzle 
+Racing 
+Beat \'em up
+Action role-playing 
+Turn-based strategy
+Action-adventure
+Action adventure 
+Action 
+Massively multiplayer online role-playing game
+Role-playing video game
+Strategy 
+
+Beat \'em up
+Turn-based tactics
+Platform 
+Strategy 
+
+Platform 
+Sports 
+Action 
+Sports 
+Platform 
+Platform 
+Point-and-click 
+Sports 
+Role-playing 
+Adventure game
+Maze 
+First-person shooter
+Sports - Ice Hockey Sim 
+Air combat simulation 
+Platform 
+Arcade 
+MMOFPS
+Point-and-click adventure 
+Role-playing video game
+Survival horror
+Party 
+Educational 
+Puzzle game
+Arcade style racing 
+Hack and slash
+Turn-based strategy
+Interactive fiction
+Role-playing video game
+Action 
+Action-adventure game
+Point-and-click adventure
+Hack and slash
+Pet care simulation
+Vehicle simulation 
+Sports 
+Action-adventure 
+Fixed shooter
+Beat \'em up
+Action 
+Fixed shooter
+Action-adventure 
+Point-and-click adventure
+Adventure 
+Puzzle 
+Dungeon crawl 
+Role-playing 
+Platform 
+Action 
+Fighting 
+Music video game
+Japanese idol / Idol 
+Fishing 
+Combat flight simulator
+Vehicular combat 
+Driving 
+Puzzle 
+Action 
+Graphic adventure game
+Space trading and combat simulator
+Sports 
+Real-time strategy
+Rhythm 
+Action role-playing 
+Arcade Game 
+Beat \'em up
+Real-time strategy
+Platform 
+Air combat simulation 
+Fixed shooter
+Party 
+Action-adventure 
+Role-playing video game
+Adventure 
+Submarine simulator
+Survival horror
+Turn-based strategy
+Survival horror
+Puzzle-platform
+Action-adventure 
+Puzzle 
+Casino 
+First-person shooter
+Scrolling shooter
+Third-person shooter
+First-person shooter
+Survival horror
+Action game
+Action-adventure 
+Action-adventure 
+Social simulation game
+Action 
+Action role-playing 
+Action-adventure 
+Construction and management simulation
+Platform 
+Sports video game
+Puzzle 
+Racing 
+Roguelike
+Platformer 
+Role-playing 
+Platform 
+Action-adventure 
+Racing
+Adventure 
+Action-adventure 
+2D action 
+Action-adventure 
+Real-time strategy
+Sports
+Strategy 
+Compilation 
+Action 
+Beat \'em up
+Platform 
+Strategy 
+Adventure 
+Platform 
+Action-adventure 
+Turn-based strategy
+Action-adventure
+Arcade-style racing 
+Post-apocalyptic
+Real-time strategy 
+Action 
+Visual Novel
+Role-playing 
+Adventure 
+Fantasy
+Adventure game
+Beat \'em up
+Level editor
+Racing 
+Adventure 
+Action-adventure 
+Fantasy role-playing
+Adventure 
+Real-time tactics
+Fighting 
+Platformer 
+First-person shooter
+Visual novel
+Adventure 
+Action-adventure 
+Action game
+Racing 
+Collectible card game
+Air combat simulation 
+Light gun shooter
+Grand strategy 
+Beat 'em up
+Action 
+Fixed shooter
+Shooter 
+MMORPG
+Space flight simulator
+Casual 
+Computer wargame
+Action role-playing 
+Interactive fiction
+Metroidvania
+Sports 
+Puzzle
+Visual novel
+Racing 
+Action-adventure 
+Scrolling shooter
+Sports 
+Role-playing 
+Hack and slash
+Sports 
+Puzzle 
+Survival horror
+First-person shooter
+Shoot 'em up#Run and gun / Run and gun 
+Turn-based strategy
+Arcade-style 
+Sports 
+Action 
+Beat \'em up
+Action-adventure 
+Racing 
+Racing 
+Strategy 
+Puzzle 
+Platform 
+Music 
+Sports 
+Music 
+Maze 
+First-person shooter
+First-person shooter
+4X
+Platform 
+Mahjong solitaire
+Shoot \'em up#Types / Run and Gun 
+Puzzle-platformer 
+Fighting 
+Tactical shooter
+Action 
+Role-playing 
+Fighting 
+Action role-playing game
+Puzzle 
+Massively multiplayer online role-playing game
+Stealth 
+Vehicle simulation 
+Role-playing 
+
+Beat \'em up
+Role-playing 
+Strategy 
+Arcade Game
+Music 
+Artillery 
+Tactical role-playing 
+Action 
+Action role-playing 
+Role playing 
+Escape the room
+Survival horror
+Platform 
+Action 
+Role-playing video game
+Puzzle-platform 
+Beat \'em up
+Action-adventure 
+Role-playing 
+Role-playing 
+Sports 
+Combat flight simulator 
+Simulation 
+Flight simulator
+Beat \'em up
+Scrolling shooter
+Computer wargame
+Multiplayer online battle arena / MOBA 
+Action role-playing
+Casual 
+Sports 
+Party 
+First-person shooter
+First-person shooter
+2D action 
+Platform-adventure
+Pinball
+Role-playing 
+Simulation 
+Real-time strategy
+First-person shooter
+First-person shooter
+Sim racing
+Adventure 
+MMORPG 
+Adventure game
+Strategy 
+Racing 
+Maze 
+Role-playing 
+Tower defense
+Adventure 
+Puzzle 
+Action-adventure 
+Space flight simulator
+Action-adventure 
+Action RPG
+Action-adventure 
+Puzzle 
+Racing 
+Adventure 
+Action 
+Real-time strategy
+Platformer 
+Beat \'em up
+MMORPG 
+First-person shooter
+Fighting 
+Simulation 
+Adventure 
+Platform game
+Action video game
+Sports 
+Adventure 
+Adventure 
+Combat flight simulation 
+Snowboarding 
+Action-adventure 
+Tactical role-playing game
+Business simulation game
+Rhythm game
+Traditional football 
+Role-playing 
+Action role-playing
+Action 
+Role-playing 
+Racing 
+First-person adventure 
+Action-adventure 
+Music video game
+Action-adventure 
+Strategy 
+Platform 
+Platformer 
+Real-time strategy
+Adventure 
+Action 
+Role-playing 
+Air combat simulation 
+Life simulation
+Real-time tactics
+Action-adventure game
+Third-person shooter
+Interactive fiction
+Action Adventure 
+Racing 
+Puzzle 
+Scrolling shooter
+Turn-based tactics
+Strategy 
+Massively multiplayer online role-playing game
+2D Versus fighting 
+Adventure 
+Racing 
+Puzzle 
+Real-time strategy
+Platform 
+Sports 
+Racing 
+Action 
+Graphic adventure 
+Platform 
+Platform 
+Multidirectional shooter
+Action-adventure 
+Fixed shooter
+Racing 
+Rhythm 
+Fighting 
+Survival horror
+Real-time strategy
+Adventure 
+Action-adventure 
+Role-playing video game
+Racing 
+Platform 
+Racing 
+First-person shooter
+Tactical role-playing 
+Role-playing 
+Sports 
+Massively multiplayer online role-playing 
+Puzzle 
+Action-adventure 
+Vehicle simulation game
+Maze 
+Edutainment / Educational entertainment 
+Action 
+MMORPG
+Sports 
+Turn-based strategy
+Point-and-click adventure 
+Online 
+Platform 
+Role-playing 
+Art game
+First-person shooter
+Real-time strategy
+City-building game
+First-person shooter
+Role-playing 
+Real time strategy
+Racing 
+Action-adventure
+Action 
+Shooting gallery 
+MMORPG 
+Adventure 
+Platform game
+Vehicle simulation game
+Multiplayer
+Multidirectional shooter
+Arcade racing
+2D action 
+First-person shooter
+Hack and slash
+Platform 
+Strategy 
+Sports
+Adventure 
+Puzzle 
+Fighting 
+Shoot \'em_up#Run and gun / Run and gun 
+Snowboarding 
+Political simulation 
+Platform 
+Action 
+Business simulation game
+Sports video game
+Turn-based strategy
+RPG 
+Adventure 
+Fighting 
+Strategy game
+Space combat simulator
+Roguelike
+Action-adventure 
+Action role playing 
+Chess
+Strategy 
+Beat \'em up
+Action role-playing
+City-building game
+Adventure game
+Action-adventure 
+Action 
+Scrolling shooter
+Combat flight simulator
+Light gun shooter
+Real-time strategy
+Top-down shooter
+Sports 
+Racing 
+Fighting 
+Multidirectional shooter
+Simulation 
+Action role-playing 
+Simulation 
+Life simulation 
+Racing 
+Action-adventure 
+Action-adventure 
+Adventure 
+Rail shooter
+Fighting 
+Action role-playing 
+Scrolling shooter
+Fighting 
+Massively multiplayer online role-playing game
+Turn-based strategy
+Party 
+Puzzle 
+Racing 
+Action-adventure 
+First-person shooter
+Interactive fiction
+Sports 
+Side-scrolling
+Puzzle 
+Traditional ice hockey 
+4X
+Sports 
+Racing 
+Beat \'em up
+Racing 
+Online text-based role-playing game
+Role-playing 
+MMOG 
+Racing 
+Hack and slash / Hack-and-slash 
+Adventure 
+Sports 
+Sports 
+Simulation 
+Sim horse game
+Puzzle 
+Traditional soccer 
+Adventure 
+Music 
+Role-playing game
+Platform 
+Strategy 
+Shoot \'em up#Scrolling shooters / Vertically scrolling shooter 
+Puzzle
+Action 
+Action 
+Third-person shooter
+Educational 
+Role-playing 
+Turn-based strategy
+Sports 
+Sports 
+Sports game
+Shoot \'em up
+Action role-playing 
+Side-scrolling 
+Scrolling shooter
+Role-playing video game
+Programming 
+Interactive fiction
+Role-playing 
+Action 
+Run and gun 
+Adventure 
+Sports 
+Puzzle 
+Platforming 
+Adventure 
+Business simulation game
+Adventure 
+Racing 
+Action 
+Action-adventure 
+Horror 
+Platform 
+Sports game
+Rhythm action
+Grand strategy 
+Action 
+Fixed shooter
+Social simulation 
+Sports
+Platform 
+Turn-based strategy
+Trivia 
+Shoot \'em up#Types / Rail shooter 
+Turn-based tactics
+Tactical role-playing 
+Sports 
+Beat \'em up
+Action-adventure 
+ARPG 
+Computer wargame
+Stealth 
+Interactive movie
+Low fantasy
+Action role-playing 
+Indie 
+Fighting 
+MMORPG
+Fighting 
+Platform 
+Sports
+Turn-based strategy
+Shoot \'em up
+Role-playing 
+Turn-based strategy
+Real-time strategy
+Side-scroller 
+Adventure 
+Digital collectible card game
+Adventure 
+Adventure 
+Multidirectional shooter
+Action 
+Platform 
+Fighting 
+Grand strategy 
+Grand strategy 
+Visual novel
+Action-adventure 
+Strategy 
+Sports game
+Music 
+Platform 
+Side-scrolling shooter
+Horror 
+Educational 
+Adventure 
+Arcade motorcycle racing 
+Adventure 
+Hack and slash
+Turn-based strategy
+Graphic adventure 
+Action 
+Harem (genre) / Harem 
+Rail shooter
+Sports 
+Simulation 
+Racing 
+Music 
+Shoot \'em up
+Adventure 
+Maze 
+Puzzle 
+Graphic adventure game
+Racing 
+Third-person shooter
+Action role-playing 
+Physics-based 
+Single-player 
+Shooter 
+MMORPG 
+Run and gun 
+Digital collectible card game
+Board game
+Turn-based strategy
+Racing 
+Role-playing 
+Action role-playing 
+Puzzle 
+Shoot 'em up#Run and gun / Run and gun 
+Rhythm 
+Real-time strategy / Real-time 
+Sports
+MMORPG 
+Shoot \'em up / Action 
+Real-Time Strategy
+Real-time strategy
+Sports 
+Massively multiplayer online role-playing 
+Point-and-click adventure
+Action 
+Sports 
+Space simulator
+2D action 
+Visual novel
+Platforming 
+Racing 
+Parkour
+Beat \'em up
+Shoot 'em up
+Role-playing video game
+Action-adventure 
+Racing 
+Multidirectional shooter
+Casino 
+shoot\'em-up
+Tower defense
+Action-adventure 
+Multidirectional shooter
+Non-fungible token / NFT 
+First-person shooter
+Action 
+Racing 
+Run-and-gun shooter
+Action Game / Action 
+Platform 
+Adventure 
+Falling block puzzle 
+Role-playing 
+Role-playing 
+Side-scrolling shooter
+Third-person shooter
+Adventure game
+Real-time strategy
+Shooter 
+Strategy 
+Fighting 
+Space trading and combat simulator 
+Fighting 
+Formula One
+Shooter 
+Platform 
+Sim racing
+Cinematic platformer 
+Sports 
+First-person shooter
+Sports 
+Multidirectional shooter
+Racing 
+Maze 
+First-person shooter
+Fantasy
+Survival horror
+Sports 
+Real-time strategy
+Casual 
+Adventure 
+Racing 
+Air combat simulation 
+Third-person shooter
+Puzzle 
+Platform 
+Shoot \'em up#Run and gun / Run and gun 
+Fighting game
+Racing 
+Tower defense
+Platform-adventure
+Gambling
+Fighting 
+Platform 
+Turn-based tactics
+Battle royale 
+Fixed shooter
+Sports 
+Puzzle game
+Adventure 
+Racing 
+Racing 
+Multi-directional shooter
+Graphic adventure 
+Action 
+Shoot \'em up#Multidirectional shooter / Multidirectional shooter, Third Person Shooter 
+Puzzle 
+Turn-based strategy
+Kart racing 
+Sports 
+Maze 
+Role-playing video game
+First-person shooter
+Strategy 
+Adventure 
+Fighting 
+Scrolling shooter
+Sports 
+Fixed shooter
+Action 
+Card game
+Strategy 
+Visual novel
+Racing 
+MMORPG
+2D Versus Fighting 
+Adventure game
+Racing game
+Graphic adventure 
+Multiplayer online battle arena
+Survival horror
+Action 
+Platform 
+Sports 
+Platform 
+First-person adventure 
+Construction and management simulation / Farm simulation 
+Puzzle game
+Racing 
+First-person shooter
+Platform 
+Platform 
+Interactive fiction
+Sports 
+Life simulation 
+MMORPG
+Action-adventure 
+Platform 
+Racing
+Shoot\'em up / Vertical-scrolling shooter 
+Role-playing 
+Adventure 
+
+Action-adventure 
+Party 
+Racing 
+Puzzle 
+Role-playing 
+Sim racing
+Party 
+Action 
+Platform 
+Augmented reality
+Action role-playing 
+Sports 
+Platform 
+Pinball 
+Action 
+Sports
+Action-adventure 
+Turn-based tactics
+Rail shooter
+Adventure 
+Puzzle 
+Tactical role-playing 
+Adventure 
+Point-and-click adventure
+Scrolling shooter
+Action role-playing 
+Sports 
+Space flight simulator
+Traditional soccer 
+Third-person shooter
+First-person shooter / First-person 
+Shoot \'em up / Top-down shooter 
+Action role-playing 
+Puzzle-platform 
+Augmented reality
+Platforming 
+Racing 
+Snowboarding 
+Text adventure
+Tower defense
+Turn-based strategy
+Party 
+Party 
+Survival horror
+
+Action-adventure 
+Sim racing / Racing simulation 
+Text Adventure
+Action-adventure 
+Metroidvania
+Racing 
+Sports 
+Platformer 
+role-playing video game
+Adventure game
+Adventure 
+Platformer
+Action-adventure 
+Platform 
+Real-time strategy
+Shooter 
+Interactive novel
+Platform 
+Action-adventure 
+Action-adventure 
+Sports 
+Platform 
+Racing 
+Action 
+First-person shooter
+Third-person shooter
+Third-person shooter
+Racing 
+Action-adventure 
+Action 
+Action role-playing
+Shoot \'em up#Run and gun / Run and gun 
+Action-adventure
+Arcade genre / Arcade 
+Action 
+Real-time strategy
+Platform 
+Role-playing 
+Platform game
+Graphic adventure 
+Role-playing video game
+Educational
+Action 
+Real-time strategy
+Fighting 
+Turn-based strategy
+Multiplayer 
+Multidirectional shooter
+Puzzle 
+Role-playing 
+Action role-playing 
+Action role-playing 
+Action 
+Puzzle 
+Action RPG 
+Action role-playing 
+Role-playing video game
+Action 
+Educational
+Puzzle
+Real-time tactics
+Construction and management simulation / Simulation 
+Puzzle-platform 
+Action 
+Racing 
+Combat flight simulator 
+Point-and-click adventure
+Visual novel
+Edutainment
+Educational
+Action adventure 
+Third-person shooter
+Action 
+Platform 
+Action 
+Strategy 
+Rhythm game
+Action-adventure 
+Adventure 
+Puzzle 
+Action 
+First-person shooter
+Arcade 
+Sports
+Racing 
+Survival horror
+Traditional soccer 
+Role-playing 
+Fighting 
+Pinball
+Platformer 
+Role-playing 
+Sports game
+Sports 
+Role-playing game
+Tactical role-playing 
+Action-adventure game
+Action 
+Adventure 
+Point-and-click adventure 
+Action 
+Role-playing 
+Rhythm game
+Hack and slash
+Action 
+Sports 
+Combat flight simulator 
+Platform 
+Strategy
+Action-adventure 
+Shoot 'em up
+Role-playing 
+Action 
+Shoot 'em up#Scrolling shooters / Scrolling shooter 
+Puzzle 
+Maze 
+
+Shoot 'em up
+Tennis
+Party 
+Action role-playing 
+Action-adventure 
+Action role-playing 
+Sports 
+Platform 
+Action 
+Text adventure
+Platform 
+Adventure game
+MMO 
+Role-playing 
+Platform 
+Sports 
+Snowboarding 
+Action-adventure
+Sports 
+First-person shooter
+First-person shooter
+Shoot \'em up
+Survival 
+Adventure 
+Racing 
+Puzzle-platform 
+Scrolling shooter
+Adventure game
+2D Versus fighting 
+Indie 
+Action role-playing
+Puzzle
+Maze 
+Tactical role-playing game
+Fighting 
+Action-adventure 
+Racing 
+Puzzle 
+Role-playing 
+Sports 
+Tactical shooter
+Educational 
+Sports 
+Third-person shooter
+Action 
+Beat \'em up
+Platform 
+Adventure 
+Real-time strategy
+Action role-playing 
+Adventure 
+Maze 
+Action 
+Slot Machine Game / Slot Machine 
+Construction and management simulation 
+First-person shooter
+Mech simulation
+Fighting game
+Simulation
+Beat \'em up
+Action-adventure 
+Puzzle 
+Combat flight simulation 
+4X
+Sports 
+
+Sports 
+Action-adventure 
+Sports 
+Minigames
+Fighting 
+Shoot \'em up
+Action role-playing 
+Sports 
+Edutainment / Educational 
+MMORPG
+Platform 
+Action-adventure 
+Sci-fi mech simulation 
+Action 
+Sports 
+Massively multiplayer online 
+Racing 
+Sports 
+Action 
+Space trading and combat game
+Run and gun 
+
+Platform 
+First-person shooter
+Vehicular combat 
+Racing 
+Action 
+Racing 
+Metroidvania
+Action 
+First-person shooter
+Simulation 
+Scrolling shooter
+Adventure 
+Climbing 
+Puzzle 
+Adventure 
+Adventure 
+Platform 
+Action-adventure 
+Racing 
+Roguelike
+Adventure 
+Formula One
+Platform 
+Action game
+Tactical RPG 
+Action 
+Maze 
+Roguelike
+Real-time strategy
+4X 
+Puzzle 
+Shoot \'em up#Run and gun / Run and gun 
+Action-adventure
+Action role-playing
+Traditional basketball 
+Tactical role-playing 
+Graphic adventure game
+Adventure 
+Racing 
+Real-time strategy
+Sim racing
+Platform 
+Pinball
+Sports 
+First-person shooter
+Simulation 
+Adventure 
+Action role-playing 
+Platform 
+Hack and slash
+Golf
+Action 
+Sports video game
+Fixed shooter
+Sports 
+Dating sim
+First-person shooter
+Racing 
+Fighting game
+Action-adventure 
+Platform game
+Word puzzle 
+Role-playing Game 
+Action-role-playing 
+Arcade 
+Action 
+First-person shooter
+Snowboarding 
+Puzzle-platform 
+Tactical shooter
+Puzzle 
+Action role-playing game
+First-person shooter
+Sports 
+Adventure 
+Music video game
+Adventure 
+Tactical shooter
+Construction and management simulation
+Sports 
+Sim racing / Racing simulation 
+Action 
+Combat flight simulator
+Driving 
+Role-playing 
+Survival horror 
+Action role-playing 
+Global warming game
+Racing 
+Role-playing video game
+Beat \'em up
+Visual novel
+Role-playing 
+Sandbox 
+Fantasy
+Breakout clone
+Space combat simulator
+Action-adventure 
+Adventure 
+Beat \'em up
+Simulator
+Real-time tactics
+Puzzle 
+Beat 'em up
+Visual novel
+Real-time tactics
+Fishing
+Scrolling shooter
+Arcade adventure
+Arcade adventure
+Music sequencer
+Formula One
+Adventure 
+Action-adventure 
+Adventure 
+First-person shooter
+Action-adventure 
+Survival horror
+Action 
+Visual novel
+Action-adventure
+Roguelike
+Third-person shooter
+Platform game
+Platform 
+Vehicular combat 
+Sports 
+Turn-based strategy 
+Role-playing 
+Action-adventure game
+Fighting game
+First-person shooter
+Music 
+Action-adventure 
+Adventure 
+Action 
+Platform 
+Action 
+Platform 
+Action 
+Strategy 
+Real-time strategy
+Tactical RPG / Tactical role-playing 
+Sim racing
+Shooting gallery 
+Fighting 
+Puzzle game
+Adventure 
+Party 
+Puzzle 
+Point-and-click adventure 
+Sports 
+Platform 
+Traditional tennis 
+Sports 
+Fantasy
+First-person shooter
+Action 
+Dungeon crawler
+Platform 
+Dating sim
+Role-playing 
+Maze 
+Graphic adventure 
+Party 
+Platform 
+Fighting 
+Shoot \'em up#Scrolling shooters / Scrolling shooter 
+Adventure 
+Massively multiplayer online role-playing game
+Role-playing 
+Roguelike
+Action 
+Scrolling shooter
+Puzzle 
+Platform game
+Role-playing video game
+Simulation 
+Platform 
+Action-adventure 
+Roguelike
+Visual Novel
+Sports 
+Fighting 
+Racing 
+Multicart
+Real-time strategy
+Racing 
+Racing game
+Platform 
+Fantasy
+Platform 
+Point-and-click adventure
+Platform game
+Puzzle 
+Real-time strategy
+Role-playing 
+Action puzzle 
+Educational 
+Racing 
+Interactive fiction
+Stealth 
+Sports 
+Arcade puzzle 
+2D action 
+Fishing 
+Platformer 
+Versus fighting 
+First-person shooter
+Sports 
+City-building 
+Shoot \'em up#Run and gun / Run and gun 
+Role-playing video game
+Action 
+Simulation 
+Racing
+Shoot \'em up#Run and gun / Run and gun 
+First-person shooter
+Interactive fiction
+Platformer
+First-person adventure 
+Sports game
+Shoot \'em up
+Shoot \'em up
+Educational 
+Action-adventure 
+Platform 
+Racing simulation
+Sports 
+Action-adventure 
+Point-and-click adventure 
+Third-person shooter
+Sim racing / Racing simulation 
+Fighting 
+Action-adventure 
+Virtual camera system / Third-person 
+Action-adventure 
+First-person shooter
+Fighting game
+Action 
+Role-playing 
+Sports
+Adventure 
+Action-adventure 
+Puzzle 
+Endless runner
+Digital pet
+Party 
+Sports 
+Word 
+Puzzle 
+Racing 
+Action role-playing 
+Scrolling shooter / Horizontally scrolling shooter 
+Action 
+Action 
+Action 
+Adventure game
+Edutainment
+Massively multiplayer online role-playing game
+Dancing 
+Platform 
+Sports 
+First-person shooter
+Puzzle 
+Racing 
+Platform 
+Maze 
+Board game
+Sports 
+Action-adventure 
+Platform game
+Adventure 
+First-person shooter
+Real-time strategy
+Fixed shooter
+Rail shooter
+Sports 
+Beat \'em up
+Platformer 
+Life simulation game
+Music 
+Action-adventure 
+Platformer 
+Massively multiplayer online first-person shooter
+Action-adventure 
+Fixed shooter
+Strategy 
+Beat \'em up
+Adventure 
+Third-person shooter
+Air combat simulators 
+Roguelike
+Platform 
+Role-playing 
+Action-adventure 
+Scrolling shooter
+Strategy 
+Platform 
+Puzzle 
+Adventure 
+Strategy
+Action 
+real-time strategy / RTS 
+Shooter game
+Brawler
+Turn-based strategy / Turn based 
+Platform 
+Vehicular combat 
+Scrolling shooter
+Racing 
+Third-person shooter
+Sports 
+Turn-based tactics
+Simulation 
+Mind sport
+Maze 
+Flight simulator
+Action 
+Platform 
+Action 
+First-person shooter
+Racing 
+Music video game
+Rhythm
+Sports 
+Sports video game
+2D action 
+Sports 
+Multi-directional shooter
+Puzzle 
+Hack and slash
+Turn-based strategy
+
+Action role-playing 
+Platform 
+Strategy 
+Puzzle 
+Action 
+Interactive fiction
+Arcade adventure
+Action game
+Action role-playing
+Third-person shooter
+Maze 
+Interactive movie
+Action role-playing 
+Action 
+Action-adventure 
+Party 
+Third-person shooter
+Simulation video game
+Fighting 
+Artillery game
+Action role-playing 
+Role-playing 
+Platform 
+Adventure game
+Fixed shooter
+Platform 
+Adventure 
+Action 
+Adventure 
+Action 
+Action 
+Puzzle 
+Combat flight simulator
+Action 
+Action 
+Sports 
+Platform 
+Business simulation game
+
+Multidirectional shooter
+Beat \'em up
+Run and gun 
+Vehicular combat
+Action-adventure 
+Shoot \'em up
+Strategy 
+Action 
+Quiz
+Racing 
+Sports 
+Racing 
+Turn-Based Role Playing Game / Turn-based role-playing 
+Puzzle 
+Shoot_\'em_up#Rail_shooters / Rail shooter 
+Fighting 
+
+Sports 
+Action 
+Rhythm 
+Role-playing 
+Interactive fiction
+Role-playing 
+Sports 
+Adventure 
+Action-adventure 
+Action 
+Adventure 
+Platform 
+Role-playing video game
+MMORPG
+Sports 
+Sports 
+Role-playing 
+Life simulation 
+First-person shooter
+First-person shooter
+Interactive movie
+First-person shooter
+Educational 
+Business simulation
+Driving involving vehicular combat 
+Interactive fiction
+Art game
+Platformer 
+Action-adventure 
+Dark comedy
+Racing 
+Strategy game
+Real-time tactics / Real-time 
+Third-person shooter
+Fighting 
+Beat \'em up
+Government simulation game
+Fighting 
+Survival horror
+Scrolling beat \'em up
+Light gun shooter
+Hack and slash
+Shooter 
+Real-time strategy
+Racing 
+Tactical role-playing 
+Action role-playing
+Racing 
+Simulation game
+Simulation 
+Rhythm 
+Role-playing 
+Adventure 
+Turn-based strategy
+RPG 
+Puzzle 
+Role-playing 
+Real-time strategy
+Tower defense
+Music 
+Combat flight simulator
+Scrolling shooter
+Racing 
+Action 
+Puzzle 
+Real-time strategy
+Platform 
+Action-adventure 
+Turn-based strategy
+Real-time strategy
+Scrolling shooter
+City-building 
+Role-playing 
+Adventure 
+Shoot \'em up#Run and gun / Run and gun 
+Sports 
+Scrolling shooter
+Adventure 
+Educational 
+Platform 
+Racing 
+Graphic adventure 
+Trivia
+Fighting 
+Cinematic platformer 
+Shoot 'em up
+Tactical role-playing 
+Shooter 
+Visual novel
+Turn-based strategy
+Action 
+Edutainment
+Sports 
+Massively multiplayer online role-playing game
+Space trading and combat 
+Action role-playing 
+Action role-playing 
+Puzzle 
+Role-playing video game
+Puzzle game
+Third-person shooter
+Platform game
+Role-playing video game
+Fighting 
+Scrolling shooter
+First-person shooter
+Action role-playing 
+First-person shooter
+Vehicular combat 
+
+Adventure 
+First-person shooter
+Turn-based tactics
+Tycoon 
+Match 3
+
+Adventure 
+Educational 
+First-person shooter
+Racing 
+Sports 
+Combat flight simulator
+Space combat simulator 
+Party 
+Racing 
+Interactive fiction / Text adventure 
+Rhythm 
+Action 
+Social network game
+Sports 
+Action-adventure 
+Racing 
+Tactical role-playing 
+Racing 
+First-person (gaming) / First-person 
+Strategy 
+Role-playing video game
+Indie 
+Roguelike
+Puzzle-platform 
+Role-playing 
+Platform 
+Action 
+Sports 
+Action 
+Action 
+Action 
+Action role-playing 
+Platformer 
+Platform 
+Action role-playing
+Action role-playing 
+Racing 
+Train simulator / Train 
+Role-playing 
+Racing 
+Action 
+Interactive fiction
+Real-time strategy
+Beat \'em up
+Real-time strategy
+Board game
+First-person shooter
+Survival horror / Horror 
+Fighting game
+Strategy
+Text adventure 
+Music 
+Arena
+First-person shooter
+Traditional soccer 
+Puzzle 
+Shooter 
+Party 
+Breakout clone / Breakout 
+Platform 
+Visual novel
+Combat flight simulator
+Role-playing 
+Educational video game
+Real-time strategy
+Puzzle 
+Sports 
+Action 
+shoot \'em up#Rail shooters / Rail shooter 
+Adventure 
+Role-playing 
+Construction and management simulation
+Stealth 
+Fighting 
+Action-adventure 
+Parody
+Point and click adventure
+Sports 
+Puzzle 
+Puzzle-platform 
+Role-playing 
+Visual novel
+Racing 
+Platformer 
+Beat \'em up
+Adventure 
+Action 
+Racing 
+Simulation
+Action role-playing 
+First-person shooter
+Role-playing 
+Third-person shooter
+Adventure 
+First-person shooter
+Beat \'em up
+Platform 
+Puzzle 
+Sports 
+Action role-playing 
+Shoot 'em up
+Maze 
+Simulation 
+Fighting 
+Turn-based historic strategy 
+Interactive fiction
+Real time strategy
+Scrolling shooter
+Sports 
+Sports 
+Action-adventure 
+Business simulation game
+Snowboarding 
+Flight simulator
+Rhythm 
+Platform 
+Word game
+Real-time strategy
+Sports 
+Racing 
+Action 
+Strategy 
+Amateur flight simulation
+Role-playing 
+Racing 
+Action 
+Action-adventure 
+First-person shooter
+Adventure 
+Social simulation game
+Sports 
+Sports 
+Visual novel#Nakige / Nakige 
+Rail shooter
+Sports 
+Tactical role-playing game
+Music video game
+strategy game
+Psychological horror
+3D platformer
+Music 
+Rhythm game
+Breakout clone
+Pet-raising simulation
+Puzzle 
+Beat 'em up
+Survival horror
+Sports 
+Turn-based strategy
+Role-playing 
+Sports 
+Roguelike
+Role-playing 
+Role-playing video game
+Fixed shooter
+Sports 
+Action role-playing
+Platform 
+Platform 
+Role-playing 
+Platformer
+Sport simulations 
+Platform 
+Sim racing
+Platform 
+Role-playing video game
+Educational 
+Action role-playing 
+Adventure 
+First-person shooter
+Adventure game
+Platform 
+Action-adventure
+Puzzle-platform 
+MMOSG 
+Platform 
+Art game
+Racing video game
+Sports 
+Adventure 
+Action-adventure 
+Air combat simulation 
+Action 
+Action 
+First-person shooter
+Action role-playing 
+Role-playing 
+MMOG 
+First-person shooter
+Sports 
+Tactical role-playing game
+Fighting 
+First-person shooter
+Flight simulator
+Air combat simulation 
+Puzzle 
+Platform 
+Fighting 
+Platform 
+Platform 
+Adventure 
+Sports 
+Scrolling shooter
+Graphic adventure 
+Role-playing video game
+Simulation 
+Role-playing video game
+Adventure 
+Fantasy
+Simulation 
+Hack and slash
+2D action 
+Adventure 
+Music 
+Sports 
+Real-time strategy
+First-person shooter
+Action-adventure 
+Adventure 
+Role-playing 
+Action 
+Visual novel
+Traditional golf 
+Third-person Shooter
+Adventure 
+Role-playing 
+Game based learning
+Survival horror
+Multidirectional shooter
+Platform 
+Vehicular combat 
+Real-time strategy / Real-time 
+Action 
+Fighting 
+Tower defense
+Adventure 
+Tactical role-playing 
+Scrolling shooter
+Real-time strategy
+Beat \'em up
+Sandbox 
+Action 
+Real-time strategy / RTS 
+Adventure 
+Real-time strategy
+Shoot 'em up
+Arcade style racing 
+Strategy video game
+Vehicular combat
+Fighting 
+MMORTS 
+Shoot \'em up#Run and gun / Run and gun 
+Turn-based strategy 
+Strategy 
+Fighting 
+Sport simulations 
+Racing 
+Puzzle-platform 
+Platformer 
+Action 
+Psychological horror
+Interactive fiction
+Arcade 
+Scrolling shooter
+First-person shooter
+Side-scrolling shooter
+Platform 
+Hidden Object 
+Action 
+Fighting 
+Adventure 
+Shoot \'em up#Multi-directional shooter / Multi-directional shooter 
+Survival 
+
+Platform 
+Action role-playing
+Adventure game
+Racing 
+Puzzle 
+Platform 
+Platform 
+Racing 
+Puzzle 
+Puzzle-platform 
+Tactical wargame
+Construction and management simulation 
+Puzzle 
+Fighting 
+Adventure 
+Graphic adventure 
+Survival horror
+Action role-playing game
+Sports 
+Scrolling shooter
+Action game
+Platform 
+Platform 
+Role-playing 
+Shoot \'em up#Multidirectional shooter / Multi-directional shooter 
+First-person shooter
+Role-playing 
+Turn-based strategy
+Action 
+Puzzle 
+Action 
+Adventure 
+First-person shooter
+Comedy
+Hack and slash
+Scrolling shooter
+Sports 
+Turn-based strategy
+Platformer
+Puzzle 
+Platform 
+Puzzle video game
+Tactical RPG / Tactical role-playing 
+Tactical shooter
+Interactive fiction
+Role-playing 
+Sports 
+Adventure 
+Sports Management 
+Puzzle 
+
+Fighting 
+Twin-stick shooter
+Racing 
+Action 
+Adventure 
+Third-person shooter
+First-person shooter
+Incremental game
+Action 
+First-person shooter
+Turn-based strategy
+Racing 
+Sports 
+Adventure game
+Puzzle 
+Real-time strategy
+Action 
+Action-adventure 
+Light gun shooter
+Strategy 
+2D action 
+Rhythm 
+Action role-playing 
+Action 
+Platform 
+Sports 
+Role-playing 
+Turn-based strategy
+Point-and-click adventure 
+Sports Management 
+Space combat simulator
+Traditional basketball 
+Interactive fiction
+Action adventure 
+Action 
+Puzzle 
+Action-adventure 
+Platformer 
+Puzzle 
+Shoot 'em up#Scrolling shooters / Scrolling shooter 
+Action role-playing 
+Role-playing 
+Puzzle 
+Action-adventure 
+Multidirectional shooter
+Platform 
+Action-adventure 
+Racing game
+Action 
+Role playing game
+Adventure 
+Platform 
+Platform 
+Flight simulator
+Platform 
+Sports 
+Role-playing video game
+Racing video game
+Fishing 
+Platform 
+City-building 
+Fighting 
+
+Action-role playing 
+Fantasy comedy
+Action 
+Fighting 
+Racing 
+Sports 
+Strategy 
+Racing 
+Computer wargame
+Shooter 
+Space combat simulator
+Arcade adventure
+Role-playing 
+Adventure 
+Platform 
+Action game
+Turn-based strategy 
+Simulation 
+Survival horror
+Action 
+Simulator 
+Puzzle 
+Platformer 
+Adventure game
+Sports 
+Action 
+Beat \'em up
+Racing 
+Fixed shooter
+Scrolling shooter
+Puzzle 
+Rail shooter
+Adventure game
+Adventure 
+Platform 
+Sports 
+Adventure 
+Interactive fiction
+Tactical role-playing
+Fighting 
+MMORPG
+Puzzle 
+Platform 
+Survival 
+Fighting 
+Action 
+MMORPG
+Racing game
+Shoot \'em up
+Racing 
+Vehicle simulation 
+Platform 
+Adventure 
+Music video game
+Sports 
+Visual novel
+Sports 
+Action-adventure 
+Shoot \'em up
+Air combat simulation 
+Sports 
+Roguelike
+Tactical role-playing 
+Third-person shooter
+Sports 
+Visual novel
+Point-and-click adventure game
+Interactive fiction
+Visual novel
+Turn-based strategy
+Reverse harem
+Visual novel
+Interactive fiction
+Puzzle 
+Platform 
+Puzzle 
+Third-person shooter
+Survival horror
+Action role-playing 
+Computer wargame
+Real-time tactics
+Fighting 
+Action role-playing 
+Massively multiplayer online role-playing game
+Sports game
+Racing 
+Action role-playing 
+Racing 
+Action 
+Action-adventure 
+Racing 
+Action 
+Shoot\'em up / Vertical-scrolling shooter 
+Space exploration
+Third-person shooter
+Action 
+Shoot\'em up / Vertical-scrolling shooter 
+Graphic adventure 
+Action 
+Edutainment
+Hack and slash
+First-person shooter / FPS 
+Survival 
+Sports 
+Shoot \'em up#Scrolling shooters / Scrolling shooter 
+Role-playing 
+Sports 
+Digital collectible card game
+Sports 
+Action game
+
+Shooter 
+Sports 
+Adventure 
+Sports 
+Business simulation game
+Sports 
+Sports 
+Sports 
+Sports 
+Platformer
+Puzzle 
+Scrolling shooter
+Racing 
+Scrolling shooter
+Sports
+Side-scrolling shooter
+Edutainment
+Action-adventure 
+Vehicle simulation 
+Puzzle
+
+Multidirectional shooter
+Racing Game / Top-down Racing 
+Adventure game
+Adventure game
+Role-playing 
+Racing 
+Role-playing 
+Sports 
+Racing 
+Space trading and combat simulator
+Action 
+Racing 
+Scrolling shooter
+Action 
+Sports 
+Graphic adventure 
+
+Adventure 
+Platform 
+Sports simulation 
+Racing 
+Adventure 
+Maze 
+Action 
+Party 
+Third-person shooter
+Shoot \'em up
+Action 
+God game
+Metroidvania
+Business simulation 
+Turn-based strategy
+Action-adventure 
+Vehicle simulation 
+Strategy 
+Puzzle 
+Massively multiplayer online role-playing game
+Sports 
+Strategy 
+Strategy
+Puzzle 
+Adventure 
+Music 
+Maze 
+Puzzle 
+Third-person shooter
+Party 
+Strategy 
+Game creation system
+Vehicle simulation game
+Fishing 
+First person shooter / FPS 
+Turn-based strategy
+Action 
+Business simulation game
+Fighting 
+Shoot \'em up#Scrolling shooters / Scrolling shooter 
+Racing 
+Puzzle 
+Real-time strategy
+Real-time strategy
+Fighting 
+Action 
+Scrolling shooter
+Sandbox 
+Visual novel#Nakige / Nakige 
+Vehicular combat 
+Adventure game
+Platformer
+Racing 
+Music video game
+Sports 
+Massively multiplayer online role-playing game
+Sports 
+Action 
+Vehicle simulation 
+Puzzle 
+First-person shooter 
+Interactive movie
+Simulation 
+Submarine simulator
+Fixed shooter
+Adventure 
+Beat \'em up
+Shoot \'em up
+Racing 
+Action 
+Fishing
+Action-adventure 
+Fantasy
+Adventure 
+Platform 
+Business simulation game
+Action role-playing game
+Scrolling shooter
+Adventure 
+Racing 
+Interactive fiction
+Casino 
+Role-playing
+Pinball
+Action Role Playing 
+MMORPG
+Action role-playing 
+Puzzle game
+Racing 
+Action-adventure 
+Sports 
+Action-adventure 
+Shoot_\'em_up#Rail_shooters / Rail shooter 
+Roguelike
+Tactical role-playing 
+Adventure 
+Action-adventure 
+First Person Shooter
+Fighting 
+Action-adventure 
+Sports 
+Interactive fiction
+Vehicle simulation game
+Adventure 
+City-building 
+Sports 
+Visual novel
+First-person shooter
+Action-adventure
+Racing 
+Pinball
+Adventure 
+Racing 
+Light gun shooter
+Action game
+Tactical role-playing 
+Sports 
+Fighting game
+Role-playing 
+Sports 
+Text adventure
+Third-person shooter
+Platformer 
+Adventure 
+Scrolling shooter
+Sports 
+Turn-based tactics
+Sports 
+Skateboarding
+Turn-based strategy
+Sports 
+First-person shooter
+Platform 
+Puzzle 
+Adventure 
+Platform 
+Music 
+Action 
+Vehicle simulation 
+Action 
+Tactical role-playing 
+Scrolling shooter
+Twin-stick shooter
+Action 
+Beat \'em up
+Driving 
+Puzzle 
+Puzzle-platform 
+Sports 
+Shooter 
+Simulation 
+Simulation 
+Role-playing 
+Rail shooter
+Shoot \'em up
+Tactical role-playing 
+Real-time strategy
+Beat \'em up
+Sports 
+Action-adventure game
+Horror 
+Adventure 
+Scrolling shooter
+Real-time strategy / Real-time 
+Action 
+Sim racing / Racing simulation 
+Adventure game
+Sports 
+Sports 
+Massively multiplayer online real-time strategy game
+space combat simulator / Space trading and combat simulator 
+Fighting 
+Sports 
+Traditional golf 
+First-person shooter
+Chess
+Adventure 
+Sports 
+Puzzle 
+Strategy 
+Music video game
+
+Graphic adventure 
+Pinball
+Third-person shooter
+Platform 
+Shoot \'em up#Run and gun / Run and gun 
+Puzzle 
+Scrolling shooter
+Platform 
+Adventure 
+Pinball
+Vehicular combat 
+Sports 
+Third-person shooter
+First-person shooter / FPS 
+Racing 
+Shoot 'em up#Types / Bullet hell 
+Adventure 
+Sports game
+Educational 
+Rail shooter
+First-person shooter
+Graphic adventure 
+Racing 
+Visual novel
+Construction and management simulation
+Education 
+Action-adventure game
+First-person shooter
+Action role-playing
+Action 
+First-person shooter
+First-person shooter
+Action-adventure 
+Adventure 
+Graphic adventure game
+Action-adventure 
+Combat flight simulator
+Turn-based strategy
+Fantasy
+Shoot \'em up
+Augmented reality
+Real-time strategy
+Sports 
+Action RPG
+Platform 
+Platform 
+Virtual Pet
+Shoot \'em up
+Sports 
+Action role-playing 
+Action-adventure
+Action role-playing 
+Shoot \'em up
+Sports 
+Action role-playing game
+Visual novel
+Shoot \'em up#Run and gun / Run and gun 
+Role-playing game
+Computer wargame
+Music video game
+Platform 
+Beat \'em up
+Fighting 
+Platformer 
+Massively multiplayer online role-playing game
+Action role-playing
+Platform 
+Adventure 
+Space flight simulator
+Puzzle 
+First-person shooter
+Sports 
+Puzzle 
+Adventure 
+Adventure 
+Beat \'em up
+Action-adventure 
+Bullet hell
+Point-and-click adventure
+Shoot \'em up#Scrolling shooters / Scrolling shooter 
+Action puzzle 
+Music 
+Action 
+Platform 
+Racing 
+Adventure 
+First person shooter
+Racing 
+Edutainment
+Puzzle-platform 
+Sports 
+Mech simulator 
+Simulation 
+Puzzle 
+Third-person shooter
+Action 
+Puzzle 
+Racing 
+Action 
+Text adventure game
+Platformer 
+Stealth 
+Adventure 
+Survival 
+Versus Fighting 
+Role-playing game
+Role-playing video game
+Combat flight simulator
+Role-playing video game
+Shoot \'em up#Bullet hell / Bullet hell (danmaku) 
+Shooter 
+Shooting gallery 
+Puzzle 
+Role-playing 
+Turn-based tactics
+Racing 
+Fighting 
+Fixed shooter
+Action role-playing
+Action 
+Adventure game
+Role-playing 
+Interactive fiction
+Fishing 
+Real-time strategy
+Racing 
+Adventure game
+action adventure 
+Racing 
+Action 
+Maze 
+Adventure 
+Role-playing 
+Action 
+Racing 
+Adventure 
+Erotic 
+First-person shooter
+Puzzle 
+Sports 
+Endless Runner Game 
+Third-person shooter
+Adventure 
+Role-playing 
+Adventure 
+MMORPG 
+Side-scrolling 
+Scrolling shooter
+Survival 
+Multidirectional shooter
+Survival horror
+Adventure 
+Collectible Card Game / CCG 
+Racing 
+Card battle 
+Action 
+Shoot \'em up
+Action 
+Platform 
+Tactical role-playing game
+Dungeon crawl
+Action-adventure
+Action-adventure 
+Platform 
+Fixed shooter
+Role-playing video game
+Sports 
+First-person shooter
+Sports 
+Action-adventure
+Hack and slash
+Grand strategy 
+Strategy 
+Educational 
+Action role-playing
+Sports 
+Strategy 
+Platform 
+Adventure 
+Action-adventure 
+Role-playing 
+Action role playing 
+Flight simulator
+First-person shooter
+Fixed shooter
+Visual novel
+Role-playing 
+Racing game
+Horse racing 
+Party 
+Beat \'em up
+Action role-playing
+Racing
+Role-playing video game
+Platform game
+Action-adventure 
+Flight simulator
+First-person shooter
+Adventure 
+City-building 
+Sports 
+Action 
+Platform 
+Racing 
+Role-playing 
+Simulation 
+Action-adventure 
+Action 
+Role-playing 
+Action-adventure 
+Platform 
+vehicular combat
+Role-playing video game
+Action 
+First-person shooter
+Real-time strategy
+First-person shooter
+Real-time strategy
+2D action 
+Combat flight simulator
+Combat
+Fighting 
+Business simulation game
+Action-adventure 
+Racing 
+Role-playing 
+Action-adventure 
+Educational 
+Arcade adventure
+Turn-based strategy
+Fantasy
+Action 
+Snowboarding 
+Party 
+Shooter 
+Action-adventure 
+Visual novel
+Exploration 
+Role-playing game
+Fighting 
+Sports 
+Online game
+Racing 
+MMORPG
+Fighting 
+Turn-based tactics
+Racing 
+Adventure 
+Simulation 
+Role-playing 
+RPG 
+Action 
+Run-and-gun shooter
+Racing 
+Role-playing 
+Survival horror
+Simulation 
+Adventure 
+Space trading and combat simulator
+Racing 
+Space combat simulator 
+Racing 
+Racing 
+Tactical role-playing game
+Adventure game
+Action game
+Action 
+Sports game
+Racing 
+Beat \'em up
+Sports 
+Interactive film
+Simulation 
+Sports 
+Point-and-click adventure
+Real-time strategy
+Third-person shooter
+MMORPG
+Action 
+First-person shooter
+Adventure 
+MUD
+First-person shooter
+MMORPG 
+Sports
+Shoot 'em up
+Educational 
+Strategy 
+Educational game
+Scrolling shooter
+First-person shooter / FPS 
+Fighting 
+Rhythm game
+Fighting 
+Breakout clone / Block breaker 
+Endless runner
+Action role-playing 
+Platform 
+Fighting 
+Action-adventure 
+Sports 
+Combat flight simulator
+Action-adventure 
+Platform 
+Puzzle-platform 
+Role-playing 
+Tactical shooter
+Sports 
+
+Run and gun 
+
+Adventure 
+Role-playing 
+Adventure 
+Action game
+Vehicular combat
+Action role-playing
+Action 
+Action role-playing 
+First-person shooter
+Metroidvania
+Adventure 
+Turn-based strategy
+Racing 
+Shoot \'em up#Scrolling shooters / Vertical-scrolling shooter 
+Sports 
+Platform 
+Action role-playing
+Sports 
+Vehicular combat game
+Third-person shooter
+Action 
+Racing 
+Action role-playing game
+Adventure 
+MMORPG 
+Match-three
+Computer wargame
+Action 
+Action 
+Simulation
+Educational 
+Roleplaying Game
+Role-Playing Game
+Action game
+Racing 
+Beat \'em up
+Action role-playing
+Role-playing video game
+Action-adventure 
+Role-playing 
+Platform-adventure 
+Beat \'em up
+First-person shooter
+Massively multiplayer online role-playing 
+Survival 
+Racing 
+Role-playing 
+Sports 
+Real-time tactics
+Action 
+Action 
+Role-playing video game
+Sports 
+Platform 
+Racing 
+Adventure 
+Sports 
+City-building 
+Interactive storytelling
+Collectible card game
+Action-adventure 
+Puzzle 
+Point-and-click adventure
+Fighting 
+Real-time 
+Action 
+Sports 
+Sports 
+First-person shooter
+Fixed shooter
+Shoot 'em up#Scrolling shooters / Horizontal Scrolling Shooter 
+Shoot \'em up#Bullet hell / Bullet hell (danmaku) 
+Racing 
+Role-playing game
+Grand strategy 
+Platform 
+Action-adventure 
+Music 
+First-person shooter
+Action-adventure 
+Platform 
+Sports 
+Maze game
+Run and gun 
+First-person shooter
+Shoot \'em up
+Sports 
+First-person shooter
+Rhythm game
+Racing 
+Action 
+Action-adventure 
+Sports 
+MMORPG 
+Roguelike
+Role-playing video game
+Sports 
+Real Time Strategy
+Adventure 
+Racing
+2D action 
+Adventure 
+Action-adventure 
+Music 
+Platform 
+Action-adventure 
+Racing 
+Combat flight simulator
+Action 
+Roguelike
+Sports 
+platform 
+Sports 
+Fighting 
+Action 
+Action role-playing 
+Role-playing 
+2D action 
+Action role-playing game
+Sports 
+Action 
+Adventure game
+Action-adventure 
+Combat flight simulation game
+Action 
+Turn-based tactics
+Beat \'em up
+Air combat 
+Action role-playing game
+Role-playing 
+Educational 
+First-person shooter
+Role-playing video game
+Sports 
+
+Beat \'em up
+First-person shooter
+City-building 
+Sports 
+Maze 
+Multiplayer online battle arena
+Puzzle-platform 
+Action RPG 
+Sports 
+Shoot \'em up#Scrolling shooters / Scrolling shooter 
+Action 
+Role-playing video game
+Adventure 
+Platformer 
+Interactive novel
+Party 
+Racing 
+Adventure 
+Fighting 
+Puzzle 
+First-person shooter
+Action 
+Sports 
+Racing 
+Strategy 
+Music 
+Action-adventure 
+Adventure 
+Platform 
+Music video game
+Turn-based strategy
+Business simulation 
+Racing 
+Action-adventure 
+Adventure 
+Sports 
+Interactive fiction
+Role-playing 
+Platform 
+Life simulation 
+Graphic adventure 
+Action 
+Breakout clone / Breakout 
+Action role-playing 
+Arcade 
+Puzzle 
+2D Versus Fighting 
+Shoot \'em up#Bullet hell / Manic shooter 
+Combat flight simulator
+Action-adventure 
+Racing
+First-person shooter
+Adventure 
+Action-adventure 
+Action RPG
+Ten pin bowling
+Role-playing 
+First-person shooter
+Platformer 
+Run-and-gun shooter
+Shooter game
+Platform game
+Third-person shooter
+Fighting 
+Platform 
+Psychological horror
+Action 
+Racing 
+Sports 
+Role-playing 
+Run-and-gun shooter / Run-and-gun 
+Role-playing 
+Social network game
+Fighting 
+Hack and slash
+Puzzle 
+Interactive movie
+Puzzle 
+Action-adventure 
+Real-time strategy
+Fighting 
+Text adventure
+Platform 
+Shoot \'em up#Scrolling shooters / Scrolling shooter 
+Action 
+Action adventure 
+First-person shooter
+Adventure 
+Adventure 
+Sports 
+Space combat 
+Adventure 
+Survival horror
+Puzzle 
+
+Puzzle 
+Multidirectional shooter
+Action-adventure 
+City-building 
+Board game
+Action 
+Action 
+Puzzle-platform 
+Action 
+Action 
+Fighting 
+Racing 
+Survival horror
+Interactive fiction
+Vehicular combat
+Platformer
+Tactical shooter
+Racing 
+Scrolling shooter
+Beat \'em up
+Sim racing
+First-person shooter
+Platform 
+Business simulation 
+Adventure 
+Puzzle 
+Racing 
+Interactive fiction
+Action role-playing 
+
+Space combat simulator 
+Adventure 
+Action 
+Life simulation game
+Third-person shooter
+Sports 
+
+Strategy 
+Sandbox 
+Sports 
+Puzzle 
+First-person shooter
+Tactical shooter
+Adventure 
+Puzzle-platform 
+Educational 
+Real-time strategy
+Platform 
+Sports - Ice Hockey Sim 
+Real-time strategy
+Adventure 
+Adventure 
+interactive fiction
+First-person shooter
+Traditional sports 
+Roguelike
+Turn-based strategy
+Action 
+Action role-playing game
+Modern first-person adventure 
+Shoot \'em up / Top-down shooter 
+Action 
+Puzzle 
+Sports 
+Adventure 
+MMORPG 
+First-person shooter
+
+Life simulation game
+Sports 
+Real-time strategy
+Graphic adventure 
+Visual novel
+Mech simulation
+Vehicle simulation game
+
+Action role-playing 
+Racing 
+Sports 
+mecha
+Driving 
+Sim racing
+Vehicle simulation 
+Platform 
+Beat \'em up
+Sports 
+Real-time strategy
+Sports 
+Versus fighting game
+Survival horror
+Action-adventure 
+Action-adventure 
+Action 
+Platform 
+First-person shooter
+Fighting 
+Maze 
+Maze 
+Simulation 
+Sports 
+Real-time strategy
+Action-adventure 
+Puzzle 
+Action-adventure 
+Puzzle 
+Adventure 
+Fixed shooter
+Role-playing 
+Grand strategy 
+Adventure 
+Turn-based tactics
+First-person shooter
+Interactive fiction
+Racing 
+Educational 
+Adventure 
+Platform 
+Music 
+Hack and slash
+Strategy
+Fighting 
+Fighting 
+Platform 
+Racing 
+Dungeon crawler
+Vehicle combat 
+Shoot \'em up#Run and gun / Run and gun 
+Platform 
+Flight simulator
+
+Claw machine
+Platform 
+Pinball#Computer pinball simulation / Pinball 
+Action role-playing game
+Action-adventure 
+Shoot \'em up#Types / Vertically scrolling shooter 
+Fighting 
+Maze 
+Simulation 
+Role-playing game
+Action role-playing 
+Action-adventure 
+Adventure 
+Education 
+Adventure 
+Fantasy
+Action 
+Real-time strategy
+Strategy 
+Action-adventure 
+First-person shooter
+Tube shooter
+Adventure 
+Action 
+Action Game / Action 
+Shoot \'em up#Run and gun / Run and gun 
+Fighting game
+Sports 
+Adventure
+Strategy 
+Action 
+Action-adventure 
+Sports 
+Top-down shooter
+Platformer 
+Multidirectional shooter
+Action 
+Adventure 
+Stealth 
+Match-three 
+Educational entertainment / Educational 
+Amateur flight simulation
+Pinball
+Role-playing 
+Beat \'em up
+Beat \'em up
+Action 
+Action role-playing 
+Platform 
+Sim racing / Racing simulation 
+Fighting game
+Action role-playing game
+2D action fighting 
+Racing 
+Maze 
+Endless round 
+Sports 
+Turn-based strategy
+Beat \'em up
+Action 
+Driving 
+Survival horror
+Fighting 
+Rhythm game
+Platform-adventure
+Action 
+MMO 
+Action 
+Beat \'em up
+Combat flight simulator
+Graphic adventure 
+Role-playing video game
+
+Cinematic platformer 
+Breakout clone / Breakout 
+Action 
+Platform 
+Naval warfare
+Shooter 
+Sports 
+Role-playing 
+Action role-playing 
+Third-person shooter
+Graphic adventure 
+Sports 
+Role-playing video game
+Platform 
+Edutainment 
+Puzzle game
+Educational 
+Action-role playing 
+Racing 
+Platformer 
+Adventure 
+Adventure game
+Action-adventure 
+Racing 
+Shooter 
+Third-person shooter
+Racing 
+Idle 
+Action 
+Educational 
+Third-person shooter
+Simulation 
+point-and-click adventure
+Augmented reality
+Action 
+Real-time strategy
+Scrolling shooter
+3D shooter
+Fighting 
+Adventure 
+Third-person shooter
+Third-person shooter
+Action-adventure 
+Action 
+Sports 
+Racing 
+Sports 
+Platform 
+Fighting 
+Action-adventure 
+Action 
+Role-playing 
+Simulation 
+Board game
+Action role-playing 
+Run and gun 
+Racing 
+Simulation 
+Beat \'em up
+Platform 
+Third-person shooter
+Racing 
+Role-playing 
+Fantasy
+Puzzle 
+Sports 
+Racing 
+Action 
+Racing 
+Action-adventure 
+Role-playing 
+Sports 
+First-person shooter
+Interactive fiction
+Action RPG
+Edutainment
+Turn-based strategy
+Real-time tactics
+Adventure 
+Action role-playing 
+Action role-playing 
+Interactive fiction
+MMORPG 
+Racing 
+Party 
+Adventure 
+Massively Multiplayer Online Role-Playing Game
+Action-adventure 
+Shoot \'em up
+Adventure 
+Action 
+Sports 
+Racing 
+Role-playing 
+Action game
+Real-time strategy
+Adventure 
+First-person shooter
+Shoot\'em up / Vertical-scrolling shooter 
+Turn-based
+Run and gun 
+Sports 
+Role-playing 
+Adventure 
+Action game
+Platform 
+Adventure 
+Computer wargame
+Sports 
+Racing 
+First-person shooter
+Action role-playing
+Racing 
+Action 
+Action-adventure 
+Platform 
+Action-adventure 
+Puzzle 
+Strategy 
+Roguelike
+Role-playing video game
+Amateur flight simulation
+Platformer 
+Combat flight simulator 
+Action-adventure 
+Battle royale 
+Tactical role-playing game
+Shoot \'em up#isometric shooter / Isometric shooter 
+Action 
+Multiplayer online battle arena
+Role-playing 
+Tower defense game
+RPG 
+Action 
+Multidirectional shooter
+Maze 
+Racing 
+
+Fighting 
+Business simulation 
+Adventure game
+Platform game
+Sports 
+First-person shooter
+Beat \'em up
+Racing 
+Simulation 
+Sports 
+Sport 
+Educational
+God Game 
+2D versus fighting 
+Third person shooter
+Bicycle
+Side-scrolling shooter
+Sports 
+Sports 
+Collectible card game
+Tactical role-playing 
+Sim racing
+Puzzle-platform 
+Programming game
+Shoot \'em up#Run and gun / Run and gun 
+
+Business simulation 
+Cue sports 
+Action-adventure 
+Computer wargame
+Role-playing 
+MMORPG 
+
+Hack and slash
+
+Visual novel
+Action role-playing 
+Role-playing 
+Simulation 
+Music 
+Platform 
+Space combat 
+Role-playing 
+First-person shooter
+Interactive fiction
+Real-time strategy
+Management simulation
+Hack and slash
+Racing 
+Roguelike
+Stealth 
+Action-adventure 
+Real-time strategy
+Role-playing 
+Team brawler
+Computer wargame
+Sports 
+Action-adventure 
+First-person shooter
+Action-adventure
+Action-adventure 
+Role-playing 
+Puzzle video game
+Mech simulator 
+Shoot \'em up
+Platform 
+Shooter 
+Third-person shooter
+Shooter 
+Action 
+Platform 
+Platform 
+Action-adventure 
+Sports 
+Sports
+Strategy role-playing game
+Action 
+Puzzle 
+Turn-based tactics
+Sim racing 
+Arcade-adventure 
+Computer wargame
+Scrolling shooter
+2D Versus Fighting 
+Action-adventure 
+Sports 
+Multiplayer online battle arena
+Simulator 
+Adventure 
+Action 
+Arcade Sports 
+Interactive fiction
+Adventure game
+Racing 
+Adventure 
+Submarine adventure 
+Fighting game
+Third-person shooter
+Shoot \'em up#Run and gun / Run and gun 
+Action-adventure 
+First-person shooter
+Action 
+Real-time strategy
+Platform 
+Action 
+Educational 
+Real-time tactics
+Racing 
+Beat \'em up
+Platformer 
+Interactive film / FMV 
+Adventure Game / Adventure 
+Adventure 
+Tactical CCG 
+Action-adventure 
+Vehicular combat 
+Adventure 
+Racing 
+Fighting 
+Action 
+Action 
+Party 
+Turn-based strategy
+Sports 
+Adventure 
+Role-playing 
+Adventure 
+First-person shooter
+Sports 
+Third-person shooter
+Tower defense
+Turn-based strategy
+First-person shooter
+Sports 
+Boxing
+Action role-playing 
+Puzzle 
+Adventure 
+Adventure 
+Fixed shooter
+Computer wargame
+Sports 
+Interactive movie
+Action 
+Game show
+Sports 
+Action-adventure 
+Battle royale 
+Action-adventure 
+Shoot \'em up
+Action 
+Racing 
+Adventure 
+Multi-directional shooter
+Turn-based strategy
+Action-adventure
+Role-playing video game
+Sandbox 
+Light gun shooter / Light gun 
+Education / Game 
+Shoot \'em up
+Tactical role-playing game
+Roguelike
+Role-playing game
+Run-and-gun shooter 
+Beat \'em up
+MMORPG
+Role-Playing Game / RPG 
+Sports 
+Turn-based strategy
+Music 
+Sports (ice hockey) 
+Party 
+Action 
+Maze 
+Computer wargame
+Computer wargame
+Educational 
+Real-time strategy / Real-time 
+Multidirectional shooter
+Action-adventure 
+Educational 
+Sports 
+Digital collectible card game
+Rail shooter
+Interactive movie
+First-person shooter
+Action 
+Racing 
+Roguelike
+Visual Novel
+Interactive fiction
+Racing 
+First-person shooter
+Action role-playing 
+Tactical role-playing 
+Third-person shooter
+
+Massively multiplayer online role-playing game
+Sports game
+Action-adventure 
+Digital collectible card game
+Beat \'em up
+Action-adventure 
+Puzzle 
+Sports 
+First-person shooter
+MMOG
+Interactive fiction
+Action 
+Space combat simulation
+Action-adventure 
+Sports 
+Action-adventure 
+Simulation 
+Dungeon crawl
+Sports 
+Action 
+Business simulation 
+Hidden object 
+Role-playing 
+First-person shooter
+Rail shooter
+Scrolling shooter
+Third-person shooter
+Real-time strategy
+Shooter 
+Party 
+Action 
+Puzzle 
+Role-playing 
+Tactical role playing 
+Action 
+Snowboarding 
+Maze 
+Adventure 
+Turn-based strategy
+Action-adventure 
+Platform 
+First-person shooter
+Action RPG
+Action role-playing 
+Exergaming
+Puzzle 
+Action role-playing 
+Shoot \'em up
+first-person shooter / Shooter 
+Puzzle 
+Beat \'em up
+Adventure 
+Point-and-click adventure 
+Action 
+Adventure 
+Shoot \'em up#Scrolling shooters / Scrolling shooter 
+Real-time strategy 
+Third-person shooter
+Role-playing 
+Adventure 
+Sports game
+Massively multiplayer online game
+Puzzle 
+Sports game
+Computer wargame
+Action-adventure 
+Turn-based tactics
+Fighting 
+Sidescroller 
+Sports 
+
+Racing 
+Sim racing
+Visual novel
+Sports 
+Fighting 
+Fixed shooter
+Collectible card game
+Platform 
+Management simulation
+Sport 
+Real-time tactics
+Shooter game
+Action-adventure 
+Role-playing video game
+Simulation 
+Platform 
+Tactical role-playing game
+Combat flight simulator
+Formula One
+Role-playing 
+Factory simulation
+Comedy
+Snowboarding 
+Vehicle simulation 
+Adventure 
+Educational 
+Action 
+Artificial life
+Computer wargame
+Stealth 
+Party 
+Fighting 
+Platform 
+Action game
+Music 
+Action-adventure 
+Action 
+Puzzle-platform 
+Kart racing 
+Board game
+Action-adventure 
+Role-playing video game
+fantasy world / fantasy 
+Action role-playing 
+Wrestling 
+Platform 
+Action role-playing
+Run and gun 
+Puzzle platformer
+Space combat simulator
+Tactical role-playing 
+Adventure 
+Adventure 
+Educational 
+Sports 
+Music video game
+Game 
+Puzzle-platformer
+Action role-playing game
+Action 
+Shoot 'em up
+Action role-playing 
+Kart racing 
+Side-scroller 
+Shooter game
+Half-court basketball 
+2D action 
+Shoot \'em up#Multidirectional shooter / Multidirectional shooter 
+Maze 
+Platform 
+Action 
+Sports 
+Turn-based strategy
+Beat \'em up
+Rhythm 
+Action 
+Life simulation 
+Tactical role-playing game
+Adventure game
+Puzzle 
+Sports 
+Racing 
+Visual novel
+Raising simulation 
+MMORPG
+Shoot \'em up / Vertical-scrolling shooter 
+Scrolling shooter
+Racing
+Adventure game
+Rhythm 
+Action role-playing game
+Platform game
+Shoot \'em up
+Platform 
+Action role-playing
+Vehicular combat game
+Fighting 
+Role-playing video game
+Arcade adventure
+Sim racing / Racing simulation 
+Sports 
+Kart racing 
+Adventure 
+Adventure 
+Adventure 
+Life simulation game
+Platform 
+Fighting 
+Action-adventure 
+Platform 
+First-person shooter
+Adventure 
+Puzzle 
+Flight simulator / Flight combat 
+Puzzle 
+Role-playing 
+Action 
+Interactive fiction
+Survival horror
+Action-adventure 
+Traditional soccer 
+Scrolling shooter
+Platform 
+Beat \'em up
+Sports 
+Action-adventure
+Action-adventure 
+Puzzle game
+Multi-directional shooter
+Life simulation 
+Role-playing game
+Platform 
+Sports
+Action role-playing 
+Sports 
+Graphic adventure 
+Sports 
+Adventure 
+Quiz
+Sandbox 
+Strategy 
+Action-adventure 
+Stealth action 
+Role-playing 
+Real-time strategy
+Third-person shooter
+Platform 
+Graphic adventure game
+action game
+Fighting 
+Roguelike
+Action role-playing 
+Simulation 
+Platform 
+Action-adventure game
+Sim racing
+Strategy 
+Action-adventure
+Arcade video game
+Scrolling shooter
+First-person shooter
+Role-playing game
+Platformer 
+Action 
+Business simulation 
+Light gun shooter 
+Sports
+Action 
+Shoot \'em up#Run and gun / Run and gun 
+Racing 
+Shoot \'em up#Types / Vertically scrolling shooter 
+MMORPG 
+Strategy 
+Action-adventure 
+Dating simulator
+Racing 
+Shoot \'em up
+Party 
+Sports 
+Scrolling shooter
+Real-time strategy
+Fighting 
+Puzzle-platform 
+City-building 
+Massively multiplayer online role-playing game
+Simulation 
+Action role-playing 
+Tactical shooter
+Action 
+Adventure 
+Turn-based strategy
+Action role-playing 
+Racing
+Fighting game
+Sports 
+Action-adventure 
+cricket / Sports 
+Action 
+Action-adventure 
+Sports 
+Sports 
+First-person shooter
+Sports 
+Modern first-person adventure 
+Platform-adventure 
+Sports 
+Amateur flight simulator
+Adventure 
+Action adventure 
+Shooter 
+Action-adventure 
+Fixed shooter
+Puzzle game
+Sports 
+Soccer 
+Life simulation 
+City-building 
+Platform 
+Sports 
+Action-adventure 
+Edutainment
+Flight simulator
+First-person shooter
+Action-adventure 
+Racing 
+Life simulation 
+MMORPG 
+Platform 
+Shoot \'em up
+Scrolling shooter
+Edutainment
+Real-time strategy
+Arcade ice hockey 
+Action 
+Graphic adventure 
+Shoot \'em up
+Fighting 
+Sports 
+Racing
+Action-adventure 
+Snowboarding 
+
+RPG 
+Racing 
+Sports 
+World War I
+Flight simulator
+Adventure 
+Sports 
+Vehicular combat 
+Strategy 
+First-person shooter
+Racing
+Action 
+Action 
+Sports 
+Action-adventure 
+Platform 
+Sports 
+Real-time strategy
+Visual novel
+Amateur flight simulation / Flight simulator 
+Platform 
+Role-playing video game
+Role-playing 
+Hack and slash
+Sports
+Arcade game
+Action RPG 
+Platform 
+Action-adventure 
+2D Versus Fighting 
+Sports 
+Platform 
+Puzzle 
+Survival horror
+Vehicle simulation 
+Versus fighting 
+First-person shooter
+Role-playing 
+Action 
+Shoot \'em up
+Platformer 
+Action-adventure
+Action 
+Platform-adventure 
+Role-playing 
+Action 
+Visual novel
+Amateur flight simulation / Flight simulation 
+City-building 
+Action 
+Collectible card game
+D.J. 
+Interactive fiction
+Puzzle 
+Visual novel
+First-person shooter
+Puzzle-platform 
+Sports 
+Roguelike
+Action 
+Action-adventure 
+Platform 
+Puzzle 
+Turn-based strategy
+Puzzle 
+Puzzle 
+Dungeon crawler
+Traditional boxing 
+Action-adventure 
+Sim racing / Racing simulation 
+Racing
+Platform game
+Action-adventure 
+Shoot 'em up
+Role-playing 
+Amateur flight simulator
+Shooter 
+First-person shooter
+Action 
+Action game
+Real-time strategy
+Action 
+Sports 
+Racing 
+Tactical role-playing game
+Tactical role-playing 
+Action 
+Sports 
+Sports 
+Platform 
+Action 
+Multidirectional shooter
+Platform 
+Maze 
+Arcade adventure
+Driving 
+Platform 
+Action role-playing 
+Interactive fiction
+Action-adventure 
+Action 
+Fighting 
+Role-playing video game
+Scrolling shooter
+Action-adventure 
+Action role-playing 
+Real-time strategy
+Simulation 
+Sports game
+Action role-playing 
+Fighting 
+Adventure 
+Interactive movie
+Shoot \'em up#Fixed shooters / Fixed shooter 
+Fighting 
+Vehicle simulation game
+Sci-fi mech simulation 
+Adventure game
+Multidirectional shooter
+Racing 
+Multidirectional shooter
+Tactical role-playing
+Puzzle 
+Sports 
+Music / Rhythm 
+Sports 
+Action-adventure
+Sports 
+Scrolling shooter
+First-person shooter
+Action-adventure 
+Action-adventure 
+Puzzle 
+First-person shooter
+Tactical role-playing
+Sports 
+Music 
+Platform 
+Action 
+First-person shooter
+Action-adventure 
+Racing 
+Action-adventure 
+Action role-playing 
+Platform 
+Puzzle 
+Racing 
+Sports 
+Adventure 
+Action game
+Sports 
+Fighting 
+Role-playing 
+MMORPG
+First-person shooter
+Role-playing video game
+Sports 
+Survival 
+Beat \'em up
+Sports manager 
+Adventure 
+Racing 
+Shoot \'em up#Tube and rail shooters / Rail shooter 
+Strategy 
+Action 
+Platform Game 
+Shoot \'em up#Types / Horizontal-scrolling shooter 
+Party 
+Sports 
+Sports 
+Sports video game
+First-person shooter
+Space combat simulator
+Sports 
+Turn-based strategy
+Beat \'em up
+Sports 
+Theme park simulation 
+Massively multiplayer online role-playing game
+Platform 
+Fighting 
+Action 
+Puzzle-platform 
+
+Space combat simulator
+Hack and slash
+Visual novel
+Action 
+Side-scroller 
+Real-time tactics
+Puzzle 
+Hack and slash
+Visual novel
+Platform 
+Shoot \'em up
+Tactical role-playing 
+Action role-playing
+Interactive fiction
+Action 
+Adventure 
+Off-road racing 
+Turn-based strategy
+Simulation 
+Role-playing video game
+First-person shooter
+Tactical role-playing 
+First-person shooter
+Business simulation game
+Shoot \'em up
+Action-adventure game
+Role-playing 
+Fighting 
+Puzzle video games
+Turn-based strategy
+Action 
+Adventure 
+Point-and-click adventure
+Racing 
+Action-adventure 
+Beat \'em up
+Turn-based strategy
+Graphic adventure 
+Platform 
+Arcade 
+Platform 
+Puzzle 
+Puzzle 
+Computer wargame
+Action 
+Turn-based strategy
+Adventure 
+Otome 
+Sports 
+Shooter 
+Platform 
+Puzzle-platform
+Puzzle 
+Puzzle 
+Shooter 
+Shoot \'em up#Scrolling shooters / Scrolling shooter 
+Versus fighting 
+Breakout clone
+Raising simulation 
+Pinball
+First-person shooter
+Turn-based strategy
+Turn-based strategy
+Art 
+Action 
+Point-and-click adventure
+Snowboarding 
+Racing 
+Third-person shooter
+Platform-adventure 
+First-person shooter
+Action role-playing 
+First-person shooter
+Shooter game
+Action role-playing 
+Role-playing 
+Fighting 
+Puzzle 
+Indie 
+Racing 
+Music 
+Maze 
+Platform 
+Adventure 
+Metroidvania
+Action-Adventure 
+Platform 
+Tactical shooter
+Massively multiplayer online 
+Action role-playing game
+Role-playing 
+Platform 
+Christian 
+Action-adventure
+Action 
+Role-playing 
+Digital collectible card game
+Educational 
+Puzzle 
+First-person shooter
+Flight simulator
+Puzzle 
+Platform 
+Educational 
+Action 
+Flight simulator
+Simulation 
+Business simulation 
+Racing 
+Multidirectional shooter
+Real-time strategy
+Space flight simulator
+Racing 
+Shoot \'em up#Scrolling shooters / Scrolling shooter 
+Sports 
+Simulation 
+Strategy 
+turn-based tactics
+Maze 
+Sports 
+Action 
+Action-adventure
+Action 
+Music 
+Action role-playing 
+Fixed shooter
+Platform game
+Puzzle 
+Sports game
+Action-adventure 
+Role-playing 
+Racing 
+Beat 'em up
+Racing 
+Massively multiplayer online role-playing game
+Sports 
+Traditional baseball 
+Sports game
+Traditional soccer 
+Role-playing 
+Roguelike
+Simulation video game
+Turn-based strategy
+Racing 
+Rail shooter
+Puzzle 
+Adventure 
+Sports 
+Platform game
+Sports 
+Action role-playing 
+Puzzle 
+Hack and slash
+Action 
+Sports game
+Shoot \'em up
+Sports 
+Combat flight simulator 
+Role-playing 
+Beat \'em up
+Adventure 
+Racing 
+Platforming 
+Racing 
+Simulation video game
+Third-person shooter
+Stealth 
+Massive Multiplayer Online Role-Playing Game / MMORPG 
+Sports 
+Racing 
+Platform 
+Point-and-click adventure 
+First-person shooter
+Role-playing 
+Racing 
+Run-and-gun shooter
+Strategy 
+Pinball
+Survival horror
+Multidirectional shooter
+Pinball
+Adventure 
+Platform 
+Sports 
+Adventure 
+Platform 
+Submarine simulator
+First-person shooter
+Action-adventure 
+MMORPG
+Role-playing 
+Maze 
+Action 
+Action-adventure 
+Real-time strategy
+Real-time tactics
+Racing 
+Sports 
+Sports 
+Fighting 
+Fighting 
+Puzzle adventure
+Survival horror
+Action-adventure 
+Naval simulator 
+Computer wargame
+Fishing 
+Artillery game
+Adventure game
+Life simulation 
+Real-time strategy
+Sports 
+Platformer 
+Amateur flight simulation
+Platform 
+MMORPG 
+Strategy 
+First-person shooter
+Educational 
+Platform 
+Role-playing 
+Strategy 
+Simulation
+Adventure 
+Platform 
+Racing with top-down perspective 
+Sports 
+Puzzle-platform 
+Virtual Reality
+Role-playing 
+Racing 
+Platform 
+Platform 
+Action-adventure 
+Tactical shooter
+Arcade adventure
+First-person 
+MMORPG 
+Real-time strategy
+Action-adventure 
+Turn-based strategy
+Maze 
+Interactive art
+Party 
+Racing 
+Platformer 
+Word game
+Battle royale genre / Battle royale 
+Multidirectional shooter
+Life simulation game
+Action-adventure 
+Beat \'em up
+Shoot \'em up / Run and gun 
+Action-adventure 
+Platform 
+Action-adventure 
+Pinball
+2D action 
+Sports 
+First-person shooter
+Shoot \'em up#Run and gun / Run and gun 
+Life simulation game
+Strategy 
+Fighting 
+Sports 
+MMORPG
+MMORPG
+Battle royale 
+Action 
+Tactical role-playing game
+Air combat simulation 
+Real-time strategy
+MMORPG 
+Computer wargame
+Vehicular combat 
+massively multiplayer online 
+Visual novel
+MMORPG
+First-person adventure 
+Stealth 
+Action role-playing 
+Hack and slash
+Rhythm 
+Adventure game
+Action role-playing 
+Action game
+Action-adventure 
+Exergaming / Fitness 
+MMORPG
+Shoot \'em up
+Strategy 
+Point-and-click adventure 
+Racing 
+Racing 
+Stealth 
+Strategy game
+Real-time tactics
+Sports 
+Computer wargame
+Music 
+First-person shooter
+Computer wargame
+First-person shooter
+Action 
+Role-playing 
+Adventure game
+Platform 
+MMORPG
+Point-and-click adventure
+Sports
+Action 
+Platform 
+Turn-based strategy
+Music 
+Real-time strategy
+Otome
+Massively multiplayer online 
+Rugby union 
+Sports 
+Role-playing 
+Management simulation
+Role-playing 
+Shoot 'em up
+Shoot \'em up
+First-person shooter
+Adventure 
+Isometric 
+Platform 
+Concentration 
+Space trading and combat simulator / Space trading and exploration 
+Action-adventure 
+Action-adventure 
+First-person adventure 
+First-person shooter
+Adventure 
+Shoot \'em up
+Sports 
+Shoot \'em up#Run and gun / Run and gun 
+Fighting game
+Fighting game
+First-person shooter
+Fighting game
+Platform game
+Adventure 
+Adventure 
+Action 
+Platform 
+Role-playing 
+Sport
+Platform 
+Action-adventure 
+Fighting 
+First-person shooter
+Puzzle 
+Action 
+First-person 
+Third-person shooter
+Adventure 
+Adventure 
+Shooter 
+Racing 
+First-person shooter
+Real-time strategy
+Adventure 
+Scrolling shooter
+Submarine simulator
+Platformer 
+Sports 
+Third-person shooter
+Racing video game
+Action-adventure 
+Beat \'em up
+Puzzle 
+Role-playing video game
+Scrolling shooter
+Air combat simulation 
+Educational 
+Puzzle 
+Adventure 
+Tactical role-playing 
+Turn-based tactics
+Interactive fiction
+Action-adventure 
+Educational 
+Platform 
+Third-person shooter
+Racing 
+Adventure 
+Shooter 
+Puzzle video game
+Sports 
+Action 
+Fixed shooter
+Turn-based strategy
+Action 
+Racing 
+Action 
+Vehicle combat 
+Action-adventure 
+Shoot \'em up
+Adventure 
+science fiction / Sci-Fi 
+Shooter game
+Beat \'em up
+Platform 
+Role-playing 
+Fighting 
+Action 
+Business simulation 
+Role-playing 
+Massively multiplayer online role-playing game
+Audio 
+Turn-based tactics
+Graphic adventure 
+Educational 
+Interactive movie
+Roleplaying 
+Action-adventure 
+Interactive fiction
+Action-platform 
+Rhythm game
+Adventure 
+Adventure 
+Action 
+Sports 
+Action 
+Scrolling shooter
+Adventure video game
+Sports 
+Adventure game
+Role-playing video game
+Space simulation
+Platforming 
+Action 
+Action 
+Action role-playing 
+Side-scrolling shooter
+Action 
+Action role-playing 
+Simulation game
+Puzzle video game
+Fantasy sports 
+Role-playing 
+Sports 
+Arcade 
+Adventure 
+Visual novel
+Action 
+Visual novel
+Role-playing 
+Role-playing game
+Platform 
+Survival horror
+Shooter 
+Third-person shooter
+Tactical shooter
+Adventure game
+Business simulation game
+Sports 
+Interactive fiction
+First-person shooter
+Adventure 
+Tactical shooter
+Action-adventure 
+First-person shooter
+Platform Game / Platform 
+Computer wargame
+Sports 
+Sports 
+Platform 
+First-person shooter
+Adventure 
+Simulation 
+Sports 
+Action 
+Puzzle 
+Third-person shooter
+Scrolling shooter
+Beat \'em up
+Action 
+Shooter 
+4X
+Racing 
+Racing 
+Platform 
+Racing 
+Pinball
+Sports 
+Life simulation 
+Puzzle 
+Sports 
+Survival horror
+Action 
+Adventure 
+Sports 
+
+Scrolling shooter
+Music 
+Sports 
+Beat \'em up
+Interactive fiction
+Racing 
+Sports 
+Turn-based strategy
+Action role-playing 
+Rhythm 
+Single-player 
+Tactical role-playing 
+Racing 
+Scrolling shooter
+Point-and-click adventure
+First-person shooter
+Point-and-click adventure game
+Action-adventure 
+Turn-based strategy
+Racing 
+Racing 
+Action 
+Action 
+Graphic adventure
+City-building 
+Action-adventure 
+Scrolling shooter
+Action 
+Action 
+Role-playing 
+Platform game
+Platform 
+Action role-playing 
+Turn-based strategy
+Sports 
+Interactive movie
+Action-adventure 
+Shoot \'em up
+Third-person shooter
+Puzzle games
+Action-adventure
+Action-adventure 
+Platform game
+Fighting 
+
+Survival horror
+Psychological horror
+Strategy 
+Adventure 
+Shooter 
+
+Action-adventure 
+Music 
+Computer wargame
+Music 
+Sports 
+Volleyball 
+Survival 
+First-person shooter
+Comedy
+Massively multiplayer online real-time strategy
+Platform game
+First-person shooter
+Racing 
+Action-adventure 
+Tactical role-playing 
+Educational video game
+Scrolling shooter
+Arcade style racing 
+Sports 
+Action 
+Puzzle 
+Adventure 
+Adventure 
+Action-adventure 
+First-person shooter
+Vehicle simulation 
+Puzzle 
+rhythm game
+Strategy 
+Multiplayer online battle arena
+Sports 
+Visual novel
+Sports 
+Rail shooter
+City-building 
+Interactive fiction
+Role-playing 
+2D weapon based fighting 
+Racing 
+
+Shoot 'em up#Scrolling shooters / Scrolling shooter 
+Action 
+Adventure 
+Racing 
+Platform 
+Action-adventure 
+Adventure 
+Action-adventure 
+Single player / Single 
+Graphic adventure 
+Puzzle 
+Action-adventure 
+Action-adventure 
+Maze 
+Shooting game
+Sports 
+Breakout clone
+Action 
+Action role-playing 
+Racing 
+Role-playing video game
+Strategy 
+Hack and slash
+Beat \'em up
+Action 
+Platform-adventure 
+Strategy 
+Sports 
+Fighting 
+Real-time tactics
+Action-adventure
+Casual 
+First-person shooter
+Sports 
+Platform 
+Turn-based strategy
+Air combat simulation 
+Action 
+Real-time strategy
+Platform 
+Shoot \'em up / Vertical-scrolling shooter 
+Sports 
+Adventure 
+Action-adventure 
+Tactical shooter
+Role-playing 
+Interactive fiction
+Point-and-click adventure
+Platform 
+Strategy 
+Platform 
+Mecha
+Point-and-click adventure 
+Adventure 
+Scrolling shooter
+Massively multiplayer online role-playing game
+City-building 
+Action role-playing 
+Racing 
+Real-time strategy
+Platformer 
+Stealth 
+Action 
+Action-adventure 
+Racing 
+Massively multiplayer online role-playing game
+Platform 
+Business simulation game
+Chess
+Action role-playing
+Maze 
+Life simulation 
+Air combat simulation 
+Adventure 
+Sports 
+Adventure 
+Rail shooter
+Vehicular combat
+Action role-playing
+Sports 
+Role-playing 
+Tactical role-playing 
+Action 
+Combat flight simulator 
+Action-adventure 
+Fighting 
+Adventure 
+Shoot \'em up
+Graphic adventure 
+Platform 
+Racing 
+Role-playing
+Action 
+Snake 
+Adventure 
+Action 
+Interactive fiction
+Platform game
+Role-playing video game
+
+Action-adventure 
+Educational 
+Survival horror
+Shoot \'em up
+Racing 
+Digital collectible card game
+Action role-playing
+Real-time strategy
+Action role-playing 
+Party game
+Adventure 
+Real-time tactics
+Action-adventure 
+Adventure 
+Simulation
+Survival 
+Racing 
+Psychological horror 
+Adventure 
+Arcade 
+Racing 
+Platform 
+Fighting 
+Sports 
+Puzzle 
+Strategy
+Educational 
+Platform 
+Action role-playing 
+Time management 
+Sports 
+Survival horror
+Puzzle 
+First-person shooter
+Simulation 
+Puzzle 
+Adventure 
+Action-adventure 
+Third-person shooter
+Edutainment
+Fighting game
+Platform game
+Sports 
+Adventure 
+Adventure 
+Action 
+First-person shooter
+Platform 
+Action-adventure 
+Adventure 
+Real-time strategy
+Point-and-click adventure
+Business simulation 
+Business simulation game
+Shoot \'em up
+Government simulation game
+Eroge
+Adventure 
+Third-person shooter
+Turn-based strategy
+Simulation 
+Sim racing
+Action-adventure 
+Puzzle 
+Action 
+MMO 
+First-person shooter
+Action 
+Cinematic platformer 
+Action-adventure 
+Racing 
+Single-player
+Action 
+Sports 
+Air combat simulation 
+Puzzle 
+First-person shooter
+Role-playing video game
+Combat flight simulator
+Racing 
+Adventure 
+visual novel
+Racing 
+Roguelike deck-building 
+Simulation
+Action 
+Action role-playing 
