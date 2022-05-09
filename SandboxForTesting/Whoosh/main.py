@@ -232,6 +232,5 @@ def searchByMark(word_list, ix, mark_min=None, mark_max=None):
         except:
             continue
 
-    print(f"\nMarked games: {len(marked_games)}")
     for r in marked_games:
         print(f"{r['title']}, with value of {r['mark']}")
