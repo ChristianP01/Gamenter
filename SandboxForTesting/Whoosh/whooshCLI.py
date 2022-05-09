@@ -1,14 +1,16 @@
 from unittest import result
 from searcher import searchQueryCLI as query
+import json
 
-
-qgen = query("")
+qgen = query(("",""))
 qgen.send(None)
 while True:
     q = input("Inserisci ricerca: ")
-
+    f = input("Inserisci filtro: ")
+    #f = json.loads(f)
     print("\n\n\n\n\n\n")
-    result = qgen.send(q)
+
+    result = qgen.send((q,None))
     #print(result)
     '''
     print("RICERCA PER TITOLO")
