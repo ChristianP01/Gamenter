@@ -1,5 +1,5 @@
 from unittest import result
-from main import searchQueryCLI as query
+from searcher import searchQueryCLI as query
 
 
 qgen = query("")
