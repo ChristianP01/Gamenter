@@ -1,18 +1,50 @@
+from socket import AI_PASSIVE
 from unittest import result
 from searcher import searchQueryCLI as query
 import json
 
 qgen = query(("",""))
 qgen.send(None)
+
+def parse_filter(f, input):
+    l_input = input.split(" ")
+    if l_input[0] == "year":
+        l_command = [l_input[1], l_input[2]]
+        f["year"].append(l_command)
+    if l_input[0] == "mark":
+        l_command = [l_input[1], l_input[2]]
+        f["mark"].append(l_command)
+    if l_input[0] == "genre":
+        for genere in l_input[1:]:
+            f["genre"].append(genere)
+    if l_input[0] == "title":
+        if l_input[1] == "True":
+            f["title"] = True
+        else:
+            f["title"] = False
+    if l_input[0] == "content":
+        if l_input[1] == "True":
+            f["content"] = True
+        else:
+            f["content"] = False
+    #return f
+
 while True:
     q = input("Inserisci ricerca: ")
-    f = input("Inserisci filtro: ")
     f = {
-        "title" : True,
-        "content" : True,
-        "year" : [("<", "2020"), (">", "2000")],
-        "mark" : [("<", "100"), (">", "80")],
+        "title": True,
+        "content": True,
+        "year": [],
+        "mark": [],
+        "genre": []
     }
+    print("Inserire i filtri, per interrompere inserire una stringa vuota")
+    while True:
+        i = input("Inserisci filtro: ")
+        if i == "":
+            break
+        parse_filter(f,i)
+
     #f = json.loads(f)
     print("\n\n\n\n\n\n")
 
