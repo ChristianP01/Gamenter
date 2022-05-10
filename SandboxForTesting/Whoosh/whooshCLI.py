@@ -71,4 +71,5 @@ while True:
 
     sorted_result = sorted(result.items(), key=lambda x: x[1], reverse=True)
     for res in sorted_result[:10]:
-        print(f"{res[0]} con valutazione {res[1]}")
+        #score anno, genere, voto
+        print(f"{res[0]}: uscito nel {res[1][1]} con voto {res[1][3]}. Genere: {res[1][2]} e scoring {res[1][0]}\n\n")
