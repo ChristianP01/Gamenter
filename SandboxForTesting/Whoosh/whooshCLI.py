@@ -67,9 +67,11 @@ while True:
         print(f"{r['title']} con rank {r.score}")
     '''
 
-    print("RICERCA JOINATA TITLE E DESCRIPTION")
-
-    sorted_result = sorted(result.items(), key=lambda x: x[1], reverse=True)
-    for res in sorted_result[:10]:
-        #score anno, genere, voto
-        print(f"{res[0]}: uscito nel {res[1][1]} con voto {res[1][3]}. Genere: {res[1][2]} e scoring {res[1][0]}\n\n")
+    print("Risultati:")
+    try:
+        sorted_result = sorted(result.items(), key=lambda x: x[1], reverse=True)
+        for res in sorted_result[:10]:
+            #score anno, genere, voto
+            print(f"{res[0]}: uscito nel {res[1][1]} con voto {res[1][3]}. Genere: {res[1][2]} e scoring {res[1][0]}\n\n")
+    except:
+        print("Nessun risultato per la query fornita")
