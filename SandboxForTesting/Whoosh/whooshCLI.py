@@ -1,4 +1,3 @@
-from socket import AI_PASSIVE
 from unittest import result
 from searcher import searchQueryCLI as query
 import json
