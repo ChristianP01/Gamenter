@@ -174,6 +174,8 @@ def searchQueryCLI(user_input):
             for filter in user_filter.keys():
                 if filter == "title" or filter == "content":
                     continue
+                if user_filter[filter] == None:
+                        continue
                 elif filter == "year":
                     for year_filter in user_filter[filter]:
                         operation = year_filter[0]
