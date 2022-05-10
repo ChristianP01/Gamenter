@@ -7,10 +7,16 @@ qgen.send(None)
 while True:
     q = input("Inserisci ricerca: ")
     f = input("Inserisci filtro: ")
+    f = {
+        "title" : True,
+        "content" : True,
+        "year" : [("<", "2020"), (">", "2000")],
+        "mark" : [("<", "100"), (">", "80")],
+    }
     #f = json.loads(f)
     print("\n\n\n\n\n\n")
 
-    result = qgen.send((q,None))
+    result = qgen.send((q,f))
     #print(result)
     '''
     print("RICERCA PER TITOLO")

@@ -17,7 +17,7 @@ def filterGenre(termsList, genre):
     results = []
     for t in termsList:
         if termsList[t][2] == genre:
-            results.update(t)
+            results[t] = termsList[t]
     return results
 
 def filterYear(termsList, year, operation):
@@ -28,19 +28,19 @@ def filterYear(termsList, year, operation):
     for t in termsList:
         if operation == "=":
             if termsList[t][1] == year:
-                results.update(t)
+                results[t] = termsList[t]
         elif operation == ">":
             if termsList[t][1] > year:
-                results.update(t)
+                results[t] = termsList[t]
         elif operation == "<":
             if termsList[t][1] < year:
-                results.update(t)
+                results[t] = termsList[t]
         elif operation == ">=":
             if termsList[t][1] >= year:
-                results.update(t)
+                results[t] = termsList[t]
         elif operation == "<=":
             if termsList[t][1] <= year:
-                results.update(t)
+                results[t] = termsList[t]
     return results
 
 def filterMark(termsList, mark, operation):
@@ -51,19 +51,19 @@ def filterMark(termsList, mark, operation):
     for t in termsList:
         if operation == "=":
             if termsList[t][3] == mark:
-                results.update(t)
+                results[t] = termsList[t]
         elif operation == ">":
             if termsList[t][3] > mark:
-                results.update(t)
+                results[t] = termsList[t]
         elif operation == "<":
             if termsList[t][3] < mark:
-                results.update(t)
+                results[t] = termsList[t]
         elif operation == ">=":
             if termsList[t][3] >= mark:
-                results.update(t)
+                results[t] = termsList[t]
         elif operation == "<=":
             if termsList[t][3] <= mark:
-                results.update(t)
+                results[t] = termsList[t]
     return results
 
 
@@ -157,7 +157,7 @@ def searchQueryCLI(user_input):
         results_title = []
         results_content = []
 
-        user_filter = None
+        
         if user_filter != None:
             
             if user_filter["title"]:
