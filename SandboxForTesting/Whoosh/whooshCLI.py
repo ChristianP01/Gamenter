@@ -39,6 +39,13 @@ while True:
         "genre": []
     }
     print("Inserire i filtri, per interrompere inserire una stringa vuota")
+    print("Inserire un filtro alla volta, i possibili filtri sono:")
+    print("year [operation] [year]")
+    print("mark [operation] [year]")
+    print("genre [genre]")
+    print("title [True/False]")
+    print("content [True/False]")
+    print("\n\n\n")
     while True:
         i = input("Inserisci filtro: ")
         if i == "":
