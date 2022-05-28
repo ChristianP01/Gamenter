@@ -143,11 +143,64 @@ border-style: outset;
     <property name="whatsThis">
      <string/>
     </property>
+    <property name="styleSheet">
+     <string notr="true">QComboBox{
+border: 2px solid;
+border-radius: 10px;
+}
+
+
+QComboBox:on {
+    border-bottom-left-radius: 0px;
+    border-bottom-right-radius: 0px;
+}
+
+QComboBox QAbstractItemView {
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    background: white;
+    border: 1px solid gray;
+    box-shadow: transparent;
+    padding: 4px 4px 4px 4px
+}</string>
+    </property>
     <property name="editable">
      <bool>false</bool>
     </property>
     <property name="currentText">
      <string/>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_2">
+    <property name="geometry">
+     <rect>
+      <x>770</x>
+      <y>320</y>
+      <width>74</width>
+      <height>18</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_3">
+    <property name="geometry">
+     <rect>
+      <x>650</x>
+      <y>80</y>
+      <width>201</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>AvantGarde LT Medium</family>
+      <pointsize>14</pointsize>
+     </font>
+    </property>
+    <property name="text">
+     <string>Scegli un genere:</string>
     </property>
    </widget>
   </widget>
