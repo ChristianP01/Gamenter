@@ -223,7 +223,7 @@ def searchByMark(word_list, ix, mark_min=None, mark_max=None):
         print(f"{r['title']}, with value of {r['mark']}")
 
 def searchQuery(gui, user_query):
-
+    user_query = user_query.lower()
     ix = openIndex()
     #Creo oggetto searcher
     with ix.searcher() as searcher:
