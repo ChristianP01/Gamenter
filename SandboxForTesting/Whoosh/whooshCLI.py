@@ -76,7 +76,6 @@ while True:
         parse_filter(f,i)
 
     print("\n\n")
-
     result = qgen.send((q,f))
 
     print("Risultati:")
