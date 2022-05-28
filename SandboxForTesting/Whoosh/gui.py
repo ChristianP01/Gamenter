@@ -21,12 +21,18 @@ class Logic(baseUIWidget, baseUIClass):
         f.close()
 
         self.textBrowser.setOpenExternalLinks(True)
-        # self.textBrowser.setStyleSheet('font-size: 30px;')
-        # self.textBrowser.append('<a href=https://www.google.com>Google</a>')
 
         for genre in genres:
             self.genreList.addItem(genre)
-        
+
+        self.querySyntax.setPlaceholderText("Esempio: \n\n"\
+            "year > 2010 \n"
+            "year < 2020 \n"
+            "mark > 80 \n"
+            "mark <=85 \n"
+            "content True/False (Default, True) \n"
+            "title True/False (Default, True) \n"
+        )
 
         self.searchButton.clicked.connect(lambda: searcher.searchQuery(self, str(self.userQuery.toPlainText())) )
 
