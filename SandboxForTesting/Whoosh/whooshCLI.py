@@ -51,6 +51,10 @@ def parse_filter(f, input):
     else:
         print("Errore nel filtro occhio")
 
+
+
+
+
 while True:
     q = input("Inserisci ricerca: ")
     f = {
