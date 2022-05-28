@@ -1,6 +1,7 @@
 from unittest import result
 from whoosh.query import *
 from indexer import *
+import urllib
 
 def searchTitle(searcher, titleList):
     query = And(titleList)
@@ -239,8 +240,10 @@ def searchQuery(gui, user_query):
 
         query = And(Lcontent) | Or(Ltitle) 
         results = searcher.search(query)
-        gui.resultsText.setPlainText("") #Inizializzo il valore iniziale del box risultati
+        gui.textBrowser.setPlainText("") #Inizializzo il valore iniziale del box risultati
 
         for r in results: #Appende i vari risultati singoli all'interno della lista
-            gui.resultsText.setPlainText(str(gui.resultsText.toPlainText())+str(r['title'])+" "+str(r.score)+"\n")
+            # gui.textBrowser.setPlainText(str(gui.textBrowser.toPlainText())+str(r['title'])+" "+str(r.score)+"\n")
+            
+            gui.textBrowser.append(f"\n<a href=https://en.wikipedia.org/wiki/{urllib.parse.quote(str(r['title']))}> {str(r['title'])} </a>" + f"--> {round(r.score, 2)}")
             Lscores[r['title']]= r.score
