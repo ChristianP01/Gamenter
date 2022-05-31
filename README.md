@@ -55,5 +55,27 @@ Il motore di ricerca Gamenter supporta un proprio query language molto semplice 
 ## implementazione
 Il query language è implementato attraverso un dizionario python, che al suo interno contiene vari valori
 ```python
+f = {
+    "title": True,
+    "content": True,
+    "year": [],
+    "mark": [],
+    "genre": []
+}
+```
+**title** e **content** sono due booleani, di default impostati a True. Questi flag specificano a whoosh se effettuare la ricerca sul titolo, sulla descrizione o su entrambi. **NON** è possibile settarli entrambi a False.
+**Year** e **Mark** sono due liste utilizzate per il filtro sul genere e sull'anno. Per applicare un filtro, è sufficiente appendere ad una di esse un'altra lista nel formato \["OPERATION", "NUMBER"\]. **OPERATION** è l'operazione da eseguire (tra > < >= <= =), mentre **NUMBER** è la valutazione o l'anno con cui opeare. Per esempio, se nella lista year appendo \[>, 2000\] vuol dire che sto cercando i giochi usciti dopo l'anno 2000.
+è possibile appendere un numero infinito di filtri, il programma li applicherà tutti, anche se alcuni filtri potrebbero escluderne altri
+```python
+#Esempio per year
 
+year = [[">", "2000"], ["<", "1990"]] #-> ovviamente l'intersezione tra questi due vincoli è un insieme vuoto, quindi il motore non darà risultati
+
+year = [[">", "1990"], [">", "2000"]] #-> ovviamente il secondo filtro è più stringente, quindi i risultati saranno dati dal filtro più stringente
+```
+**Genre** invece è una semplice lista che contiene, per ogni elemento, il genere su cui filtrare
+```python
+#esempio
+
+genre = ["Action", "Rpg"]
 ```
