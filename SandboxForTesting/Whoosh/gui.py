@@ -3,8 +3,8 @@ from PyQt6 import QtCore, QtGui, QtWidgets
 from whoosh.query import *
 from whoosh.fields import Schema, TEXT
 import sys
-from PyQt5.QtWidgets import QTextBrowser
-from PyQt5.QtGui import QTextCursor
+#from PyQt5.QtWidgets import QTextBrowser
+#from PyQt5.QtGui import QTextCursor
 import os.path
 from whoosh.index import create_in
 import searcher
