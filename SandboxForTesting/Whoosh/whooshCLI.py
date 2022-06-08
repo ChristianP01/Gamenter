@@ -1,55 +1,13 @@
 from unittest import result
 from searcher import searchQueryCLI as query
+import searcher
 import json
 
 qgen = query(("",""))
 qgen.send(None)
 
 
-def check_filter(f):
-    if f[0] not in ["year", "mark", "genre", "title", "content"]:
-        return False
-    if f[0] in ["year", "mark"]:
-        if f[1] not in ["<", ">", "=", ">=" , "<="]:
-            return False
-        try:
-            int(f[2])
-        except ValueError:
-            return False
-    if f[0] in ["title", "content"]:
-        if f[1] not in ["True", "False"]:
-            return False
-    if f[0] == "genre":
-        if len(f) == 1:
-            return False
-            
-    return True 
 
-def parse_filter(f, input):
-    l_input = input.split(" ")
-    if check_filter(l_input):
-        if l_input[0] == "year":
-            l_command = [l_input[1], l_input[2]]
-            f["year"].append(l_command)
-        if l_input[0] == "mark":
-            l_command = [l_input[1], l_input[2]]
-            f["mark"].append(l_command)
-        if l_input[0] == "genre":
-            #NON FUNZIONA SE IL GENERE E' SEPARATO DA DEGLI SPAZI
-            for genere in l_input[1:]:
-                f["genre"].append(genere)
-        if l_input[0] == "title":
-            if l_input[1] == "True":
-                f["title"] = True
-            else:
-                f["title"] = False
-        if l_input[0] == "content":
-            if l_input[1] == "True":
-                f["content"] = True
-            else:
-                f["content"] = False
-    else:
-        print("Errore nel filtro occhio")
 
 
 
@@ -77,7 +35,7 @@ while True:
         i = input("Inserisci filtro: ")
         if i == "":
             break
-        parse_filter(f,i)
+        searcher.parse_filter(f,i)
 
     print("\n\n")
     result = qgen.send((q,f))

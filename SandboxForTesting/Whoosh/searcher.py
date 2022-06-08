@@ -140,9 +140,9 @@ def searchQueryCLI(user_input):
     ix = openIndex()
 
     searcher = ix.searcher()
+    user_query = user_input[0]
+    user_filter = user_input[1]
     while True:
-        user_query = user_input[0]
-        user_filter = user_input[1]
         if user_query == "":
             user_query, user_filter = yield ""
         #Provo a fare una versione che prenda un numero indefinito di parametri
@@ -176,7 +176,7 @@ def searchQueryCLI(user_input):
                 if filter == "title" or filter == "content":
                     continue
                 if user_filter[filter] == None:
-                        continue
+                    continue
                 elif filter == "year":
                     for year_filter in user_filter[filter]:
                         operation = year_filter[0]
@@ -192,7 +192,6 @@ def searchQueryCLI(user_input):
                         unfiltered_results = filterGenre(unfiltered_results, genre)
             
             filtered_result = unfiltered_results
-
             user_query, user_filter = yield filtered_result
         else:
             resultTitle = searchTitle(searcher, Ltitle)
@@ -247,3 +246,48 @@ def searchQuery(gui, user_query):
             
             gui.textBrowser.append(f"\n<a href=https://en.wikipedia.org/wiki/{urllib.parse.quote(str(r['title']))}> {str(r['title'])} </a>" + f"--> {round(r.score, 2)}")
             Lscores[r['title']]= r.score
+
+def check_filter(f):
+    if f[0] not in ["year", "mark", "genre", "title", "content"]:
+        return False
+    if f[0] in ["year", "mark"]:
+        if f[1] not in ["<", ">", "=", ">=" , "<="]:
+            return False
+        try:
+            int(f[2])
+        except ValueError:
+            return False
+    if f[0] in ["title", "content"]:
+        if f[1] not in ["True", "False"]:
+            return False
+    if f[0] == "genre":
+        if len(f) == 1:
+            return False
+            
+    return True 
+
+def parse_filter(f, input):
+    l_input = input.split(" ")
+    if check_filter(l_input):
+        if l_input[0] == "year":
+            l_command = [l_input[1], l_input[2]]
+            f["year"].append(l_command)
+        if l_input[0] == "mark":
+            l_command = [l_input[1], l_input[2]]
+            f["mark"].append(l_command)
+        if l_input[0] == "genre":
+            #NON FUNZIONA SE IL GENERE E' SEPARATO DA DEGLI SPAZI
+            for genere in l_input[1:]:
+                f["genre"].append(genere)
+        if l_input[0] == "title":
+            if l_input[1] == "True":
+                f["title"] = True
+            else:
+                f["title"] = False
+        if l_input[0] == "content":
+            if l_input[1] == "True":
+                f["content"] = True
+            else:
+                f["content"] = False
+    else:
+        print("Errore nel filtro occhio")
