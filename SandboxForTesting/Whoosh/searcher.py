@@ -3,18 +3,42 @@ from whoosh.query import *
 from indexer import *
 import urllib
 
+'''
+                                                #################################################
+                                                #       Blocco di funzioni utilizzato per       #
+                                                #        applicare i filtri alla ricerca        #
+                                                #################################################
+'''
 def searchTitle(searcher, titleList):
+    '''
+    Applica una query booleana "AND" a tutte le keyword in titleList sui titoli dei documenti
+
+    INPUT: il searcher e la lista delle keyword
+    OUTPUT: un set di risultati di whoosh
+    '''
     query = And(titleList)
     results = searcher.search(query, limit=10)
     return results
 
 def searchDescription(searcher, descList):
+    '''
+    Applica una query booleana "AND" a tutte le keyword in descList sulla descrizione dei documenti
+
+    INPUT: il searcher e la lista delle keyword
+    OUTPUT: un set di risultati di whoosh
+    '''
     query = And(descList)
     results = searcher.search(query, limit=10)
     return results
 
 
 def filterGenre(termsList, genre):
+    '''
+    Esclude dai risultati i giochi che non appartengono ad un dato genere (1 o più)
+
+    INPUT: la lista dei "termini" (prodotta da join_result) ed il genere
+    OUTPUT: la nuova lista dei "termini" filtrata
+    '''
     results = []
     for t in termsList:
         if termsList[t][2] == genre:
@@ -24,6 +48,9 @@ def filterGenre(termsList, genre):
 def filterYear(termsList, year, operation):
     """
     Prende in ingresso un set di risultati e fa i controlli sull'anno
+
+    INPUT: la lista dei "termini" (prodotta da join_result), l'anno e l'operazione
+    OUTPUT: la nuova lista dei "termini" filtrata
     """
     results = {}
     for t in termsList:
@@ -47,6 +74,9 @@ def filterYear(termsList, year, operation):
 def filterMark(termsList, mark, operation):
     """
     Prende in ingresso un set di risultati e fa i controlli sul voto
+
+    INPUT: la lista dei "termini" (prodotta da join_result), il voto e l'operazione
+    OUTPUT: la nuova lista dei "termini" filtrata
     """
     results = {}
     for t in termsList:
@@ -68,13 +98,19 @@ def filterMark(termsList, mark, operation):
     return results
 
 
+'''
+                                                    ##################################################
+                                                    #                  Fine blocco                   #
+                                                    ##################################################
+'''
 
 
 def joinResults(*results):
     '''
-    IL PRIMO PARAMETRO DEVE ESSERE LA LISTA DEI TITOLI
-    FORMATO
-    Title : [score, year, genre, mark]
+    Funzione che prende in ingresso l'output di search_title e search_description e li joina.
+
+    Durante la fase di join, i risultati ricavati dal titolo (che DEVONO essere passati per primi) avranno un peso maggiore del 50% rispetto 
+    ai risultati trovati facendo la ricerca sulla descrizione
     '''
 
     final_results = {}
@@ -102,20 +138,62 @@ def joinResults(*results):
 
 
 
+def check_filter(f):
+    '''
+    Funzione che prende in ingresso un filtro-"lista" e controlla che sia corretto sintatticamente
 
-# Utilizza la proximity retrieval per effettuare query all'inverted index
-def proximitySearch(word_list, ix):
-    from whoosh import query
-    from whoosh.query import spans 
-    L = []
-    for word in word_list:
-        L.append(Term("title", word))
-    q = spans.SpanNear2(L, slop=5, ordered=False)
-    results = ix.searcher().search(q) 
-    return results
+    INPUT: Una lista composta da TIPO OPERAZIONE [DATO]
+    OUTPUT: True o False in base alla correttezza sintattica
+    '''
+    if f[0] not in ["year", "mark", "genre", "title", "content"]:
+        return False
+    if f[0] in ["year", "mark"]:
+        if f[1] not in ["<", ">", "=", ">=" , "<="]:
+            return False
+        try:
+            int(f[2])
+        except ValueError:
+            return False
+    if f[0] in ["title", "content"]:
+        if f[1] not in ["True", "False"]:
+            return False
+    if f[0] == "genre":
+        if len(f) == 1:
+            return False
+    return True 
 
 
+def parse_filter(f, input):
+    '''
+    Funzione che prende in ingresso il dizionario dei filtri ed una stringa filtro da parsare
 
+    INPUT: Il dizionario dei filtri base o già riempito con qualcosa e una stringa rappresentante un filtro
+    OUTPUT: Il dizionario dei filtri aggiornato (eventualmente invariato se il filtro non è corretto)
+    '''
+    l_input = input.split(" ")
+    if check_filter(l_input):
+        if l_input[0] == "year":
+            l_command = [l_input[1], l_input[2]]
+            f["year"].append(l_command)
+        if l_input[0] == "mark":
+            l_command = [l_input[1], l_input[2]]
+            f["mark"].append(l_command)
+        if l_input[0] == "genre":
+            #NON FUNZIONA SE IL GENERE E' SEPARATO DA DEGLI SPAZI
+            for genere in l_input[1:]:
+                f["genre"].append(genere)
+        if l_input[0] == "title":
+            if l_input[1] == "True":
+                f["title"] = True
+            else:
+                f["title"] = False
+        if l_input[0] == "content":
+            if l_input[1] == "True":
+                f["content"] = True
+            else:
+                f["content"] = False
+    else:
+        print("Errore nel filtro! Controlla che la sintassi sia corretta")
 
 
 """
@@ -137,20 +215,26 @@ e serve a specificare quali filtri applicare alla query
 """
 
 def searchQueryCLI(user_input):
+    '''
+    Generatore che funge da interfaccia con l'indice ed il searcher di whoosh
+    '''
     ix = openIndex()
-
     searcher = ix.searcher()
+    #user_input è una tupla
     user_query = user_input[0]
     user_filter = user_input[1]
     while True:
+        #Controllo dell'input
         if user_query == "":
             user_query, user_filter = yield ""
-        #Provo a fare una versione che prenda un numero indefinito di parametri
+
         word_list = user_query.split(" ")
         word_list = [w.lower() for w in word_list]
 
         Lcontent = []
         Ltitle = [] 
+
+        #Creo le liste di termini da utilizzare durante la ricerca
         for word in word_list:
             Lcontent.append(Term("content", word))
             Ltitle.append(Term("title", word))
@@ -158,20 +242,22 @@ def searchQueryCLI(user_input):
         results_title = []
         results_content = []
 
-        
+
         if user_filter != None:
-            
+            #Applico la ricerca sul titolo, se specificato dai filtri
             if user_filter["title"]:
                 results_title = searchTitle(searcher, Ltitle)
-            
+            #Applico la ricerca sul contenuto, se specificato dai filtri
             if user_filter["content"]:
                 results_content = searchDescription(searcher, Lcontent)
-            
+            #Se non è specificata alcun tipo di ricerca, sollevo un'eccezione
             if results_content is None and results_title is None:
                 raise Exception("Error: you have to specify at least one field to search on")
 
+            #Creo la lista di risultati pesata e joinata
             unfiltered_results = joinResults(results_title, results_content)
 
+            #Applico i filtri
             for filter in user_filter.keys():
                 if filter == "title" or filter == "content":
                     continue
@@ -198,19 +284,36 @@ def searchQueryCLI(user_input):
             resultDescription = searchDescription(searcher, Lcontent)
             user_query = yield joinResults(resultTitle, resultDescription)
 
+
+
+'''
+                                        #################################################################
+                                        #             Le funzioni qua sotto vengono utilizzate          #
+                                        #                     solamente da gui.py                       #
+                                        #################################################################
+'''
+
+
+# Utilizza la proximity retrieval per effettuare query all'inverted index
+def proximitySearch(word_list, ix):
+    from whoosh import query
+    from whoosh.query import spans 
+    L = []
+    for word in word_list:
+        L.append(Term("title", word))
+    q = spans.SpanNear2(L, slop=5, ordered=False)
+    results = ix.searcher().search(q) 
+    return results
+
 # Ricerca attraverso proximity retrieval con range di voto
 def searchByMark(word_list, ix, mark_min=None, mark_max=None):
-
     marked_games = []
-    
     if mark_min is None:
         mark_min = 0
 
     if mark_max is None:
         mark_max = 100
-
     results_games = proximitySearch(word_list, ix)
-
     for r in results_games:
         try:
             if int(r['mark']) in range(mark_min, mark_max):
@@ -247,47 +350,3 @@ def searchQuery(gui, user_query):
             gui.textBrowser.append(f"\n<a href=https://en.wikipedia.org/wiki/{urllib.parse.quote(str(r['title']))}> {str(r['title'])} </a>" + f"--> {round(r.score, 2)}")
             Lscores[r['title']]= r.score
 
-def check_filter(f):
-    if f[0] not in ["year", "mark", "genre", "title", "content"]:
-        return False
-    if f[0] in ["year", "mark"]:
-        if f[1] not in ["<", ">", "=", ">=" , "<="]:
-            return False
-        try:
-            int(f[2])
-        except ValueError:
-            return False
-    if f[0] in ["title", "content"]:
-        if f[1] not in ["True", "False"]:
-            return False
-    if f[0] == "genre":
-        if len(f) == 1:
-            return False
-            
-    return True 
-
-def parse_filter(f, input):
-    l_input = input.split(" ")
-    if check_filter(l_input):
-        if l_input[0] == "year":
-            l_command = [l_input[1], l_input[2]]
-            f["year"].append(l_command)
-        if l_input[0] == "mark":
-            l_command = [l_input[1], l_input[2]]
-            f["mark"].append(l_command)
-        if l_input[0] == "genre":
-            #NON FUNZIONA SE IL GENERE E' SEPARATO DA DEGLI SPAZI
-            for genere in l_input[1:]:
-                f["genre"].append(genere)
-        if l_input[0] == "title":
-            if l_input[1] == "True":
-                f["title"] = True
-            else:
-                f["title"] = False
-        if l_input[0] == "content":
-            if l_input[1] == "True":
-                f["content"] = True
-            else:
-                f["content"] = False
-    else:
-        print("Errore nel filtro occhio")
