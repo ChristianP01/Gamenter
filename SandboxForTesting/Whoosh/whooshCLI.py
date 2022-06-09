@@ -103,7 +103,7 @@ while True:
     print("Risultati:")
     try:
         sorted_result = sorted(result.items(), key=lambda x: x[1], reverse=True)
-        for res in sorted_result[:10]:
+        for res in sorted_result:
             #score anno, genere, voto
             print(f"{res[0]}: uscito nel {res[1][1]} con voto {res[1][3]}. Genere: {res[1][2]} e scoring {round(res[1][0], 2)}\n")
     except:

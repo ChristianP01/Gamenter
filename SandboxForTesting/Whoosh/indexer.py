@@ -16,11 +16,11 @@ def readDocument(path):
         with open(path, "r") as file:
             content = file.read()
             title : str = content[content.find("Titolo:") + len("Titolo: ") : content.find("\n", content.find("Titolo:"))]
-            description : str = content[content.find("Descrizione:") + len("Descrizione: ") : content.find("\n", content.find("Descrizione:"))]
+            description : str = content[content.find("Descrizione:") + len("Descrizione: ") : content.find("\n\n", content.find("Descrizione:"))]
             mark : str = content[content.find("Valutazione:") + len("Valutazione: ") : content.find("\n", content.find("Valutazione:"))]
             genres : str = content[content.find("Genere:") + len("Genere: ") : content.find("\n", content.find("Genere:"))]
             year : str = content[content.find("Anno:") + len("Anno: ") : content.find("\n", content.find("Anno:"))]
-            
+        
  
             """
             title = stem(title)
@@ -64,7 +64,10 @@ def openIndex():
         
         for f in listdir(PATH_TO_DOCUMENT):
             document = readDocument(PATH_TO_DOCUMENT+"/"+f)
-
+            if "The Legend of Zelda: Skyward Sword HD" in document[0]:
+                print(f"SONO IO, SKYWARD SWORD {document[0]}")
+            if "The Legend of Zelda: Breath of the Wild" in document[0]:
+                print(f"SONO IO, BOTW {document[0]}")
             #Writer accetta stringhe in unicode, ma ho letto che tutte le stringhe in python3 sono in unicode quindi polleg
             writer.add_document(title=document[0], content=document[1], mark = document[2], genres = document[3], year = document[4])
 

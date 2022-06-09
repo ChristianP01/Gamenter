@@ -17,7 +17,7 @@ def searchTitle(searcher, titleList):
     OUTPUT: un set di risultati di whoosh
     '''
     query = And(titleList)
-    results = searcher.search(query, limit=10)
+    results = searcher.search(query)
     return results
 
 def searchDescription(searcher, descList):
@@ -28,7 +28,7 @@ def searchDescription(searcher, descList):
     OUTPUT: un set di risultati di whoosh
     '''
     query = And(descList)
-    results = searcher.search(query, limit=10)
+    results = searcher.search(query)
     return results
 
 
@@ -256,7 +256,6 @@ def searchQueryCLI(user_input):
 
             #Creo la lista di risultati pesata e joinata
             unfiltered_results = joinResults(results_title, results_content)
-
             #Applico i filtri
             for filter in user_filter.keys():
                 if filter == "title" or filter == "content":
