@@ -1,15 +1,24 @@
-\documentclass[12pt]{book}
+\documentclass[12pt]{article}
 \usepackage[T1]{fontenc}
+\usepackage{atbegshi}
+\usepackage{graphicx}
+\usepackage{hyperref}
+\AtBeginDocument{\AtBeginShipoutNext{\AtBeginShipoutDiscard}}
 
 \begin{document} \noindent
-In questo documento verranno documentati 10 $benchmarks$ effettuati sul motore di ricerca $Gamenter$ per valutarne la qualità e correttezza dei risultati.
+\title{\Huge \textbf{Gamenter}}
+\author{\textit{Tedeschini Luca,Preti Christian}}
+\date{2021/22}
+\maketitle \noindent
+In questo documento verranno documentati 10 diversi \textit{benchmarks}, effettuati attraverso motore di ricerca \textit{Gamenter}, al fine di valutarne le peculiarità e la correttezza dei risultati.
 \\ \\
-Ogni benchmark sarà strutturato in questo modo:
+Ogni \textit{benchmark} sarà strutturato in questo modo:
+
 \begin{itemize}
-	\item Query scritta in linguaggio parlato: ogni query verrà prima descritta in linguaggio parlato “.. Vorrei trovare i giochi della saga di The Legend of Zelda con voto maggiore di 90 usciti dopo il 2015…”.
+	\item Query con rappresentazione umana, ad esempio: "Vorrei fare una ricerca per giochi, cercando le keyword \{$kw_1, kw_2, ..., kw_n$\} "
 	
-	\item Traduzione dal linguaggio parlato al query language.
-	
+	\item Traduzione da linguaggio parlato a query language.
+
 	\item Valutazione dei risultati.
 
 \end{itemize}
@@ -17,54 +26,50 @@ Ogni benchmark sarà strutturato in questo modo:
 \noindent La valutazione dei risultati terrà conto di 2 fattori:
 
 \begin{itemize}
-	\item Correttezza del risultato
-	\item Tempo di esecuzione della query
-\end{itemize}
+	\item Correttezza del risultato.
+	\item Tempo di esecuzione della query.
+\end{itemize} 
 
-\noindent A fine documento verrà estratto un resoconto e data una valutazione generale oggettiva sul motore di ricerca.
-\\\\\\
+\noindent Di seguito, verranno illustrati alcuni esempi di query, seguendo la struttura sopra riportata. \\ \\
+\textbf{P.S} In alcuni casi, è possibile che il ranking di alcuni giochi sia pari a 0, questo è dovuto a un mancato voto sul sito \url{https://www.metacritic.com}
+\pagebreak
 
-\paragraph{Query 1} ~ \\ \\
+\paragraph{\LARGE{Query 1}} ~ \\ \\
 
 \noindent \textbf{Keywords: } horizon \\
-\textbf{Filters: } \\
-	\indent \{ \\
- 	\indent \indent content True, \\
- 	\indent \indent mark > 75 \\
- 	\indent \} \\\\\\
+\textbf{Filters: } \{ \\ 
+	\indent content True, \\
+	\indent mark > 75 \\
+\} \\\\
  	
+\noindent \includegraphics[width=100mm]{Immagini/Image1.png} \\
+\textbf{Tempo di esecuzione:} 0.00965s \\
+\textbf{Correttezza:} 100\% \pagebreak
 
-\noindent
+\paragraph{\LARGE{Query 2}} ~ \\ \\
+
+\noindent \textbf{Keywords: } Pokemon \\
+\textbf{Filters: } \{ \\ \\
+\indent year > 2010, \\
+\indent year < 2016 \\
+\} \\\\
+
+\noindent \includegraphics[width=100mm]{Immagini/Image2.png} \\
 \textbf{Tempo di esecuzione:} 0.01911s \\
-\textbf{Correttezza:} 100\%
+\textbf{Correttezza:} 100\% \pagebreak
 
-\paragraph{Query 2} ~ \\ \\
+\paragraph{\LARGE{Query 3}} ~ \\ \\
 
 \noindent \textbf{Keywords: } horizon \\
 \textbf{Filters: } \\
 \indent \{ \\
 \indent \indent content True, \\
 \indent \indent mark > 75 \\
-\indent \} \\\\\\
+\indent \} \\\\
 
 
-\noindent
 \textbf{Tempo di esecuzione:} 0.01911s \\
-\textbf{Correttezza:} 100\%
-
-\paragraph{Query 3} ~ \\ \\
-
-\noindent \textbf{Keywords: } horizon \\
-\textbf{Filters: } \\
-\indent \{ \\
-\indent \indent content True, \\
-\indent \indent mark > 75 \\
-\indent \} \\\\\\
-
-
-\noindent
-\textbf{Tempo di esecuzione:} 0.01911s \\
-\textbf{Correttezza:} 100\%
+\textbf{Correttezza:} 100\% \pagebreak
 
 \paragraph{Query 4} ~ \\ \\
 
@@ -78,7 +83,7 @@ Ogni benchmark sarà strutturato in questo modo:
 
 \noindent
 \textbf{Tempo di esecuzione:} 0.01911s \\
-\textbf{Correttezza:} 100\%
+\textbf{Correttezza:} 100\% \pagebreak
 
 \paragraph{Query 5} ~ \\ \\
 
@@ -92,7 +97,7 @@ Ogni benchmark sarà strutturato in questo modo:
 
 \noindent
 \textbf{Tempo di esecuzione:} 0.01911s \\
-\textbf{Correttezza:} 100\%
+\textbf{Correttezza:} 100\% \pagebreak
 
 \paragraph{Query 6} ~ \\ \\
 
@@ -106,7 +111,7 @@ Ogni benchmark sarà strutturato in questo modo:
 
 \noindent
 \textbf{Tempo di esecuzione:} 0.01911s \\
-\textbf{Correttezza:} 100\%
+\textbf{Correttezza:} 100\% \pagebreak
 
 \paragraph{Query 7} ~ \\ \\
 
@@ -120,7 +125,7 @@ Ogni benchmark sarà strutturato in questo modo:
 
 \noindent
 \textbf{Tempo di esecuzione:} 0.01911s \\
-\textbf{Correttezza:} 100\%
+\textbf{Correttezza:} 100\% \pagebreak
 
 \paragraph{Query 8} ~ \\ \\
 
@@ -134,7 +139,7 @@ Ogni benchmark sarà strutturato in questo modo:
 
 \noindent
 \textbf{Tempo di esecuzione:} 0.01911s \\
-\textbf{Correttezza:} 100\%
+\textbf{Correttezza:} 100\% \pagebreak
 
 \paragraph{Query 9} ~ \\ \\
 
@@ -148,7 +153,7 @@ Ogni benchmark sarà strutturato in questo modo:
 
 \noindent
 \textbf{Tempo di esecuzione:} 0.01911s \\
-\textbf{Correttezza:} 100\%
+\textbf{Correttezza:} 100\% \pagebreak
 
 \paragraph{Query 10} ~ \\ \\
 
@@ -162,7 +167,7 @@ Ogni benchmark sarà strutturato in questo modo:
 
 \noindent
 \textbf{Tempo di esecuzione:} 0.01911s \\
-\textbf{Correttezza:} 100\%
+\textbf{Correttezza:} 100\% \pagebreak
 
 
 \end{document}
