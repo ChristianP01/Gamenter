@@ -1,6 +1,6 @@
 __pycache__
-../../.scannerwork/
-../../sonar-project.properties
+.activate.sh.swp
+./.scannerwork/
 Benchmarks.aux
 Benchmarks.log
 Benchmarks.synctex.gz
