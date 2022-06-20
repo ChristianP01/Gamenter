@@ -13,12 +13,6 @@
 \maketitle \noindent
 In questo documento verranno documentati 10 diversi \textit{benchmarks}, effettuati attraverso motore di ricerca \textit{Gamenter}, al fine di valutarne le peculiarità e la correttezza dei risultati.
 \\ \\
-
-\begin{pyconsole}
-import math
-print(math.sqrt(3))
-\end{pyconsole}
-
 Ogni \textit{benchmark} sarà strutturato in questo modo:
 
 \begin{itemize}
@@ -67,113 +61,98 @@ Ogni \textit{benchmark} sarà strutturato in questo modo:
 
 \paragraph{\LARGE{Query 3}} ~ \\ \\
 
-\noindent \textbf{Keywords: } horizon \\
-\textbf{Filters: } \\
-\indent \{ \\
-\indent \indent content True, \\
-\indent \indent mark > 75 \\
-\indent \} \\\\
+\noindent \textbf{Keywords: } super mario \\
+\textbf{Filters: } \{ \\ \\
+\indent year < 2020, \\
+\indent year > 2013 \\
+\indent content False \\
+\} \\\\
 
-
-\textbf{Tempo di esecuzione:} 0.01911s \\
+\noindent \includegraphics[width=100mm]{Immagini/Image3.png} \\
+\textbf{Tempo di esecuzione:} 0.052491 \\
 \textbf{Correttezza:} 100\% \pagebreak
 
 \paragraph{Query 4} ~ \\ \\
 
 \noindent \textbf{Keywords: } horizon \\
-\textbf{Filters: } \\
-\indent \{ \\
-\indent \indent content True, \\
-\indent \indent mark > 75 \\
-\indent \} \\\\\\
+\textbf{Filters: } \{ \\ \\
+\indent content True, \\
+\indent mark > 75 \\
+\} \\\\
 
-
-\noindent
-\textbf{Tempo di esecuzione:} 0.01911s \\
+\noindent \includegraphics[width=100mm]{Immagini/Image4.png} \\
+\textbf{Tempo di esecuzione:} 0.009652 \\
 \textbf{Correttezza:} 100\% \pagebreak
 
 \paragraph{Query 5} ~ \\ \\
 
-\noindent \textbf{Keywords: } horizon \\
-\textbf{Filters: } \\
-\indent \{ \\
-\indent \indent content True, \\
-\indent \indent mark > 75 \\
-\indent \} \\\\\\
+\noindent \textbf{Keywords: } grand theft auto \\
+\textbf{Filters: } \{ \\ \\
+\indent mark > 80 \\
+\} \\\\
 
-
-\noindent
-\textbf{Tempo di esecuzione:} 0.01911s \\
+\noindent \includegraphics[width=100mm]{Immagini/Image5.png} \\
+\textbf{Tempo di esecuzione:} 0.0077886 \\
 \textbf{Correttezza:} 100\% \pagebreak
 
 \paragraph{Query 6} ~ \\ \\
 
-\noindent \textbf{Keywords: } horizon \\
-\textbf{Filters: } \\
-\indent \{ \\
-\indent \indent content True, \\
-\indent \indent mark > 75 \\
-\indent \} \\\\\\
+\noindent \textbf{Keywords: } Pokemon \\
+\textbf{Filters: } \{ \\ \\
+\indent year > 2010, \\
+\indent year < 2016 \\
+\} \\\\
 
-
-\noindent
+\noindent \includegraphics[width=100mm]{Immagini/Image6.png} \\
 \textbf{Tempo di esecuzione:} 0.01911s \\
 \textbf{Correttezza:} 100\% \pagebreak
 
 \paragraph{Query 7} ~ \\ \\
 
-\noindent \textbf{Keywords: } horizon \\
-\textbf{Filters: } \\
-\indent \{ \\
-\indent \indent content True, \\
-\indent \indent mark > 75 \\
-\indent \} \\\\\\
+\noindent \textbf{Keywords: } legends \\
+\textbf{Filters: } \{ \\ \\
+\indent content False, \\
+\indent mark > 70 \\
+\} \\\\
 
-
-\noindent
-\textbf{Tempo di esecuzione:} 0.01911s \\
+\noindent \includegraphics[width=100mm]{Immagini/Image7.png} \\
+\textbf{Tempo di esecuzione:} 0.010648 \\
 \textbf{Correttezza:} 100\% \pagebreak
 
 \paragraph{Query 8} ~ \\ \\
 
-\noindent \textbf{Keywords: } horizon \\
-\textbf{Filters: } \\
-\indent \{ \\
-\indent \indent content True, \\
-\indent \indent mark > 75 \\
-\indent \} \\\\\\
+\noindent \textbf{Keywords: } god war \\
+\textbf{Filters: } \{ \\ \\
+\indent year > 2000 \\
+\} \\\\
 
-
-\noindent
-\textbf{Tempo di esecuzione:} 0.01911s \\
+\noindent \includegraphics[width=100mm]{Immagini/Image8.png} \\
+\textbf{Tempo di esecuzione:} 0.023214 \\
 \textbf{Correttezza:} 100\% \pagebreak
 
 \paragraph{Query 9} ~ \\ \\
 
-\noindent \textbf{Keywords: } horizon \\
-\textbf{Filters: } \\
-\indent \{ \\
-\indent \indent content True, \\
-\indent \indent mark > 75 \\
-\indent \} \\\\\\
+\noindent \textbf{Keywords: } fifa \\
+\textbf{Filters: } \{ \\ \\
+\indent mark > 40, \\
+\indent year > 2010, \\
+\indent year < 2021 \\
+\} \\\\
 
-
-\noindent
-\textbf{Tempo di esecuzione:} 0.01911s \\
+\noindent \includegraphics[width=100mm]{Immagini/Image9.png} \\
+\textbf{Tempo di esecuzione:} 0.003395 \\
 \textbf{Correttezza:} 100\% \pagebreak
 
 \paragraph{Query 10} ~ \\ \\
 
-\noindent \textbf{Keywords: } horizon \\
-\textbf{Filters: } \\
-\indent \{ \\
-\indent \indent content True, \\
-\indent \indent mark > 75 \\
-\indent \} \\\\\\
+\noindent \textbf{Keywords: } call duty \\
+\textbf{Filters: } \{ \\ \\
+\indent mark < 80, \\
+\indent title True \\
+\} \\\\
 
-
-\noindent
-\textbf{Tempo di esecuzione:} 0.01911s \\
+\noindent \includegraphics[width=100mm]{Immagini/Image10.png} \\
+\textbf{Tempo di esecuzione:} 0.037382 \\
 \textbf{Correttezza:} 100\% \pagebreak
 
 
