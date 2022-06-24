@@ -21,6 +21,7 @@ class Logic(baseUIWidget, baseUIClass):
         super(Logic, self).__init__(parent)
         self.setupUi(self)
         self.genreList.setPlaceholderText(" ")
+        self.searchButton.setIcon(QtGui.QIcon('images/search.jpg'))
         f = open("generi_meglio2.txt", "r")
         genres = f.readlines()
         f.close()
@@ -63,7 +64,7 @@ class Logic(baseUIWidget, baseUIClass):
         for r in sorted_result: #Appende i vari risultati singoli all'interno della lista
             # gui.textBrowser.setPlainText(str(gui.textBrowser.toPlainText())+str(r['title'])+" "+str(r.score)+"\n")
             
-            self.textBrowser.append(f"\n<a href=https://en.wikipedia.org/wiki/{urllib.parse.quote(r[0])}> {str(r[0])} </a>" + f"--> {round(float(r[1][0]), 2)}")
+            self.textBrowser.append(f"\n<a href=https://en.wikipedia.org/wiki/{urllib.parse.quote(r[0])}> {str(r[0])} </a>" + f", con score {round(float(r[1][0]), 2)}, con valutazione {str(r[1][3])}, uscito nel {str(r[1][1])} e avente genere {str(r[1][2])}")
             Lscores[r[0]]= r[1][0]
 
         

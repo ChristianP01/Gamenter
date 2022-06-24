@@ -8,7 +8,7 @@
 
 \begin{document} \noindent
 \title{\Huge \textbf{Gamenter}}
-\author{\textit{Tedeschini Luca,Preti Christian}}
+\author{\textit{Tedeschini Luca, Preti Christian}}
 \date{2021/22}
 \maketitle \noindent
 In questo documento verranno documentati 10 diversi \textit{benchmarks}, effettuati attraverso motore di ricerca \textit{Gamenter}, al fine di valutarne le peculiarità e la correttezza dei risultati.
@@ -41,11 +41,11 @@ Ogni \textit{benchmark} sarà strutturato in questo modo:
 \textbf{Filters: } \{ \\ 
 	\indent content True, \\
 	\indent mark > 75 \\
-\} \\\\
+\}
  	
 \noindent \includegraphics[width=100mm]{Immagini/Image1.png} \\
 \textbf{Tempo di esecuzione:} 0.00965s \\
-\textbf{Correttezza:} 100\% \pagebreak
+\pagebreak
 
 \paragraph{\LARGE{Query 2}} ~ \\ \\
 
@@ -57,7 +57,7 @@ Ogni \textit{benchmark} sarà strutturato in questo modo:
 
 \noindent \includegraphics[width=100mm]{Immagini/Image2.png} \\
 \textbf{Tempo di esecuzione:} 0.01911s \\
-\textbf{Correttezza:} 100\% \pagebreak
+\pagebreak
 
 \paragraph{\LARGE{Query 3}} ~ \\ \\
 
@@ -70,19 +70,20 @@ Ogni \textit{benchmark} sarà strutturato in questo modo:
 
 \noindent \includegraphics[width=100mm]{Immagini/Image3.png} \\
 \textbf{Tempo di esecuzione:} 0.052491 \\
-\textbf{Correttezza:} 100\% \pagebreak
+\pagebreak
 
 \paragraph{Query 4} ~ \\ \\
 
-\noindent \textbf{Keywords: } horizon \\
+\noindent \textbf{Keywords: } Sniper \\
 \textbf{Filters: } \{ \\ \\
-\indent content True, \\
-\indent mark > 75 \\
+\indent content False, \\
+\indent mark > 64, \\
+\indent genre = "Shooting" \\
 \} \\\\
 
 \noindent \includegraphics[width=100mm]{Immagini/Image4.png} \\
 \textbf{Tempo di esecuzione:} 0.009652 \\
-\textbf{Correttezza:} 100\% \pagebreak
+\pagebreak
 
 \paragraph{Query 5} ~ \\ \\
 
@@ -93,19 +94,22 @@ Ogni \textit{benchmark} sarà strutturato in questo modo:
 
 \noindent \includegraphics[width=100mm]{Immagini/Image5.png} \\
 \textbf{Tempo di esecuzione:} 0.0077886 \\
-\textbf{Correttezza:} 100\% \pagebreak
+\pagebreak
 
 \paragraph{Query 6} ~ \\ \\
 
-\noindent \textbf{Keywords: } Pokemon \\
+\noindent \textbf{Keywords: } Cooking \\
 \textbf{Filters: } \{ \\ \\
-\indent year > 2010, \\
-\indent year < 2016 \\
+\indent mark > 50, \\
+\indent mark < 86, \\
+\indent title True, \\
+\indent content False, \\
+\indent genre = "Cooking"\\
 \} \\\\
 
 \noindent \includegraphics[width=100mm]{Immagini/Image6.png} \\
 \textbf{Tempo di esecuzione:} 0.01911s \\
-\textbf{Correttezza:} 100\% \pagebreak
+\pagebreak
 
 \paragraph{Query 7} ~ \\ \\
 
@@ -117,18 +121,19 @@ Ogni \textit{benchmark} sarà strutturato in questo modo:
 
 \noindent \includegraphics[width=100mm]{Immagini/Image7.png} \\
 \textbf{Tempo di esecuzione:} 0.010648 \\
-\textbf{Correttezza:} 100\% \pagebreak
+\pagebreak
 
 \paragraph{Query 8} ~ \\ \\
 
 \noindent \textbf{Keywords: } god war \\
 \textbf{Filters: } \{ \\ \\
-\indent year > 2000 \\
+\indent year > 2000, \\
+\indent genre = "Action/Adventure" \\
 \} \\\\
 
 \noindent \includegraphics[width=100mm]{Immagini/Image8.png} \\
 \textbf{Tempo di esecuzione:} 0.023214 \\
-\textbf{Correttezza:} 100\% \pagebreak
+\pagebreak
 
 \paragraph{Query 9} ~ \\ \\
 
@@ -141,7 +146,7 @@ Ogni \textit{benchmark} sarà strutturato in questo modo:
 
 \noindent \includegraphics[width=100mm]{Immagini/Image9.png} \\
 \textbf{Tempo di esecuzione:} 0.003395 \\
-\textbf{Correttezza:} 100\% \pagebreak
+\pagebreak
 
 \paragraph{Query 10} ~ \\ \\
 
@@ -153,7 +158,7 @@ Ogni \textit{benchmark} sarà strutturato in questo modo:
 
 \noindent \includegraphics[width=100mm]{Immagini/Image10.png} \\
 \textbf{Tempo di esecuzione:} 0.037382 \\
-\textbf{Correttezza:} 100\% \pagebreak
+\pagebreak
 
 
 \end{document}
